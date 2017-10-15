@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:0  tvg-logo="https://i.imgur.com/iVYuhKv.jpg" group-title="FILMES LANÇAMENTOS", EMOJI: O FILME - DUB - HD
+http://assistir.querofilmehd.com/filmes/Emoji.O.Filme.2017.1080p.HDRip.x264.AC3.Line.DUAL-SynysteR.mp4?STANIPTV
+
+
+#EXTINF:0  tvg-logo="https://i.imgur.com/HtKyqvc.jpg" group-title="FILMES LANÇAMENTOS", AMITYVILLE: O DESPERTAR - DUB - HD
+http://assistir.querofilmehd.com/filmes/Amityville.O.Despertar.2017.1080p.HDRip.x264.AC3.Line.DUAL-SynysteR.mp4?STANIPTV
+#EXTINF:0  tvg-logo="https://i.imgur.com/HtKyqvc.jpg" group-title="FILMES LANÇAMENTOS", AMITYVILLE: O DESPERTAR - LEG - HD 
+http://assistir.querofilmehd.com/filmes/Amityville.The.Awakening.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4?STANIPTV
 
 #EXTINF:0 tvg-logo="http://topdezfilmes.org/wp-content/uploads/2017/10/A-Torre-Negra.jpg" group-title="FILMES LANÇAMENTOS",A TORRE NEGRA - DUB - HD 
 http://assistir.querofilmehd.com/filmes/A.Torre.Negra.2017.1080p.HDRip.x264.AC3.Line.DUAL-SynysteR.mp4?STANIPTV
