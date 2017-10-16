@@ -391,9 +391,9 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/CHEFINHO2017DUB-ALTO.mp4?STANIPTV
  
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YgV8oIN.jpg" group-title="FILMES LANCAMENTOS",T2 Trainspotting - DUB - SD
-http://zeus.netcine.tv/filmes2017/T22017DUB-ALTO.mp4?STANIPTV
+http://zeus.netcine.tv/httpdelivery/filmes2017/T22017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YgV8oIN.jpg" group-title="FILMES LANCAMENTOS",T2 Trainspotting - DUB - HD
-http://zeus.netcine.tv/filmes2017/T22017DUB-ALTO.mp4?STANIPTV
+http://zeus.netcine.tv/httpdelivery/filmes2017/T22017DUB-ALTO.mp4
  
 #EXTINF:0 tvg-logo="http://i.imgur.com/ner7kaI.jpg" group-title="FILMES LANCAMENTOS", T2 Trainspotting - LEG - SD
 http://zeus.netcine.tv/httpdelivery/filmes2017/T22017LEG-BAIXO.mp4
