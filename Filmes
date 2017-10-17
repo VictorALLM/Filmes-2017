@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2RQNuCQ.png" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - DUB - HD
+#EXTINF:-1 tvg-logo="http://d26lpennugtm8s.cloudfront.net/stores/290/058/products/011-cb257c1082360043af14949494372595-640-0.jpg" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - DUB - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/PDMAG-ALTO.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2RQNuCQ.png" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - LEG - HD
+#EXTINF:-1 tvg-logo="http://d26lpennugtm8s.cloudfront.net/stores/290/058/products/011-cb257c1082360043af14949494372595-640-0.jpg" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - LEG - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/PLANETADOSMACACOS-ALTO.mp4?STANIPT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ba73BuP.jpg" group-title="FILMES LANÇAMENTOS", O FILME DA MINHA VIDA - DUB - HD
