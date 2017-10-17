@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/2RQNuCQ.png" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - DUB - HD
+http://zeus.netcine.tv/httpdelivery/filmes2017/PDMAG-ALTO.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://i.imgur.com/2RQNuCQ.png" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - LEG - HD
+http://zeus.netcine.tv/httpdelivery/filmes2017/PLANETADOSMACACOS-ALTO.mp4?STANIPT
+
 #EXTINF:0  tvg-logo="https://i.imgur.com/ba73BuP.jpg" group-title="FILMES LANÇAMENTOS", O FILME DA MINHA VIDA - DUB - HD
 http://assistir.querofilmehd.com/filmes/O.Filme.da.Minha.Vida.2017.720p.WEBRip.x264.AC3.NACIONAL-SynysteR.mp4?STANIPTV
 
@@ -26,12 +31,6 @@ http://assistir.querofilmehd.com/filmes/A.Torre.Negra.2017.1080p.HDRip.x264.AC3.
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg",IT: A COISA - DUB - SD
 http://assistir.querofilmehd.com/filmes/IT.mp4
-
-#EXTINF:1 tvg-id="" tvg-logo="http://br.web.img3.acsta.net/pictures/17/03/31/09/30/312554.jpg",PLANETA DOS MACACOS: A GUERRA - DUB - SD
-http://1fiag5s.oloadcdn.net/dl/l/7jUcHxIhSB8wZtY9/Nvm2y3n0LjI/Planeta+dos+Macacos+A+Guerra.2017.HD-TS.XViD.DUBLADO-RLS.avi.mp4
-
-#EXTINF:1 tvg-id="" tvg-logo="http://br.web.img3.acsta.net/pictures/17/03/31/09/30/312554.jpg",PLANETA DOS MACACOS: A GUERRA - LEG - HD
-http://zeus.netcine.tv/httpdelivery/filmes2017/PLANETADOSMACACOS-ALTO.mp4?STANIPTV
 
 #EXTINF:1 tvg-id="" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_12192_risco.jpg",SEGURANCA EM RISCO - DUB - HD
 http://assistir.querofilmehd.com/filmes/Seguranca.em.Risco.2017.720p.BluRay.x264.iFT.DUAL-SynysteR.mp4
@@ -3946,7 +3945,4 @@ http://archive.org/download/OSegredoDoCapitaoOHara1968Leg/O%20Segredo%20do%20Cap
 #EXTINF:-1 tvg-logo="http://www.cineplayers.com/img/cartazes/3930_poster.jpg" group-title="FILMES LEGENDADOS",Pérfida (1941)
 http://archive.org/download/Perfida_1941_Leg/Perfida_1941_Leg.mp4?STANIPTV
 #EXTINF:-1 tvg-logo="http://mlb-s2-p.mlstatic.com/14199-MLB4467411423_062013-O.jpg" group-title="FILMES LEGENDADOS",PigmaliAo (1938)
-http://archive.org/download/Pigmalio1938Leg/Pigmali%C3%A3o%201938%20Leg.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://filmescult.com.br/wp-content/uploads/2016/01/Pickpocket-O-Batedor-De-Carteiras-1959.jpg" group-title="FILMES LEGENDADOS",O Batedor De Carteiras (1959)
-http://archive.org/download/O_Batedor_De_Carteiras_1959_Leg/O_Batedor_De_Carteiras_1959_Leg.mp4?STANIPTV
-#EXTINF:-1 tvg-logo="http://www.cineplayers.com/img/cartazes/12285_poster.jpg" group-title="FILMES LEGENDADOS",O BarAo Aventureiro (19
+http://archive.org/download/Pigmalio1938Leg
