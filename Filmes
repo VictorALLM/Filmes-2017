@@ -1,32 +1,32 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/2RQNuCQ.png" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - DUB - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RQNuCQ.png" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - DUB - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/PDMAG-ALTO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://i.imgur.com/2RQNuCQ.png" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - LEG - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RQNuCQ.png" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - LEG - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/PLANETADOSMACACOS-ALTO.mp4?STANIPT
 
-#EXTINF:0  tvg-logo="https://i.imgur.com/ba73BuP.jpg" group-title="FILMES LANÇAMENTOS", O FILME DA MINHA VIDA - DUB - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ba73BuP.jpg" group-title="FILMES LANÇAMENTOS", O FILME DA MINHA VIDA - DUB - HD
 http://assistir.querofilmehd.com/filmes/O.Filme.da.Minha.Vida.2017.720p.WEBRip.x264.AC3.NACIONAL-SynysteR.mp4?STANIPTV
 
-#EXTINF:0  tvg-logo="https://i.imgur.com/GxRkFGE.jpg" group-title="FILMES LANÇAMENTOS", WALKING OUT - LEG - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GxRkFGE.jpg" group-title="FILMES LANÇAMENTOS", WALKING OUT - LEG - HD
 http://assistir.querofilmehd.com/filmes/Walking.Out.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4?STANIPTV
 
-#EXTINF:0  tvg-logo="https://i.imgur.com/iVYuhKv.jpg" group-title="FILMES LANÇAMENTOS", EMOJI: O FILME - DUB - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iVYuhKv.jpg" group-title="FILMES LANÇAMENTOS", EMOJI: O FILME - DUB - HD
 http://assistir.querofilmehd.com/filmes/Emoji.O.Filme.2017.1080p.HDRip.x264.AC3.Line.DUAL-SynysteR.mp4?STANIPTV
 
 
-#EXTINF:0  tvg-logo="https://i.imgur.com/HtKyqvc.jpg" group-title="FILMES LANÇAMENTOS", AMITYVILLE: O DESPERTAR - DUB - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HtKyqvc.jpg" group-title="FILMES LANÇAMENTOS", AMITYVILLE: O DESPERTAR - DUB - HD
 http://assistir.querofilmehd.com/filmes/Amityville.O.Despertar.2017.1080p.HDRip.x264.AC3.Line.DUAL-SynysteR.mp4?STANIPTV
-#EXTINF:0  tvg-logo="https://i.imgur.com/HtKyqvc.jpg" group-title="FILMES LANÇAMENTOS", AMITYVILLE: O DESPERTAR - LEG - HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HtKyqvc.jpg" group-title="FILMES LANÇAMENTOS", AMITYVILLE: O DESPERTAR - LEG - HD 
 http://assistir.querofilmehd.com/filmes/Amityville.The.Awakening.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4?STANIPTV
 
-#EXTINF:0  tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/06/30/09/59/250171.jpg",SHARKNADO 5: VORACIDADE GLOBAL - DUB - FULL HD
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/06/30/09/59/250171.jpg",SHARKNADO 5: VORACIDADE GLOBAL - DUB - FULL HD
 http://assistir.querofilmehd.com/filmes/Sharknado.5-Voracidade.Global.2017.2A.1080p.BluRay.x264-RUSTED-ABS.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/04/19/21/08/577190.jpg" group-title="FILMES LANÇAMENTOS",CORRA! - DUB - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/CORRADUB-ALTO.mp4
 
-#EXTINF:0 tvg-logo="http://topdezfilmes.org/wp-content/uploads/2017/10/A-Torre-Negra.jpg" group-title="FILMES LANÇAMENTOS",A TORRE NEGRA - DUB - HD 
+#EXTINF:-1 tvg-logo="http://topdezfilmes.org/wp-content/uploads/2017/10/A-Torre-Negra.jpg" group-title="FILMES LANÇAMENTOS",A TORRE NEGRA - DUB - HD 
 http://assistir.querofilmehd.com/filmes/A.Torre.Negra.2017.1080p.HDRip.x264.AC3.Line.DUAL-SynysteR.mp4?STANIPTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg",IT: A COISA - DUB - SD
@@ -55,14 +55,14 @@ http://staniptv.com/oldcobleg
 #EXTINF:1 tvg-id="" tvg-logo="http://i.imgur.com/qcRJkNI.jpg",AMOR.COM - 2017 - DUB
 http://ia601504.us.archive.org/32/items/luaAmor/luaAmor.MP4?STANIPTV
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/KTLJaxC.png" group-title="FILMES LANCAMENTOS",CAMPO MINADO - DUB - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KTLJaxC.png" group-title="FILMES LANCAMENTOS",CAMPO MINADO - DUB - HD
 http://assistir.querofilmehd.com/filmes/Mine.2016.1080p.BluRay.x264.DTS-FGT%20.Dual-floyd.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://i.imgur.com/Ns3keE5.png" group-title="FILMES LANCAMENTOS",CAMPO MINADO - LEG - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ns3keE5.png" group-title="FILMES LANCAMENTOS",CAMPO MINADO - LEG - HD
 http://assistir.querofilmehd.com/filmes/Mine.2016.1080p.BluRay.x264.DTS-FGT%20.Dual-floyd(1).mp4?STANIPTV
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/A0ccFXc.png" group-title="FILMES LANCAMENTOS",O MAGO DAS MENTIRAS - DUB - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A0ccFXc.png" group-title="FILMES LANCAMENTOS",O MAGO DAS MENTIRAS - DUB - HD
 http://assistir.querofilmehd.com/filmes/The.Wizard.of.Lies.2017.720p.BluRay.x264-ROVERS.DUAL-ARW.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://i.imgur.com/T9jvcKa.png" group-title="FILMES LANCAMENTOS",O MAGO DAS MENTIRAS - LEG - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T9jvcKa.png" group-title="FILMES LANCAMENTOS",O MAGO DAS MENTIRAS - LEG - HD
 http://assistir.querofilmehd.com/filmes/The.Wizard.of.Lies.2017.720p.BluRay.x264-ROVERS.DUAL-ARW(1).mp4?STANIPTV
 
 #EXTINF:1 tvg-id="" tvg-logo="http://www.cinemundo.pt/wp-content/uploads/2016/04/CEM-ANOS-DE-PERDAO_web.jpg",CEM ANOS DE PERDAO - DUB - HD
@@ -71,28 +71,28 @@ http://1fhjluc.oloadcdn.net/dl/l/8wt20cZfbidlZGk_/q31J_vMhPJk/Cem+Anos+de+Perd%C
 #EXTINF:1 tvg-id="" tvg-logo="https://www.tuxboard.com/photos/2016/12/raid-dingue-affiche.jpg",UMA AGENTE MUITO LOUCA - DUB - HD
 http://17wy0qy.oloadcdn.net/dl/l/1oMlupICVsd_kueh/rSQBfIkUQPc/UMA+AGENTE+MUITO+LOUCA+%E2%80%93+DUBLADO
 
-#EXTINF:0 tvg-logo="http://www.ftp-silver.com.br/wp-content/uploads/IC_Uma-Hist%C3%B3ria-de-Vinga%C3%A7a.png" group-title="FILMES LANCAMENTOS",UMA HISTORIA DE VINGANCA - DUB - HD
+#EXTINF:-1 tvg-logo="http://www.ftp-silver.com.br/wp-content/uploads/IC_Uma-Hist%C3%B3ria-de-Vinga%C3%A7a.png" group-title="FILMES LANCAMENTOS",UMA HISTORIA DE VINGANCA - DUB - HD
 http://assistir.querofilmehd.com/dbz-super/Uma.Hist%C3%B3ria.de.Vingan%C3%A7a.2017.720p.BluRay.x264-ROVERS-DUAL-GuiVGA.mp4?STANIPTV
- #EXTINF:0 tvg-logo="http://www.ftp-silver.com.br/wp-content/uploads/IC_Uma-Hist%C3%B3ria-de-Vinga%C3%A7a.png" group-title="FILMES LANCAMENTOS",UMA HISTORIA DE VINGANCA - LEG - HD
+ #EXTINF:-1 tvg-logo="http://www.ftp-silver.com.br/wp-content/uploads/IC_Uma-Hist%C3%B3ria-de-Vinga%C3%A7a.png" group-title="FILMES LANCAMENTOS",UMA HISTORIA DE VINGANCA - LEG - HD
 http://assistir.querofilmehd.com/dbz-super/Uma.Hist%C3%B3ria.de.Vingan%C3%A7a.2017.720p.BluRay.x264-ROVERS-DUAL-GuiVGA(1).mp4?STANIPTV
  
-#EXTINF:0 tvg-logo="https://i.imgur.com/ivn04Rs.png" group-title="FILMES LANCAMENTOS",O CULTO DE CHUCKY - DUB - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ivn04Rs.png" group-title="FILMES LANCAMENTOS",O CULTO DE CHUCKY - DUB - HD
 http://bael-tree.fruithosted.net/dl/n/wTiOgJD_k0rh65px/eokrcaaaksfnetos/yUgYvIUioBH2WJgsVDuIvwAtix7FP1_u5jmIcdERzafHpHMV12uzo-P5JIgnwbUBg3XQp2e2zx_TyAQcY6S3JIMttlz92wn95nQW7BuNq74KXWlPYYy5u9WdBNVBN204zezCaIcdpp2mramdyJl_TQRJypGDAd9kvmA6qWRw6AgWinOhyGxx7p_GM3-dW1HOD7QGJN46DuiWgOMz5NEF5Qjfuw2Rwn1AORLMkxvGDU1LmX0KKcTaPFK2NlFTDFBW9kCrFZvFNIl1SplBN5SHqAHwWVpqlvc-akzKW1nl5QTKRbuey6cES_24n3obtTZtWgJIt4C_Ao_8idEhzB9CVci3hFjUvFlWpfng3Fv3YkI9Lx9zf_yob57cv5WyfiruUxue_GQSZoObGlVTiHHV0Vy1CjRwN3WsxA6SLHNup5eFKIoRsvpVy5Fi28s3E7Ec/O+Culto+de+Chucky+2017+%28Dublado%29.mp4
-#EXTINF:0 tvg-logo="https://i.imgur.com/ivn04Rs.png" group-title="FILMES LANCAMENTOS",O CULTO DE CHUCKY - LEG - FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ivn04Rs.png" group-title="FILMES LANCAMENTOS",O CULTO DE CHUCKY - LEG - FULL HD
 http://assistir.querofilmehd.com/filmes/Cult.of.Chucky.2017.UNRATED.1080p.BluRay.x264-ROVERS.mp4?STANIPTV
  
  
-#EXTINF:0 tvg-logo="https://i.imgur.com/xu5VBop.png" group-title="FILMES LANCAMENTOS",A GHOST STORY - LEG - FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu5VBop.png" group-title="FILMES LANCAMENTOS",A GHOST STORY - LEG - FULL HD
 http://assistir.querofilmehd.com/filmes/a.ghost.story.2017.limited.720p.bluray.x264-drones.mp4?STANIPTV
  
  
-#EXTINF:0 tvg-logo="https://i.imgur.com/bHKYdoO.png" group-title="FILMES LANCAMENTOS",ATOMICA - LEG - FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHKYdoO.png" group-title="FILMES LANCAMENTOS",ATOMICA - LEG - FULL HD
 http://assistir.querofilmehd.com/filmes/Atomica.2017.1080p.BluRay.x264-ROVERS.mp4?STANIPTV
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/cRgeD2n.jpg" group-title="FILMES LANCAMENTOS",MEU MALVADO FAVORITO 3 - DUB - SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cRgeD2n.jpg" group-title="FILMES LANCAMENTOS",MEU MALVADO FAVORITO 3 - DUB - SD
 http://zeus.netcine.tv/httpdelivery/filmes2017/MMFDUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/cRgeD2n.jpg" group-title="FILMES LANCAMENTOS",MEU MALVADO FAVORITO 3 - DUB - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cRgeD2n.jpg" group-title="FILMES LANCAMENTOS",MEU MALVADO FAVORITO 3 - DUB - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/MMFDUB-ALTO.mp4?STANIPTV
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kejOrqW.jpg" group-title="FILMES LANCAMENTOS" ,HOMEM ARANHA DE VOLTA AO LAR - DUB - FULL HD
@@ -104,33 +104,33 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/ARANHAHOMEMLEG-BAIXO.mp4?STANIPTV
 http://zeus.netcine.tv/httpdelivery/filmes2017/ARANHAHOMEMLEG-ALTO.mp4?STANIPTV
  
  
-#EXTINF:0 tvg-logo="http://telecineon.com.br/arquivo/filme/dc43022de0497e0b6bb61a7b8b092184.jpg" group-title="FILMES LANCAMENTOS",VIAGEM DAS LOUCAS - LEG - FULL HD
+#EXTINF:-1 tvg-logo="http://telecineon.com.br/arquivo/filme/dc43022de0497e0b6bb61a7b8b092184.jpg" group-title="FILMES LANCAMENTOS",VIAGEM DAS LOUCAS - LEG - FULL HD
 http://assistir.querofilmehd.com/filmes/Viagem.das.Loucas.2017.1080p.BluRay.x264-GECKOS.DUAL-LAPUMiA(1).mp4
  
-#EXTINF:0 tvg-logo="http://telecineon.com.br/arquivo/filme/dc43022de0497e0b6bb61a7b8b092184.jpg" group-title="FILMES LANCAMENTOS",VIAGEM DAS LOUCAS - DUB - FULL HD
+#EXTINF:-1 tvg-logo="http://telecineon.com.br/arquivo/filme/dc43022de0497e0b6bb61a7b8b092184.jpg" group-title="FILMES LANCAMENTOS",VIAGEM DAS LOUCAS - DUB - FULL HD
 http://assistir.querofilmehd.com/filmes/Viagem.das.Loucas.2017.1080p.BluRay.x264-GECKOS.DUAL-LAPUMiA.mp4
  
  
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7J-_v2K42VaUJEz5Ho9GC3ULvQWf4oXuMPK9XiLJrqbeMooR6" group-title="FILMES LANCAMENTOS",AMORES CANIBAIS - DUB - FULL HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7J-_v2K42VaUJEz5Ho9GC3ULvQWf4oXuMPK9XiLJrqbeMooR6" group-title="FILMES LANCAMENTOS",AMORES CANIBAIS - DUB - FULL HD
 http://assistir.querofilmehd.com/filmes/Amores.Canibais2016.2A.720p.BluRay.X264-AMIABLE-ABS.mp4
  
  
-#EXTINF:0 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/primeiro-mataram-meu-pai-capaLivro-120111_original-4.jpg" group-title="FILMES LANCAMENTOS",PRIMEIRO MATARAM MEU PAI - LEG - FULL HD
+#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/primeiro-mataram-meu-pai-capaLivro-120111_original-4.jpg" group-title="FILMES LANCAMENTOS",PRIMEIRO MATARAM MEU PAI - LEG - FULL HD
 http://assistir.querofilmehd.com/filmes/First.They.Killed.My.Father.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG%20DUAL-IRONSIDE.mp4
  
-#EXTINF:0 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/primeiro-mataram-meu-pai-capaLivro-120111_original-4.jpg" group-title="FILMES LANCAMENTOS",PRIMEIRO MATARAM MEU PAI - DUB - FULL HD
+#EXTINF:-1 tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/primeiro-mataram-meu-pai-capaLivro-120111_original-4.jpg" group-title="FILMES LANCAMENTOS",PRIMEIRO MATARAM MEU PAI - DUB - FULL HD
 http://assistir.querofilmehd.com/filmes/First.They.Killed.My.Father.2017.1080p.NF.WEB-DL.DD5.1.x264-NTG%20DUAL-IRONSIDE(1).mp4
  
  
-#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/02/17/11/36/373189.jpg" group-title="FILMES LANCAMENTOS",THE HOUSE - LEG - FULL HD
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/02/17/11/36/373189.jpg" group-title="FILMES LANCAMENTOS",THE HOUSE - LEG - FULL HD
 http://assistir.querofilmehd.com/filmes/The.House.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
  
  
-#EXTINF:0 tvg-logo="https://i.imgur.com/fo1IBmB.jpg" group-title="FILMES LANCAMENTOS",#REALITYHIGH - DUB - FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fo1IBmB.jpg" group-title="FILMES LANCAMENTOS",#REALITYHIGH - DUB - FULL HD
 http://assistir.querofilmehd.com/filmes/REALITYHIGH.2017.1080p.NF.WEB-DL.DD5.1.x264-PiA.mp4
  
  
-#EXTINF:0 tvg-logo="https://i.imgur.com/is0GrMU.jpg" group-title="FILMES LANCAMENTOS",47 METERS DOWN - DUB - FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/is0GrMU.jpg" group-title="FILMES LANCAMENTOS",47 METERS DOWN - DUB - FULL HD
 http://assistir.querofilmehd.com/filmes/47.Meters.Down.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AD3CSp5.jpg" group-title="FILMES LANCAMENTOS" ,EM RITMO DE FUGA - DUB - HD
@@ -165,20 +165,20 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/TRANSFORMERS2017LEG-BAIXO.mp4?STA
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KSaYmQT.jpg" group-title="FILMES LANCAMENTOS",TRANSFORMERS 5: O ULTIMO CAVALEIRO - LEG - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/TRANSFORMERS2017LEG-ALTO.mp4?STANIPTV
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPACO ENTRE NOS - DUB - SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPACO ENTRE NOS - DUB - SD
 http://zeus.netcine.tv/httpdelivery/filmes2017/ESPACOENTRENOSMOVIEDUB-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPACO ENTRE NOS - DUB - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPACO ENTRE NOS - DUB - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/ESPACOENTRENOSMOVIEDUB-ALTO.mp4
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPACO ENTRE NOS - LEG - SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPACO ENTRE NOS - LEG - SD
 http://zeus.netcine.tv/httpdelivery/filmes2017/ESPACOENTRENOSMOVIELEG-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPACO ENTRE NOS - LEG - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPACO ENTRE NOS - LEG - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/ESPACOENTRENOSMOVIELEG-ALTO.mp4
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/Ton9ecl.jpg" group-title="FILMES LANCAMENTOS",O VENDEDOR DE SONHOS - SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ton9ecl.jpg" group-title="FILMES LANCAMENTOS",O VENDEDOR DE SONHOS - SD
 http://zeus.netcine.tv/httpdelivery/filmes2017/VENDEDORSONHOS-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/Ton9ecl.jpg" group-title="FILMES LANCAMENTOS",O VENDEDOR DE SONHOS - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ton9ecl.jpg" group-title="FILMES LANCAMENTOS",O VENDEDOR DE SONHOS - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/VENDEDORSONHOS-ALTO.mp4
  
  
@@ -192,15 +192,15 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/OKJA2017LEG-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gcNlTeYg.jpg" group-title="FILMES LANCAMENTOS",OKJA - LEG - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/OKJA2017LEG-ALTO.mp4
  
-#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1280_720/pictures/16/12/16/13/50/566517.jpg" group-title="FILMES LANCAMENTOS", ARMAS NA MESA - DUB - HD
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1280_720/pictures/16/12/16/13/50/566517.jpg" group-title="FILMES LANCAMENTOS", ARMAS NA MESA - DUB - HD
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ARMSNMSA.mp4
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/Typg82F.jpg" group-title="FILMES LANCAMENTOS",O Chamado 3 - DUB - SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Typg82F.jpg" group-title="FILMES LANCAMENTOS",O Chamado 3 - DUB - SD
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2017/RINGSDUB-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/Typg82F.jpg" group-title="FILMES LANCAMENTOS",O Chamado 3 - DUB - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Typg82F.jpg" group-title="FILMES LANCAMENTOS",O Chamado 3 - DUB - HD
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2017/RINGSDUB-ALTO.mp4
  
-#EXTINF:0tvg-logo="http://i.imgur.com/Typg82F.jpg" group-title="FILMES LANCAMENTOS",O Chamado 3 - LEG - HD
+#EXTINF:-1tvg-logo="http://i.imgur.com/Typg82F.jpg" group-title="FILMES LANCAMENTOS",O Chamado 3 - LEG - HD
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3LEG.mp4
  
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.mmfilmes.com/wp-content/uploads/2016/12/Autopsy-of-Jane-Doe-224x300.jpg" group-title="FILMES LANCAMENTOS",A Autópsia De Jane Doe - DUB - HD
@@ -229,7 +229,7 @@ http://staniptv.com/kongleghd2
 http://staniptv.com/anoiteedelas
  
  
-#EXTINF:-1  tvg-logo="http://www.staniptv.com/m91d" group-title="FILMES LANCAMENTOS" ,NUNCA DIGA SEU NOME - DUB - HD
+#EXTINF:-1 tvg-logo="http://www.staniptv.com/m91d" group-title="FILMES LANCAMENTOS" ,NUNCA DIGA SEU NOME - DUB - HD
 http://www.staniptv.com/ndn
  
 #EXTINF:-1 tvg-logo="http://www.staniptv.com/5xbm" group-title="FILMES LANCAMENTOS" ,NINGUEM ENTRA NINGUEM SAI - DUB - SD
@@ -247,9 +247,9 @@ http://assistir.querofilmehd.com/filmes/paixaoobsessiva-leg.mp4?STANIPTV
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0LecgsE.jpg" group-title="FILMES LANCAMENTOS" ,ANNABELLE 2: A CRIACAO DO MAL - DUB - HD
 http://assistir.querofilmehd.com/filmes/anabelle2.mp4?STANIPTV
  
-#EXTINF:0 tvg-logo="https://i.imgur.com/dZtIg8f.png" group-title="FILMES LANÇAMENTOS", A MUMIA 2017 - DUB - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dZtIg8f.png" group-title="FILMES LANÇAMENTOS", A MUMIA 2017 - DUB - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/AMUMIA2017DUB-ALTO.mp4
-#EXTINF:0 tvg-logo="https://i.imgur.com/dZtIg8f.png" group-title="FILMES LANÇAMENTOS", A MUMIA 2017 - LEG - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dZtIg8f.png" group-title="FILMES LANÇAMENTOS", A MUMIA 2017 - LEG - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/AMUMIA2017LEG-ALTO.mp4
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bqIoeG9h.jpg" group-title="FILMES LANCAMENTOS",MULHER MARAVILHA - DUB - SD
@@ -309,14 +309,14 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/ZLOSTCITYLEG-BAIXO.mp4?STANIPTV
 http://zeus.netcine.tv/httpdelivery/filmes2017/ZLOSTCITYLEG-ALTO.mp4?STANIPTV
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO - DUB - SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO - DUB - SD
 http://zeus.netcine.tv/httpdelivery/filmes2017/CIRCO2017DUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO - DUB - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO - DUB - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/CIRCO2017DUB-ALTO.mp4?STANIPTV
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO - LEG - SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO - LEG - SD
 http://zeus.netcine.tv/httpdelivery/filmes2017/OCIRCULOLEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO - LEG - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO - LEG - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/OCIRCULOLEG-ALTO.mp4?STANIPTV
  
  
@@ -353,7 +353,7 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOESLEG2017-BAIXO.mp4?STANIP
 http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOESLEG2017-ALTO.mp4?STANIPTV
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/TzhhdP7.jpg" group-title="FILMES LANCAMENTOS",As Aventuras de Ozzy - DUB - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TzhhdP7.jpg" group-title="FILMES LANCAMENTOS",As Aventuras de Ozzy - DUB - HD
 http://assistir.querofilmehd.com/filmes/As.Aventuras.de.Ozzy.2017.BluRay.1080p.x264-iNVANDRAREN.DUAL-LAPUMiA.mp4?STANIPTV
  
  
@@ -368,18 +368,18 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5LEG-BAIXO.mp4?STANIPTV
 http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5LEG-ALTO.mp4?STANIPTV
  
  
-#EXTINF:0 tvg-logo="https://i.imgur.com/q2Xp299.png" group-title="FILMES LANCAMENTOS",O SEQUESTRO - LEG - HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q2Xp299.png" group-title="FILMES LANCAMENTOS",O SEQUESTRO - LEG - HD
 http://assistir.querofilmehd.com/filmes/O.Sequestro.2017.1080p.BluRay.x264-VETO.mp4?STANIPTV
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT - DUB - SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT - DUB - SD
 http://zeus.netcine.tv/httpdelivery/filmes2017/ALIEN2017DUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT - DUB - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT - DUB - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/ALIEN2017DUB-ALTO.mp4?STANIPTV
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT - LEG - SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT - LEG - SD
 http://zeus.netcine.tv/httpdelivery/filmes2017/AL14EN2017LEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT - LEG - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT - LEG - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/AL14EN2017LEG-ALTO.mp4?STANIPTV
  
  
@@ -394,9 +394,9 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/T22017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YgV8oIN.jpg" group-title="FILMES LANCAMENTOS",T2 Trainspotting - DUB - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/T22017DUB-ALTO.mp4
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/ner7kaI.jpg" group-title="FILMES LANCAMENTOS", T2 Trainspotting - LEG - SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ner7kaI.jpg" group-title="FILMES LANCAMENTOS", T2 Trainspotting - LEG - SD
 http://zeus.netcine.tv/httpdelivery/filmes2017/T22017LEG-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/ner7kaI.jpg" group-title="FILMES LANCAMENTOS", T2 Trainspotting - LEG - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ner7kaI.jpg" group-title="FILMES LANCAMENTOS", T2 Trainspotting - LEG - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/T22017LEG-ALTO.mp4
  
  
@@ -405,9 +405,9 @@ http://zeus.netcine.tv/filmes2017/BELAFERA2017DUB-BAIXO.mp4?STANIPTV
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0dL3jUh.jpg" group-title="FILMES LANCAMENTOS",A BELA E A FERA - DUB - HD
 http://zeus.netcine.tv/filmes2017/BELAFERA2017DUB-ALTO.mp4?STANIPTV
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/0dL3jUh.jpg" group-title="FILMES LANCAMENTOS",A BELA E A FERA - LEG - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0dL3jUh.jpg" group-title="FILMES LANCAMENTOS",A BELA E A FERA - LEG - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/ABELAEFERA2017-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/0dL3jUh.jpg" group-title="FILMES LANCAMENTOS",A BELA E A FERA - LEG - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0dL3jUh.jpg" group-title="FILMES LANCAMENTOS",A BELA E A FERA - LEG - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/ABELAEFERA2017-ALTO.mp4
  
  
@@ -415,9 +415,9 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/ABELAEFERA2017-ALTO.mp4
 http://zeus.netcine.tv/httpdelivery/filmes2017/POWER2017DUB2-ALTO.mp4?STANIPTV
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/YmkKKWvg.jpg" group-title="FILMES LANCAMENTOS", POWER RANGERS  LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YmkKKWvg.jpg" group-title="FILMES LANCAMENTOS", POWER RANGERS  LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/P0W4R4NG4R2017LEG-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/YmkKKWvg.jpg" group-title="FILMES LANCAMENTOS", POWER RANGERS  LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YmkKKWvg.jpg" group-title="FILMES LANCAMENTOS", POWER RANGERS  LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/P0W4R4NG4R2017LEG-ALTO.mp4
  
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MbbfrYrclKs/WSnoLEJG3FI/AAAAAAAACUo/yNvj318m-fwxCySnac22xXj-WE2oc6s_wCLcB/s320/images.jpg" group-title="FILMES LANCAMENTOS",Hulk: Onde os Monstros Habitam (2017)
@@ -576,50 +576,50 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/72HRS.mp4?STANIPTV
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/90MINPRSO.mp4?STANIPTV
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/TzhhdP7.jpg" group-title="FILMES - LETRA A",As Aventuras de Ozzy
-http://assistir.querofilmehd.com/filmes/As.Aventuras.de.Ozzy.2017.BluRay.1080p.x264-iNVANDRAREN.DUAL-LAPUMiA.mp4?STANIPTV#EXTINF:0 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES - LETRA A",ALIEN: COVENANT - LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TzhhdP7.jpg" group-title="FILMES - LETRA A",As Aventuras de Ozzy
+http://assistir.querofilmehd.com/filmes/As.Aventuras.de.Ozzy.2017.BluRay.1080p.x264-iNVANDRAREN.DUAL-LAPUMiA.mp4?STANIPTV#EXTINF:-1 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES - LETRA A",ALIEN: COVENANT - LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/AL14EN2017LEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES - LETRA A",ALIEN: COVENANT - DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES - LETRA A",ALIEN: COVENANT - DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/ALIEN2017DUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES - LETRA A",ALIEN: COVENANT - HD DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES - LETRA A",ALIEN: COVENANT - HD DUB
 http://dnpkt5yg68egf.cloudfront.net/filmes/Alien.Covenant.2017.1080p.BluRay.x264-SPARKS.dual.BRHD.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/04/18/19/09/596203.jpg" group-title="FILMES - LETRA A", A MUMIA 2017
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/04/18/19/09/596203.jpg" group-title="FILMES - LETRA A", A MUMIA 2017
 http://zeus.netcine.tv/httpdelivery/filmes2017/AMUMIA2017LEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_300_300/pictures/17/03/24/10/03/458975.jpg" group-title="FILMES - LETRA A", A VIGILANTE DO AMANHA: GHOST IN THE SHELL
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_300_300/pictures/17/03/24/10/03/458975.jpg" group-title="FILMES - LETRA A", A VIGILANTE DO AMANHA: GHOST IN THE SHELL
 http://zeus.netcine.tv/httpdelivery/filmes2017/GHOSTDUB2017-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1280_720/pictures/16/12/16/13/50/566517.jpg" group-title="FILMES - LETRA A", Armas na Mesa - 1080p
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1280_720/pictures/16/12/16/13/50/566517.jpg" group-title="FILMES - LETRA A", Armas na Mesa - 1080p
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ARMSNMSA.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/01/16/19/23/124426.jpg" group-title="FILMES - LETRA A", A BAILARINA (1080p)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/01/16/19/23/124426.jpg" group-title="FILMES - LETRA A", A BAILARINA (1080p)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABLRN.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://bit.ly/2rEVd9V" group-title="FILMES - LETRA A",Até o ultimo homem DUB
+#EXTINF:-1 tvg-logo="http://bit.ly/2rEVd9V" group-title="FILMES - LETRA A",Até o ultimo homem DUB
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ATOULHMN.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://bit.ly/2rEVd9V" group-title="FILMES - LETRA A",Até o ultimo homem DUB
+#EXTINF:-1 tvg-logo="http://bit.ly/2rEVd9V" group-title="FILMES - LETRA A",Até o ultimo homem DUB
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ATOULHMN.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://bit.ly/2rEVd9V" group-title="FILMES - LETRA A",Até o ultimo homem LEG
+#EXTINF:-1 tvg-logo="http://bit.ly/2rEVd9V" group-title="FILMES - LETRA A",Até o ultimo homem LEG
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2017/HACKSAWLEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/0dL3jUh.jpg" group-title="FILMES - LETRA A",A BELA E A FERA DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0dL3jUh.jpg" group-title="FILMES - LETRA A",A BELA E A FERA DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/BELAFERA2017DUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/0dL3jUh.jpg" group-title="FILMES - LETRA A",A BELA E A FERA LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0dL3jUh.jpg" group-title="FILMES - LETRA A",A BELA E A FERA LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/ABELAEFERA2017-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://goo.gl/NbaaUd" group-title="FILMES - LETRA A", A GRANDE MURALHA LEG
+#EXTINF:-1 tvg-logo="https://goo.gl/NbaaUd" group-title="FILMES - LETRA A", A GRANDE MURALHA LEG
 http://s.netcine.tv/netcine-bucket/filmes2016/GREATDUB-ALTO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/bIYhE2z.jpg" group-title="FILMES - LETRA A",A Cabana - DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bIYhE2z.jpg" group-title="FILMES - LETRA A",A Cabana - DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/ACABANA2017DUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/bIYhE2z.jpg" group-title="FILMES - LETRA A",A Cabana - LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bIYhE2z.jpg" group-title="FILMES - LETRA A",A Cabana - LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/4C4B4N42017LEGENDADO-BAIXO.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/xmOtmLC.jpg" group-title="FILMES - LETRA A",Assassin's Creed DUB
+#EXTINF:-1tvg-logo="http://i.imgur.com/xmOtmLC.jpg" group-title="FILMES - LETRA A",Assassin's Creed DUB
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASINSCRD.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/xmOtmLC.jpg" group-title="FILMES - LETRA A",Assassin's Creed DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmOtmLC.jpg" group-title="FILMES - LETRA A",Assassin's Creed DUB
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/ASSADUBLA-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/xmOtmLC.jpg" group-title="FILMES - LETRA A",Assassin's Creed LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xmOtmLC.jpg" group-title="FILMES - LETRA A",Assassin's Creed LEG
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/ASSADUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/qaUQEwy.jpg" group-title="FILMES - LETRA A",Apostando Tudo
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qaUQEwy.jpg" group-title="FILMES - LETRA A",Apostando Tudo
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/APSTNDTD.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/Clr3eTv.png" group-title="FILMES - LETRA A",A Fabulosa Gilly Hopkins
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Clr3eTv.png" group-title="FILMES - LETRA A",A Fabulosa Gilly Hopkins
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AFBLSGLHP.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/7dHAdcV.png" group-title="FILMES - LETRA A",A Descoberta
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7dHAdcV.png" group-title="FILMES - LETRA A",A Descoberta
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ADSCBRT.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/MD1Bfhs.jpg" group-title="FILMES - LETRA A",Abril e o Mundo Extraordinario
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MD1Bfhs.jpg" group-title="FILMES - LETRA A",Abril e o Mundo Extraordinario
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRLEOMSNEXTR.mp4?STANIPTV
  
  
@@ -955,17 +955,17 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT4.mp4?STANIPTV
  
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/jFQSDdIh.jpg" group-title="FILMES - LETRA B",Baywatch - LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jFQSDdIh.jpg" group-title="FILMES - LETRA B",Baywatch - LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/BAYWATCHLEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/jFQSDdIh.jpg" group-title="FILMES - LETRA B",Baywatch - DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jFQSDdIh.jpg" group-title="FILMES - LETRA B",Baywatch - DUB
 http://assistir.querofilmehd.com/filmes/Baywatch.S.O.S.Malibu.2017.UNRATED.1080p.BluRay.x264-GECKOS.DUAL-BRHD.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://goo.gl/eQ3KZ6" group-title="FILMES - LETRA B",Batman Vs Superman: A Origem da JustiCa LEG
+#EXTINF:-1 tvg-logo="http://goo.gl/eQ3KZ6" group-title="FILMES - LETRA B",Batman Vs Superman: A Origem da JustiCa LEG
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/bvs/leg/LEGENDADO-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://goo.gl/eQ3KZ6" group-title="FILMES - LETRA B",Batman Vs Superman: A Origem da JustiCa DUB
+#EXTINF:-1 tvg-logo="http://goo.gl/eQ3KZ6" group-title="FILMES - LETRA B",Batman Vs Superman: A Origem da JustiCa DUB
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/bvs/dub/DUBLADO-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/YgQ2RUy.jpg" group-title="FILMES - LETRA B",Breaking Bad:O Filme LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YgQ2RUy.jpg" group-title="FILMES - LETRA B",Breaking Bad:O Filme LEG
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BRKNGBDOFLMLEG.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/YgQ2RUy.jpg" group-title="FILMES - LETRA B",Breaking Bad:O Filme LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YgQ2RUy.jpg" group-title="FILMES - LETRA B",Breaking Bad:O Filme LEG
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/BRELEG-BAIXO.mp4?STANIPTV
  
  
@@ -1064,15 +1064,15 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/BRNQDASASN3.mp4?STA
  
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/9BNwQw0.jpg" group-title="FILMES - LETRA C",Corra! - LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9BNwQw0.jpg" group-title="FILMES - LETRA C",Corra! - LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/GETOUTLEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://goo.gl/LnWtlC" group-title="FILMES - LETRA C",CapitAo América 3: Guerra Civil
+#EXTINF:-1 tvg-logo="https://goo.gl/LnWtlC" group-title="FILMES - LETRA C",CapitAo América 3: Guerra Civil
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/civilwar/dubbluray/CW2016-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://www.clickriomafra.com.br/emacite/wp-content/uploads/2017/02/Cinquenta-Tons-Mais-Escuros.jpg" group-title="FILMES - LETRA C", Cinquenta Tons Mais Escuros - 1080p
+#EXTINF:-1 tvg-logo="http://www.clickriomafra.com.br/emacite/wp-content/uploads/2017/02/Cinquenta-Tons-Mais-Escuros.jpg" group-title="FILMES - LETRA C", Cinquenta Tons Mais Escuros - 1080p
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CQNTTNSMSESCRLEG.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/pictures/17/01/10/20/25/590717.jpg" group-title="FILMES - LETRA C", CINQUENTA TONS MAIS ESCUROS (DUB COM CENSURA)
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/01/10/20/25/590717.jpg" group-title="FILMES - LETRA C", CINQUENTA TONS MAIS ESCUROS (DUB COM CENSURA)
 http://zeus.netcine.tv/httpdelivery/filmes2017/CINZASDUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/XB1rS9E.jpg" group-title="FILMES - LETRA C",Coragem em Campo
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XB1rS9E.jpg" group-title="FILMES - LETRA C",Coragem em Campo
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CRGMEMCMP.mp4?STANIPTV
  
  
@@ -1187,19 +1187,19 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASGCRSPCLO01.mp4?ST
  
  
  
-#EXTINF:0 tvg-logo="http://staniptv.com/acbe" group-title="FILMES - LETRA D",DEATH NOTE - DUB
+#EXTINF:-1 tvg-logo="http://staniptv.com/acbe" group-title="FILMES - LETRA D",DEATH NOTE - DUB
 http://assistir.querofilmehd.com/filmes/Death.Note.2017.1080p.WEBRip.DD5.1.x264-QOQ.DUAL-RK.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://staniptv.com/acbe" group-title="FILMES - LETRA D",DEATH NOTE - LEG
+#EXTINF:-1 tvg-logo="http://staniptv.com/acbe" group-title="FILMES - LETRA D",DEATH NOTE - LEG
 http://assistir.querofilmehd.com/filmes/Death.Note.2017.1080p.WEBRip.DD5.1.x264-QOQ.DUAL-RK(1).mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/uvO8Iit.jpg" group-title="FILMES - LETRA D",Drone
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uvO8Iit.jpg" group-title="FILMES - LETRA D",Drone
 http://comofazer.club/embed/Drone.2017.720p.WEB-DL.6CH.x264.DUAL.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/twmkPgY.jpg" group-title="FILMES - LETRA D",DC Vixen LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/twmkPgY.jpg" group-title="FILMES - LETRA D",DC Vixen LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/VIXEN2017LEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/s4KNOfc.jpg" group-title="FILMES - LETRA D",Deidra e Laney Assaltam um Trem (2017)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/s4KNOfc.jpg" group-title="FILMES - LETRA D",Deidra e Laney Assaltam um Trem (2017)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/DEDRELNYASTMUTRM.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://goo.gl/VBR6Nz" group-title="FILMES - LETRA D",DEADPOOL DUB
+#EXTINF:-1 tvg-logo="https://goo.gl/VBR6Nz" group-title="FILMES - LETRA D",DEADPOOL DUB
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/deadpool/DUB/2016-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://goo.gl/VBR6Nz" group-title="FILMES - LETRA D",DEADPOOL LEG
+#EXTINF:-1 tvg-logo="https://goo.gl/VBR6Nz" group-title="FILMES - LETRA D",DEADPOOL LEG
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/deadpool/LEG/2016-BAIXO.mp4?STANIPTV
  
  
@@ -1292,13 +1292,13 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/DRGNBLDE.mp4?STANIP
  
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/ORvC2nL.jpg" group-title="FILMES - LETRA E",EsquadrAo Suicida - LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ORvC2nL.jpg" group-title="FILMES - LETRA E",EsquadrAo Suicida - LEG
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/suicidesquad/leg/ES-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/ORvC2nL.jpg" group-title="FILMES - LETRA E",EsquadrAo Suicida - DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ORvC2nL.jpg" group-title="FILMES - LETRA E",EsquadrAo Suicida - DUB
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/suicidesquad/leg/ESS-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/ORvC2nL.jpg" group-title="FILMES - LETRA E",EsquadrAo Suicida - DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ORvC2nL.jpg" group-title="FILMES - LETRA E",EsquadrAo Suicida - DUB
 http://dnpkt5yg68egf.cloudfront.net/filmes/Esquadrao.Suicida.2016.1080p.BluRay.x264-EPD.DUAL-LAPUMiA.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/fE3uB5Q.jpg" group-title="FILMES - LETRA E",Esquadrao de Elite
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fE3uB5Q.jpg" group-title="FILMES - LETRA E",Esquadrao de Elite
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ESQDRDELT.mp4?STANIPTV
  
  
@@ -1361,11 +1361,11 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/EXTRMN2.mp4?STANIPT
  
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/wembZn0.jpg" group-title="FILMES - LETRA F", Fome de Poder - LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wembZn0.jpg" group-title="FILMES - LETRA F", Fome de Poder - LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/FOMED4PODERLEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/wembZn0.jpg" group-title="FILMES - LETRA F", Fome de Poder - DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wembZn0.jpg" group-title="FILMES - LETRA F", Fome de Poder - DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/FOMED4PODERDUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/uNnCcZL.jpg" group-title="FILMES - LETRA F",Fazenda dos Cisnes
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uNnCcZL.jpg" group-title="FILMES - LETRA F",Fazenda dos Cisnes
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FZNDSCSN.mp4?STANIPTV
  
  
@@ -1407,11 +1407,11 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRIDTTS2.mp4?STANIP
  
  
  
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300/8sFWWIolWPm2FQLNt9cSKpNZJcz.jpg" group-title="FILMES - LETRA G",GUARDIOES DAS GALAXIAS 2 LEG
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8sFWWIolWPm2FQLNt9cSKpNZJcz.jpg" group-title="FILMES - LETRA G",GUARDIOES DAS GALAXIAS 2 LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOESLEG2017-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300/8sFWWIolWPm2FQLNt9cSKpNZJcz.jpg" group-title="FILMES - LETRA G",GUARDIOES DAS GALAXIAS 2 DUB
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8sFWWIolWPm2FQLNt9cSKpNZJcz.jpg" group-title="FILMES - LETRA G",GUARDIOES DAS GALAXIAS 2 DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOES2017DUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/L85kAoV.jpg" group-title="FILMES - LETRA G",GUARDIOES - LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/L85kAoV.jpg" group-title="FILMES - LETRA G",GUARDIOES - LEG
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2017/TGRLEGG-BAIXO.mp4?STANIPTV
  
  
@@ -1448,9 +1448,9 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/GRNDSOLHS.mp4?STANI
  
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/Yw5QGoo.jpg" group-title="FILMES - LETRA H", Hulk: Onde os Monstros Habitam
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Yw5QGoo.jpg" group-title="FILMES - LETRA H", Hulk: Onde os Monstros Habitam
 http://zeus.netcine.tv/httpdelivery/filmes2017/HULK2017DUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/pictures/16/01/29/18/02/253848.jpg" group-title="FILMES - LETRA H", Horas Decisivas
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/01/29/18/02/253848.jpg" group-title="FILMES - LETRA H", Horas Decisivas
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/HRSDCSVS.mp4?STANIPTV
  
  
@@ -1574,15 +1574,15 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/HULK.mp4?STANIPTV
  
  
  
-#EXTINF:0 tvg-logo="http://ncdn-a.akamaihd.net/wp-content/uploads/2017/05/interstellar3.jpg" group-title="FILMES - LETRA I",Interestelar dub
+#EXTINF:-1 tvg-logo="http://ncdn-a.akamaihd.net/wp-content/uploads/2017/05/interstellar3.jpg" group-title="FILMES - LETRA I",Interestelar dub
 http://zeus.netcine.tv/httpdelivery/filmes2017/INTER8ST8L4RDUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://ncdn-a.akamaihd.net/wp-content/uploads/2017/05/interstellar3.jpg" group-title="FILMES - LETRA I",Interestelar leg
+#EXTINF:-1 tvg-logo="http://ncdn-a.akamaihd.net/wp-content/uploads/2017/05/interstellar3.jpg" group-title="FILMES - LETRA I",Interestelar leg
 http://zeus.netcine.tv/httpdelivery/filmes2017/INTER8ST8L4RLEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-8VsKOPogfXo/VZrXfEHYz6I/AAAAAAAACHQ/H4o5E1i2aww/s1600/boy%2B7.jpg" group-title="FILMES - LETRA I",IBOY 2017
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-8VsKOPogfXo/VZrXfEHYz6I/AAAAAAAACHQ/H4o5E1i2aww/s1600/boy%2B7.jpg" group-title="FILMES - LETRA I",IBOY 2017
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/IBOY.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://www.filmposter-archiv.de/filmplakat/2016/inferno-hauptplakat-2.jpg" group-title="FILMES - LETRA I" ,INFERNO
+#EXTINF:-1 tvg-logo="http://www.filmposter-archiv.de/filmplakat/2016/inferno-hauptplakat-2.jpg" group-title="FILMES - LETRA I" ,INFERNO
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/INFRNO.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://br.web.img3.acsta.net/pictures/17/01/23/17/58/188785.jpg" group-title="FILMES - LETRA I",Internet – O Filme
+#EXTINF:-1tvg-logo="http://br.web.img3.acsta.net/pictures/17/01/23/17/58/188785.jpg" group-title="FILMES - LETRA I",Internet – O Filme
 http://zeus.netcine.tv/httpdelivery/filmes2017/INTERNETMOVIE-BAIXO.mp4?STANIPTV
  
  
@@ -1613,11 +1613,11 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/INFRNO.mp4?STANIPTV
  
  
  
-#EXTINF:0 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/ASA.png" group-title="FILMES - LETRA J",John Wick – Um Novo Dia para Matar DUB
+#EXTINF:-1 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/ASA.png" group-title="FILMES - LETRA J",John Wick – Um Novo Dia para Matar DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/JOHNWICKDUBB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/ASA.png" group-title="FILMES - LETRA J",John Wick – Um Novo Dia para Matar LEG
+#EXTINF:-1 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/ASA.png" group-title="FILMES - LETRA J",John Wick – Um Novo Dia para Matar LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/JOHNWICKLEGE-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://megafilmes.org/wp-content/uploads/2017/04/8d3ff36b48-1.jpg" group-title="FILMES - LETRA J",Jovens TitAs: O Contrato de Judas 1080p
+#EXTINF:-1 tvg-logo="http://megafilmes.org/wp-content/uploads/2017/04/8d3ff36b48-1.jpg" group-title="FILMES - LETRA J",Jovens TitAs: O Contrato de Judas 1080p
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JVNSTSOCTRTDJDS.mp4?STANIPTV
  
  
@@ -1718,9 +1718,9 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/STRTRK10.mp4?STANIPTV
  
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/L204V2n.jpg" group-title="FILMES - LETRA K",Kong a ilha da caveira DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/L204V2n.jpg" group-title="FILMES - LETRA K",Kong a ilha da caveira DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/CAVEIRA2017DUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/L204V2n.jpg" group-title="FILMES - LETRA K",Kong a ilha da caveira LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/L204V2n.jpg" group-title="FILMES - LETRA K",Kong a ilha da caveira LEG
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2017/KONGLEG-BAIXO.mp4?STANIPTV
  
  
@@ -1753,21 +1753,21 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPND2.mp4?STAN
  
  
  
-#EXTINF:0 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/cym_yo1w8aqqn_z.jpg" group-title="FILMES - LETRA L",LEGO Batman: O Filme
+#EXTINF:-1 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/cym_yo1w8aqqn_z.jpg" group-title="FILMES - LETRA L",LEGO Batman: O Filme
 http://zeus.netcine.tv/httpdelivery/filmes2017/LEG0B4TM4NLEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/cym_yo1w8aqqn_z.jpg" group-title="FILMES - LETRA L",LEGO Batman: O Filme
+#EXTINF:-1 tvg-logo="http://netcine.global.ssl.fastly.net/wp-content/uploads/2017/05/cym_yo1w8aqqn_z.jpg" group-title="FILMES - LETRA L",LEGO Batman: O Filme
 http://zeus.netcine.tv/httpdelivery/filmes2017/LEG0B4TM4NDUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://goo.gl/7FCrj4" group-title="FILMES - LETRA L",LOGAN DUB
+#EXTINF:-1 tvg-logo="https://goo.gl/7FCrj4" group-title="FILMES - LETRA L",LOGAN DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/L0G4NDUB2017-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://goo.gl/7FCrj4" group-title="FILMES - LETRA L",LOGAN LEG
+#EXTINF:-1 tvg-logo="https://goo.gl/7FCrj4" group-title="FILMES - LETRA L",LOGAN LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/L0G4NLEG2017-BAIXO.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="FILMES - LETRA L",Liga da JustiCa Sombria DUB
+#EXTINF:-1tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="FILMES - LETRA L",Liga da JustiCa Sombria DUB
 http://s.netcine.tv/netcine-bucket/filmes2016/animacoes/ljdark/LJSDUB-ALTO.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="FILMES - LETRA L",Liga da JustiCa Sombria DUB
+#EXTINF:-1tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="FILMES - LETRA L",Liga da JustiCa Sombria DUB
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/animacoes/ljdark/LJSDUB-BAIXO.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="FILMES - LETRA L",Liga da JustiCa Sombria LEG
+#EXTINF:-1tvg-logo="http://i.imgur.com/ogYCNHA.jpg" group-title="FILMES - LETRA L",Liga da JustiCa Sombria LEG
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/animacoes/ljdark/LJSLEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/WtWHbkD.jpg" group-title="FILMES - LETRA L",Lavanda
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WtWHbkD.jpg" group-title="FILMES - LETRA L",Lavanda
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/LVNDA.mp4?STANIPTV
  
  
@@ -1819,13 +1819,13 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LTDRSRUA.mp4?STANIP
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/LTDRDRUA.mp4?STANIPTV
  
  
-#EXTINF:0 tvg-logo="http://www.starfilmestorrent.com.br/wp-content/uploads/2017/04/Max-Steel-214x300.png" group-title="FILMES - LETRA M", Max Steel
+#EXTINF:-1 tvg-logo="http://www.starfilmestorrent.com.br/wp-content/uploads/2017/04/Max-Steel-214x300.png" group-title="FILMES - LETRA M", Max Steel
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MXSTL.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/8UY4njQ.jpg" group-title="FILMES - LETRA M",Monster Trucks
+#EXTINF:-1tvg-logo="http://i.imgur.com/8UY4njQ.jpg" group-title="FILMES - LETRA M",Monster Trucks
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MNSTRRCK.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/4IhvtHn.jpg" group-title="FILMES - LETRA M",MOANA:UM MAR DE AVENTURAS DUB
+#EXTINF:-1tvg-logo="http://i.imgur.com/4IhvtHn.jpg" group-title="FILMES - LETRA M",MOANA:UM MAR DE AVENTURAS DUB
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MONUMRDAVTRA.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/SgNZwJw.jpg" group-title="FILMES - LETRA M",Manchester à Beira Mar
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SgNZwJw.jpg" group-title="FILMES - LETRA M",Manchester à Beira Mar
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MACHABRMR.mp4?STANIPTV
  
 #EXTINF:-1 tvg-logo="http://www.staniptv.com/wp-content/uploads/2017/09/20170914_042911.png" group-title="FILMES - LETRA M",Mundo CAo (2016)
@@ -1953,11 +1953,11 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/MTRXREV.mp4?STANIPTV
  
  
  
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/pictures/16/05/12/09/52/213173.jpg" group-title="FILMES - LETRA N", Nerve: Um Jogo Sem Regras
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/05/12/09/52/213173.jpg" group-title="FILMES - LETRA N", Nerve: Um Jogo Sem Regras
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NRVUJSR.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://www.staniptv.com/5xbm" group-title="FILMES - LETRA N", Ninguem Entra, Ninguem Sai
+#EXTINF:-1 tvg-logo="http://www.staniptv.com/5xbm" group-title="FILMES - LETRA N", Ninguem Entra, Ninguem Sai
 http://zeus.netcine.tv/httpdelivery/filmes2017/NINGUEMENTRASAI2017-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/JhaLfZH.jpg" group-title="FILMES - LETRA N",Nossos Amantes
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JhaLfZH.jpg" group-title="FILMES - LETRA N",Nossos Amantes
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NOSAMNTS.mp4?STANIPTV
  
  
@@ -1996,39 +1996,39 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NVBRMNUMESPANCMRE.m
  
  
  
-#EXTINF:0 tvg-logo="https://i.imgur.com/ivn04Rs.png" group-title="FILMES - LETRA O",O CULTO DE CHUCKY - LEG - FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ivn04Rs.png" group-title="FILMES - LETRA O",O CULTO DE CHUCKY - LEG - FULL HD
 http://assistir.querofilmehd.com/filmes/Cult.of.Chucky.2017.UNRATED.1080p.BluRay.x264-ROVERS.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/vxynQdR.jpg" group-title="FILMES - LETRA O",O Cadáver de Anna Fritz - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vxynQdR.jpg" group-title="FILMES - LETRA O",O Cadáver de Anna Fritz - HD
 https://onedrive.live.com/download?resid=EC0040A205089D7A!110&authkey=!AOeirR-UZbiae4s&ithint=filme.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/vxynQdR.jpg" group-title="FILMES - LETRA O",O Cadáver de Anna Fritz  - SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/vxynQdR.jpg" group-title="FILMES - LETRA O",O Cadáver de Anna Fritz  - SD
 https://onedrive.live.com/download?resid=EC0040A205089D7A!110&authkey=!AOeirR-UZbiae4s&ithint=filme.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES - LETRA O",O Circulo - LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES - LETRA O",O Circulo - LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/OCIRCULOLEG-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES - LETRA O",O Circulo - DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES - LETRA O",O Circulo - DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/CIRCO2017DUB-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/76CtYtc.jpg" group-title="FILMES - LETRA O",OKJA DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/76CtYtc.jpg" group-title="FILMES - LETRA O",OKJA DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/OKJA2017DUB-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/76CtYtc.jpg" group-title="FILMES - LETRA O",OKJA LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/76CtYtc.jpg" group-title="FILMES - LETRA O",OKJA LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/OKJA2017LEG-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES - LETRA O",O ESPACO ENTRE NOS DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES - LETRA O",O ESPACO ENTRE NOS DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/ESPACOENTRENOSMOVIEDUB-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES - LETRA O",O ESPACO ENTRE NOS LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES - LETRA O",O ESPACO ENTRE NOS LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/ESPACOENTRENOSMOVIELEG-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/Ton9ecl.jpg" group-title="FILMES - LETRA O",O Vendedor de Sonhos
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ton9ecl.jpg" group-title="FILMES - LETRA O",O Vendedor de Sonhos
 http://zeus.netcine.tv/httpdelivery/filmes2017/VENDEDORSONHOS-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/HdEiteP.jpg" group-title="FILMES - LETRA O", OS SMURFS 3: E A VILA PERDIDA - DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HdEiteP.jpg" group-title="FILMES - LETRA O", OS SMURFS 3: E A VILA PERDIDA - DUB
 http://assistir.querofilmehd.com/filmes/Os.Smurfs.E.A.Vila.Perdida.2017.BluRay.1080p.x264-MT.DUAL-LAPUMiA.mp4
-#EXTINF:0 tvg-logo="https://i.imgur.com/52cIPZl.png" group-title="FILMES - LETRA O",O PODEROSO CHEFINHO DUB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/52cIPZl.png" group-title="FILMES - LETRA O",O PODEROSO CHEFINHO DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/CHEFINHO2017DUB-BAIXO.mp4
-#EXTINF:0tvg-logo="http://i.imgur.com/nLfOVAb.jpg" group-title="FILMES - LETRA O",O Monstro no Armário
+#EXTINF:-1tvg-logo="http://i.imgur.com/nLfOVAb.jpg" group-title="FILMES - LETRA O",O Monstro no Armário
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OMSNTNARMR.mp4
-#EXTINF:0tvg-logo="http://i.imgur.com/nxLKWNi.jpg" group-title="FILMES - LETRA O",O Exorcismo de Anna Ecklund
+#EXTINF:-1tvg-logo="http://i.imgur.com/nxLKWNi.jpg" group-title="FILMES - LETRA O",O Exorcismo de Anna Ecklund
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OEXCSMDANECKLN.mp4
-#EXTINF:0tvg-logo="http://i.imgur.com/Typg82F.jpg" group-title="FILMES - LETRA O",O Chamado 3 LEG
+#EXTINF:-1tvg-logo="http://i.imgur.com/Typg82F.jpg" group-title="FILMES - LETRA O",O Chamado 3 LEG
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3LEG.mp4
-#EXTINF:0tvg-logo="http://i.imgur.com/Typg82F.jpg" group-title="FILMES - LETRA O",O Chamado 3 DUB
+#EXTINF:-1tvg-logo="http://i.imgur.com/Typg82F.jpg" group-title="FILMES - LETRA O",O Chamado 3 DUB
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2017/RINGSDUB-BAIXO.mp4
-#EXTINF:0 tvg-logo="http://i.imgur.com/u9OpAp7.png" group-title="FILMES - LETRA O",Ouija: Origem Do Mal
+#EXTINF:-1 tvg-logo="http://i.imgur.com/u9OpAp7.png" group-title="FILMES - LETRA O",Ouija: Origem Do Mal
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OUJORGMDML.mp4
  
  
@@ -2336,7 +2336,7 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OUIJAOARSRCAO.mp4?S
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OUIJAOJGDSESPRTS.mp4?STANIPTV
  
  
-#EXTINF:-1  tvg-logo="http://i.imgur.com/YVrANbN.jpg" group-title="FILMES - LETRA P",Peter Pan
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YVrANbN.jpg" group-title="FILMES - LETRA P",Peter Pan
 https://lh3.googleusercontent.com/ohsliTxpYgMXymdnSWHpv2bsW0vBtq_ImLiFpEeJrllH6RNoT55QpOFKAY0Lj_jyMZaL6ELYxA=m22
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqCRKGl.jpg" group-title="FILMES - LETRA P",PIRATAS DO CARIBE – A VINGANCA DE SALAZAR - DUB - SD
 http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5DUB-BAIXO.mp4?STANIPTV
@@ -2347,17 +2347,17 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5DUB-ALTO.mp4?STANIPTV
 http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5LEG-BAIXO.mp4?STANIPTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqCRKGl.jpg" group-title="FILMES - LETRA P",PIRATAS DO CARIBE – A VINGANCA DE SALAZAR - LEG - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5LEG-ALTO.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/qVbUI7J.jpg" group-title="FILMES - LETRA P", PaixAo Obsessiva
+#EXTINF:-1tvg-logo="http://i.imgur.com/qVbUI7J.jpg" group-title="FILMES - LETRA P", PaixAo Obsessiva
 http://assistir.querofilmehd.com/filmes/paixaoobsessiva.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/YmkKKWvg.jpg" group-title="FILMES - LETRA P", POWER RANGERS DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YmkKKWvg.jpg" group-title="FILMES - LETRA P", POWER RANGERS DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/POWER2017DUB2-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/YmkKKWvg.jpg" group-title="FILMES - LETRA P", POWER RANGERS  LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YmkKKWvg.jpg" group-title="FILMES - LETRA P", POWER RANGERS  LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/P0W4R4NG4R2017LEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://goo.gl/eEhovU" group-title="FILMES - LETRA P", PANDORA 2017
+#EXTINF:-1 tvg-logo="https://goo.gl/eEhovU" group-title="FILMES - LETRA P", PANDORA 2017
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PNDRA.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/xRGAw6m.jpg" group-title="FILMES - LETRA P",Passageiros
+#EXTINF:-1tvg-logo="http://i.imgur.com/xRGAw6m.jpg" group-title="FILMES - LETRA P",Passageiros
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PASGRIOS.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/nGyZzrs.jpg" group-title="FILMES - LETRA P", Peles
+#EXTINF:-1tvg-logo="http://i.imgur.com/nGyZzrs.jpg" group-title="FILMES - LETRA P", Peles
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/PLES.mp4?STANIPTV
  
  
@@ -2471,7 +2471,7 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRJTALMNQ.mp4?STANI
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/PROMTHS.mp4?STANIPTV
  
  
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w300/etQENqRbfgqzEh4iFJLCD6bSuw4.jpg" group-title="FILMES - LETRA Q",QUATRO VIDAS CACHORRO - DUB
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/etQENqRbfgqzEh4iFJLCD6bSuw4.jpg" group-title="FILMES - LETRA Q",QUATRO VIDAS CACHORRO - DUB
 https://ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4?STANIPTV
  
  
@@ -2500,19 +2500,19 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/QSTDTMP.mp4?STANIPT
  
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/9O4hBqe.jpg" group-title="FILMES - LETRA R",Resident Evil 6: O Capitulo Final DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9O4hBqe.jpg" group-title="FILMES - LETRA R",Resident Evil 6: O Capitulo Final DUB
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/REVIL06.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/EC51JCj.jpg" group-title="FILMES - LETRA R",Resident Evil 6:O Capitulo Final LEG
+#EXTINF:-1tvg-logo="http://i.imgur.com/EC51JCj.jpg" group-title="FILMES - LETRA R",Resident Evil 6:O Capitulo Final LEG
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/REVIL06LEG.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/EC51JCj.jpg" group-title="FILMES - LETRA R",Resident Evil 6:O Capitulo Final LEG
+#EXTINF:-1tvg-logo="http://i.imgur.com/EC51JCj.jpg" group-title="FILMES - LETRA R",Resident Evil 6:O Capitulo Final LEG
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/REESILEG-BAIXO.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/nqhJrDW.jpg" group-title="FILMES - LETRA R",Resident Evil Vendetta LEG
+#EXTINF:-1tvg-logo="http://i.imgur.com/nqhJrDW.jpg" group-title="FILMES - LETRA R",Resident Evil Vendetta LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/321123-BAIXO.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/nqhJrDW.jpg" group-title="FILMES - LETRA R",Resident Evil Vendetta DUB
+#EXTINF:-1tvg-logo="http://i.imgur.com/nqhJrDW.jpg" group-title="FILMES - LETRA R",Resident Evil Vendetta DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/EVILDUB2017-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/wq6QbKS.jpg" group-title="FILMES - LETRA R",Rei Arthur - A lenda da espada
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wq6QbKS.jpg" group-title="FILMES - LETRA R",Rei Arthur - A lenda da espada
 http://zeus.netcine.tv/httpdelivery/filmes2017/ARTHUR2017LEG-BAIXO.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/wI55pW7.jpg" group-title="FILMES - LETRA R",Resgate Suicida
+#EXTINF:-1tvg-logo="http://i.imgur.com/wI55pW7.jpg" group-title="FILMES - LETRA R",Resgate Suicida
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/RSGTSCD.mp4?STANIPTV
  
  
@@ -2583,29 +2583,29 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/RCKYBLBOA.mp4?STANI
  
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/WCbpgDM.jpg" group-title="FILMES - LETRA S", Silêncio
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WCbpgDM.jpg" group-title="FILMES - LETRA S", Silêncio
 http://assistir.querofilmehd.com/filmes/Sil%C3%AAncio.2017.720p.BluRay.x264-BLOW.DUAL-GORDON.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://paulselluloid.files.wordpress.com/2016/10/magnificent-seven.jpg" group-title="FILMES - LETRA S",SETE HOMENS E UM DESTINO - DUB
+#EXTINF:-1 tvg-logo="https://paulselluloid.files.wordpress.com/2016/10/magnificent-seven.jpg" group-title="FILMES - LETRA S",SETE HOMENS E UM DESTINO - DUB
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SETHMNSEUDSTNO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://paulselluloid.files.wordpress.com/2016/10/magnificent-seven.jpg" group-title="FILMES - LETRA S",SETE HOMENS E UM DESTINO - LEG
+#EXTINF:-1 tvg-logo="https://paulselluloid.files.wordpress.com/2016/10/magnificent-seven.jpg" group-title="FILMES - LETRA S",SETE HOMENS E UM DESTINO - LEG
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SETHMNSEUDSTNLEG.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/0zV438c.jpg" group-title="FILMES - LETRA S",Silêncio - LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0zV438c.jpg" group-title="FILMES - LETRA S",Silêncio - LEG
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/SILENCLEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/eLCmehD.jpg" group-title="FILMES - LETRA S",Sandy Wexler DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eLCmehD.jpg" group-title="FILMES - LETRA S",Sandy Wexler DUB
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2017/SANDYDUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/eLCmehD.jpg" group-title="FILMES - LETRA S",Sandy Wexler LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/eLCmehD.jpg" group-title="FILMES - LETRA S",Sandy Wexler LEG
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2017/SANDYLEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/NWDlmte.jpg" group-title="FILMES - LETRA S",Stereo
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NWDlmte.jpg" group-title="FILMES - LETRA S",Stereo
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/STRO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/c0oUqX0.jpg" group-title="FILMES - LETRA S",Sacrificio
+#EXTINF:-1 tvg-logo="http://i.imgur.com/c0oUqX0.jpg" group-title="FILMES - LETRA S",Sacrificio
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/SCRFC.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/Fw8R5jB.jpg" group-title="FILMES - LETRA S",Os Smurfs e a Vila Perdida - HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Fw8R5jB.jpg" group-title="FILMES - LETRA S",Os Smurfs e a Vila Perdida - HD
 https://lh3.googleusercontent.com/IuaCOSKBvg1rRF3XGz6aY1-cvMuds7z8YLCxTyDUZ30VZPBVqP_56_YiBjukDx7gQpjEXvsPo-gCInnKr1VXOKVtr295chCSYUScSgvy748GO4Esjk3er7DgC8cbQqC6eMTxVDlCVw=m22
-#EXTINF:0 tvg-logo="http://i.imgur.com/Fw8R5jB.jpg" group-title="FILMES - LETRA S",Os Smurfs e a Vila Perdida - SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Fw8R5jB.jpg" group-title="FILMES - LETRA S",Os Smurfs e a Vila Perdida - SD
 https://lh3.googleusercontent.com/IuaCOSKBvg1rRF3XGz6aY1-cvMuds7z8YLCxTyDUZ30VZPBVqP_56_YiBjukDx7gQpjEXvsPo-gCInnKr1VXOKVtr295chCSYUScSgvy748GO4Esjk3er7DgC8cbQqC6eMTxVDlCVw=m18
-#EXTINF:0 tvg-logo="http://ilovefilmesonline.club/wp-content/uploads/2017/06/sereia.jpg" group-title="FILMES - LETRA S", Sereia Predadora - SD
+#EXTINF:-1 tvg-logo="http://ilovefilmesonline.club/wp-content/uploads/2017/06/sereia.jpg" group-title="FILMES - LETRA S", Sereia Predadora - SD
 https://lh3.googleusercontent.com/AGE1iK3jSrLIb_RNvLOdUjCcBkugJ-OoyvyqQsPvttWgB_8a6aOPKooQo5qpXRa5JHNYXe1f0G7jh5LumtoT6v_dve3l19Q_n-TI2hqJIZjeIRbXxH8OIaETWRdw64fkq7oZmPWj6g=m37
-#EXTINF:0 tvg-logo="http://ilovefilmesonline.club/wp-content/uploads/2017/06/sereia.jpg" group-title="FILMES - LETRA S",Sereia Predadora - SD
+#EXTINF:-1 tvg-logo="http://ilovefilmesonline.club/wp-content/uploads/2017/06/sereia.jpg" group-title="FILMES - LETRA S",Sereia Predadora - SD
 https://lh3.googleusercontent.com/AGE1iK3jSrLIb_RNvLOdUjCcBkugJ-OoyvyqQsPvttWgB_8a6aOPKooQo5qpXRa5JHNYXe1f0G7jh5LumtoT6v_dve3l19Q_n-TI2hqJIZjeIRbXxH8OIaETWRdw64fkq7oZmPWj6g=m18
  
  
@@ -2774,15 +2774,15 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SWINDLE.mp4?STANIPT
  
  
  
-#EXTINF:0 tvg-logo="http://i.imgur.com/e8mORZx.jpg" group-title="FILMES - LETRA T",The Warrior's Gate - 1080p
+#EXTINF:-1 tvg-logo="http://i.imgur.com/e8mORZx.jpg" group-title="FILMES - LETRA T",The Warrior's Gate - 1080p
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/WRISGT.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/ner7kaI.jpg" group-title="FILMES - LETRA T", T2 Trainspotting - DUB
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ner7kaI.jpg" group-title="FILMES - LETRA T", T2 Trainspotting - DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/T22017DUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="http://i.imgur.com/ner7kaI.jpg" group-title="FILMES - LETRA T", T2 Trainspotting - LEG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ner7kaI.jpg" group-title="FILMES - LETRA T", T2 Trainspotting - LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/T22017LEG-BAIXO.mp4?STANIPTV
  
  
-#EXTINF:-1  tvg-logo="http://i.imgur.com/p6Q05FM.jpg" group-title="FILMES - LETRA T" ,Troia VersAo Estendida do Diretor
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p6Q05FM.jpg" group-title="FILMES - LETRA T" ,Troia VersAo Estendida do Diretor
 https://lh3.googleusercontent.com/8-cXK5mpxh-Ofux21X9AJT4_5nUcIcCedapwpcMQkYUKCk47qVtEVjkX2z20SDLRpnE-7NaTrmo=m22
 #EXTINF:-1 tvg-logo="http://i.imgur.com/KgMl7O1.jpg" group-title="FILMES - LETRA T",Trolls (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/TRLS.mp4?STANIPTV
@@ -2866,7 +2866,7 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/TRMFNTSM.mp4?STANIPTV
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/TRPDELT2.mp4?STANIPTV
  
  
-#EXTINF:0tvg-logo="http://i.imgur.com/iYZ5Tri.jpg" group-title="FILMES - LETRA U", Um Limite Entre Nós
+#EXTINF:-1tvg-logo="http://i.imgur.com/iYZ5Tri.jpg" group-title="FILMES - LETRA U", Um Limite Entre Nós
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMLMTENTNS.mp4?STANIPTV
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u8oMv9v.jpg" group-title="FILMES - LETRA U",Um Suburbano Sortudo (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMSUBSRTDO.mp4?STANIPTV
@@ -2919,15 +2919,15 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/UDRNKNINFRN3.mp4?ST
  
  
  
-#EXTINF:0 tvg-logo="https://goo.gl/a55zrE" group-title="FILMES - LETRA V",VIDA DUB
+#EXTINF:-1 tvg-logo="https://goo.gl/a55zrE" group-title="FILMES - LETRA V",VIDA DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/VIDAFILME2017DUB-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="https://goo.gl/a55zrE" group-title="FILMES - LETRA V",VIDA LEG
+#EXTINF:-1 tvg-logo="https://goo.gl/a55zrE" group-title="FILMES - LETRA V",VIDA LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/VIDAFILME2017LEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="hhttp://i.imgur.com/HfNVBK3.jpg" group-title="FILMES - LETRA V",Velozes e Furiosos 8 LEG
+#EXTINF:-1 tvg-logo="hhttp://i.imgur.com/HfNVBK3.jpg" group-title="FILMES - LETRA V",Velozes e Furiosos 8 LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017LEG-BAIXO.mp4?STANIPTV
-#EXTINF:0 tvg-logo="hhttp://i.imgur.com/HfNVBK3.jpg" group-title="FILMES - LETRA V",Velozes e Furiosos 8 DUB
+#EXTINF:-1 tvg-logo="hhttp://i.imgur.com/HfNVBK3.jpg" group-title="FILMES - LETRA V",Velozes e Furiosos 8 DUB
 http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017DUB-BAIXO.mp4?STANIPTV
-#EXTINF:0tvg-logo="http://i.imgur.com/sQ71fii.jpg" group-title="FILMES - LETRA V", Vizinhos Nada Secretos
+#EXTINF:-1tvg-logo="http://i.imgur.com/sQ71fii.jpg" group-title="FILMES - LETRA V", Vizinhos Nada Secretos
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/VZNHSNDSCRTS.mp4?STANIPTV
  
  
@@ -3010,7 +3010,7 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/XMEN05.mp4?STANIPTV
  
  
  
-#EXTINF:0 tvg-logo="http://staniptv.com/a58s" group-title="FILMES - LETRA Z", Z – A Cidade Perdida - LEG
+#EXTINF:-1 tvg-logo="http://staniptv.com/a58s" group-title="FILMES - LETRA Z", Z – A Cidade Perdida - LEG
 http://zeus.netcine.tv/httpdelivery/filmes2017/ZLOSTCITYLEG-BAIXO.mp4?STANIPTV
  
  
@@ -3021,7 +3021,7 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ZMBLND.mp4?STANIPTV
  
  
  
-#EXTINF:0 tvg-logo="https://i.imgur.com/ivn04Rs.png" group-title="FILMES LEGENDADOS",O CULTO DE CHUCKY - LEG - FULL HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ivn04Rs.png" group-title="FILMES LEGENDADOS",O CULTO DE CHUCKY - LEG - FULL HD
 http://assistir.querofilmehd.com/filmes/Cult.of.Chucky.2017.UNRATED.1080p.BluRay.x264-ROVERS.mp4?STANIPTV
 #EXTINF:-1 tvg-logo="http://i.imgur.com/g8W16au.jpg" group-title="FILMES LEGENDADOS",Sete Minutos Depois da Meia-Noite
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/STMNDPSDMENT.mp4?STANIPTV
@@ -3282,589 +3282,589 @@ http://s.netcine.tv/netcine-bucket/filmes2016/ASSADUB-ALTO.mp4?STANIPTV
 #EXTINF:-1 tvg-logo="http://i.imgur.com/00q0MCM.jpg" group-title="FILMES LEGENDADOS",Sandy Wexler (2017)
 http://s.netcine.tv/netcine-bucket/filmes2017/SANDYLEG-BAIXO.mp4?STANIPTV
  
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/A3gPTNH.jpg",O Ritual
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/A3gPTNH.jpg",O Ritual
 http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA M"  tvg-logo="http://4.bp.blogspot.com/-w4rd14Oy-YQ/VWw0cWekNvI/AAAAAAAAAfU/_nE2sh9FoJY/s1600/20359396.jpg",Menina Ma.com
+#EXTINF:-1 group-title="FILMES - LETRA M"  tvg-logo="http://4.bp.blogspot.com/-w4rd14Oy-YQ/VWw0cWekNvI/AAAAAAAAAfU/_nE2sh9FoJY/s1600/20359396.jpg",Menina Ma.com
 http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/gaceTLv.jpg",O Contrato
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/gaceTLv.jpg",O Contrato
 http://media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/h609dWq.jpg",A Janela Secreta
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/h609dWq.jpg",A Janela Secreta
 http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://i.imgur.com/Wk5xI.jpg",Segundas Intencoes 3
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://i.imgur.com/Wk5xI.jpg",Segundas Intencoes 3
 http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA N"  tvg-logo="http://i.imgur.com/W5hrAQH.jpg",Na Companhia Do Medo
+#EXTINF:-1 group-title="FILMES - LETRA N"  tvg-logo="http://i.imgur.com/W5hrAQH.jpg",Na Companhia Do Medo
 http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/qEMRyfV.jpg",O Codigo Da Vinci
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/qEMRyfV.jpg",O Codigo Da Vinci
 http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R"  tvg-logo="http://1.bp.blogspot.com/_6NVIJ4Uzljw/TUi3T05bpII/AAAAAAAAB_I/1qxj4JFc3h0/s1600/riosvermelhos1.jpg",Rios Vermelhos
+#EXTINF:-1 group-title="FILMES - LETRA R"  tvg-logo="http://1.bp.blogspot.com/_6NVIJ4Uzljw/TUi3T05bpII/AAAAAAAAB_I/1qxj4JFc3h0/s1600/riosvermelhos1.jpg",Rios Vermelhos
 http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://i.imgur.com/urKZOUk.jpg",Sem Vestigios
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://i.imgur.com/urKZOUk.jpg",Sem Vestigios
 http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA D"  tvg-logo="http://images-br-am.crackle.com/1/t/kl/otbyb_tnl_250x141.jpg",Desejo a Tres
+#EXTINF:-1 group-title="FILMES - LETRA D"  tvg-logo="http://images-br-am.crackle.com/1/t/kl/otbyb_tnl_250x141.jpg",Desejo a Tres
 http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/3/sm/epfyb_tnl_210x118.jpg",Red Corner
+#EXTINF:-1 group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/3/sm/epfyb_tnl_210x118.jpg",Red Corner
 http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://1.bp.blogspot.com/-wVmxo7peF6M/VBs2Pgjdj8I/AAAAAAAAIbo/iKmKeUSjYyc/s1600/Comportamento%2BSuspeito.jpg",Comportamento Suspeito
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://1.bp.blogspot.com/-wVmxo7peF6M/VBs2Pgjdj8I/AAAAAAAAIbo/iKmKeUSjYyc/s1600/Comportamento%2BSuspeito.jpg",Comportamento Suspeito
 http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA M"  tvg-logo="http://i.imgur.com/k4BO3vN.jpg",Mulher Solteira Procura
+#EXTINF:-1 group-title="FILMES - LETRA M"  tvg-logo="http://i.imgur.com/k4BO3vN.jpg",Mulher Solteira Procura
 http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA Q"  tvg-logo="http://i.imgur.com/13Q1lFU.jpg",Quando um Estranho Chama
+#EXTINF:-1 group-title="FILMES - LETRA Q"  tvg-logo="http://i.imgur.com/13Q1lFU.jpg",Quando um Estranho Chama
 http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA E"  tvg-logo="http://1.bp.blogspot.com/-h1Ejc2Qx4gc/VL3oZTQyvdI/AAAAAAAAAWQ/Tb_66dnGWTc/s1600/estradamaldita.jpg",Estrada Maldita
+#EXTINF:-1 group-title="FILMES - LETRA E"  tvg-logo="http://1.bp.blogspot.com/-h1Ejc2Qx4gc/VL3oZTQyvdI/AAAAAAAAAWQ/Tb_66dnGWTc/s1600/estradamaldita.jpg",Estrada Maldita
 http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA L"  tvg-logo="http://2.bp.blogspot.com/-XwKi1VukVYQ/VaeGUHkAGOI/AAAAAAAAAuM/167uUWKLxBw/s1600/Lenda_Urbana_3.jpg",Lenda Urbana 3 - A Vinganca de Mary
+#EXTINF:-1 group-title="FILMES - LETRA L"  tvg-logo="http://2.bp.blogspot.com/-XwKi1VukVYQ/VaeGUHkAGOI/AAAAAAAAAuM/167uUWKLxBw/s1600/Lenda_Urbana_3.jpg",Lenda Urbana 3 - A Vinganca de Mary
 http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://i.imgur.com/fBM1Xv4.jpg",Stigmata
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://i.imgur.com/fBM1Xv4.jpg",Stigmata
 http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA Q"  tvg-logo="http://i.imgur.com/J98RZhd.jpg",Quarentena
+#EXTINF:-1 group-title="FILMES - LETRA Q"  tvg-logo="http://i.imgur.com/J98RZhd.jpg",Quarentena
 http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA I"  tvg-logo="http://i.imgur.com/RjbrFsb.jpg",Identidade
+#EXTINF:-1 group-title="FILMES - LETRA I"  tvg-logo="http://i.imgur.com/RjbrFsb.jpg",Identidade
 http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/2z2pAEc.jpg",A Beira do Abismo
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/2z2pAEc.jpg",A Beira do Abismo
 http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA T"  tvg-logo="http://4.bp.blogspot.com/-VGsTl1yG7Qo/Vd-RnZrc3QI/AAAAAAAAR8w/ZkPEjxN4MKM/s640/Amar-Trair-e-Roubar-dublado-filme-online-2015.jpg",Amar; Trair e Roubar
+#EXTINF:-1 group-title="FILMES - LETRA T"  tvg-logo="http://4.bp.blogspot.com/-VGsTl1yG7Qo/Vd-RnZrc3QI/AAAAAAAAR8w/ZkPEjxN4MKM/s640/Amar-Trair-e-Roubar-dublado-filme-online-2015.jpg",Amar; Trair e Roubar
 http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://thayjustin.files.wordpress.com/2010/04/cativeiro1.jpg",Cativeiro
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://thayjustin.files.wordpress.com/2010/04/cativeiro1.jpg",Cativeiro
 http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://2.bp.blogspot.com/-ZfAEbSJisW8/VHz8Nz3nfJI/AAAAAAAAGDo/_d3eSnt4jlQ/s1600/Body%2Bof%2BEvidence%2B-%2BPoster.jpg",Corpo em Evidencia
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://2.bp.blogspot.com/-ZfAEbSJisW8/VHz8Nz3nfJI/AAAAAAAAGDo/_d3eSnt4jlQ/s1600/Body%2Bof%2BEvidence%2B-%2BPoster.jpg",Corpo em Evidencia
 http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA E"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/udcyb_tnl_210x118.jpg",Enquanto Ela Estiver Fora
+#EXTINF:-1 group-title="FILMES - LETRA E"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/udcyb_tnl_210x118.jpg",Enquanto Ela Estiver Fora
 http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA E"  tvg-logo="http://2.bp.blogspot.com/-pWdeOg9b2Zg/UsQg7iU-ZmI/AAAAAAAADdA/ifLWamYgK2w/s1600/La+femme+du+V%C3%A8me+Poster.jpg",Estranha Obsessao
+#EXTINF:-1 group-title="FILMES - LETRA E"  tvg-logo="http://2.bp.blogspot.com/-pWdeOg9b2Zg/UsQg7iU-ZmI/AAAAAAAADdA/ifLWamYgK2w/s1600/La+femme+du+V%C3%A8me+Poster.jpg",Estranha Obsessao
 http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA H"  tvg-logo="http://images-br-am.crackle.com/1/k/4l/8wcyb_tnl_210x118.jpg",Hotel Ruanda
+#EXTINF:-1 group-title="FILMES - LETRA H"  tvg-logo="http://images-br-am.crackle.com/1/k/4l/8wcyb_tnl_210x118.jpg",Hotel Ruanda
 http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA M"  tvg-logo="http://i.imgur.com/0jYFDam.jpg",Malicia
+#EXTINF:-1 group-title="FILMES - LETRA M"  tvg-logo="http://i.imgur.com/0jYFDam.jpg",Malicia
 http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/e/am/3bdyb_tnl_210x118.jpg",Sociedade Feroz
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/e/am/3bdyb_tnl_210x118.jpg",Sociedade Feroz
 http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA B"  tvg-logo="http://images-br-am.crackle.com/1/v/96/731lf_tnl_210x118.jpg",Bruno
+#EXTINF:-1 group-title="FILMES - LETRA B"  tvg-logo="http://images-br-am.crackle.com/1/v/96/731lf_tnl_210x118.jpg",Bruno
 http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://images-br-am.crackle.com/1/g/f6/34ylf_tnl_210x118.jpg",Casamento as Avessas
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://images-br-am.crackle.com/1/g/f6/34ylf_tnl_210x118.jpg",Casamento as Avessas
 http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/n/f6/w2ylf_tnl_210x118.jpg",O ABC do Amor
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/n/f6/w2ylf_tnl_210x118.jpg",O ABC do Amor
 http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA J"  tvg-logo="http://images-br-am.crackle.com/1/a/56/lq1lf_tnl_210x118.jpg",Juno
+#EXTINF:-1 group-title="FILMES - LETRA J"  tvg-logo="http://images-br-am.crackle.com/1/a/56/lq1lf_tnl_210x118.jpg",Juno
 http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/v/96/931lf_tnl_210x118.jpg",As Branquelas
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/v/96/931lf_tnl_210x118.jpg",As Branquelas
 http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA B"  tvg-logo="http://images-br-am.crackle.com/1/w/96/d41lf_tnl_210x118.jpg",Bons Costumes
+#EXTINF:-1 group-title="FILMES - LETRA B"  tvg-logo="http://images-br-am.crackle.com/1/w/96/d41lf_tnl_210x118.jpg",Bons Costumes
 http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA J"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/2w2lf_tnl_210x118.jpg",Julie & Julia
+#EXTINF:-1 group-title="FILMES - LETRA J"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/2w2lf_tnl_210x118.jpg",Julie & Julia
 http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA D"  tvg-logo="http://images-br-am.crackle.com/1/s/96/y01lf_tnl_210x118.jpg",De Repente 30
+#EXTINF:-1 group-title="FILMES - LETRA D"  tvg-logo="http://images-br-am.crackle.com/1/s/96/y01lf_tnl_210x118.jpg",De Repente 30
 http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA M"  tvg-logo="http://images-br-am.crackle.com/1/j/96/uz1lf_tnl_210x118.jpg",Meus Quinze Anos
+#EXTINF:-1 group-title="FILMES - LETRA M"  tvg-logo="http://images-br-am.crackle.com/1/j/96/uz1lf_tnl_210x118.jpg",Meus Quinze Anos
 http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/3/f6/s7ylf_tnl_210x118.jpg",Adoraveis Mulheres
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/3/f6/s7ylf_tnl_210x118.jpg",Adoraveis Mulheres
 http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://images-br-am.crackle.com/1/r/f6/d6ylf_tnl_210x118.jpg",Uma Beleza de Salao
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://images-br-am.crackle.com/1/r/f6/d6ylf_tnl_210x118.jpg",Uma Beleza de Salao
 http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA L"  tvg-logo="http://images-br-am.crackle.com/1/9/l6/zjwlf_tnl_210x118.jpg",Lembrancas de Hollywood
+#EXTINF:-1 group-title="FILMES - LETRA L"  tvg-logo="http://images-br-am.crackle.com/1/9/l6/zjwlf_tnl_210x118.jpg",Lembrancas de Hollywood
 http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/Urj42dp.jpg",All That Jazz - O Show Deve Continuar
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/Urj42dp.jpg",All That Jazz - O Show Deve Continuar
 http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA M"  tvg-logo="http://images-br-am.crackle.com/1/v/96/a41lf_tnl_210x118.jpg",Mal Posso Esperar
+#EXTINF:-1 group-title="FILMES - LETRA M"  tvg-logo="http://images-br-am.crackle.com/1/v/96/a41lf_tnl_210x118.jpg",Mal Posso Esperar
 http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://images-br-am.crackle.com/1/d/4m/d9fyb_tnl_210x118.jpg",Um Criminoso Decente
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://images-br-am.crackle.com/1/d/4m/d9fyb_tnl_210x118.jpg",Um Criminoso Decente
 http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/4/8l/t7cyb_tnl_210x118.jpg",Os Seus, os Meus e os Nossos
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/4/8l/t7cyb_tnl_210x118.jpg",Os Seus, os Meus e os Nossos
 http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/d/l6/bdwlf_tnl_210x118.jpg",Os Produtores
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/d/l6/bdwlf_tnl_210x118.jpg",Os Produtores
 http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/2/d6/g4vlf_tnl_210x118.jpg",O clube de Leitura de Jane Austen
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/2/d6/g4vlf_tnl_210x118.jpg",O clube de Leitura de Jane Austen
 http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA L"  tvg-logo="http://images-br-am.crackle.com/1/z/f6/a7ylf_tnl_210x118.jpg",Lua de Mel em Las Vegas
+#EXTINF:-1 group-title="FILMES - LETRA L"  tvg-logo="http://images-br-am.crackle.com/1/z/f6/a7ylf_tnl_210x118.jpg",Lua de Mel em Las Vegas
 http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA J"  tvg-logo="http://images-br-am.crackle.com/1/2/v6/y1zlf_tnl_210x118.jpg",Jogue a Mamae do Trem
+#EXTINF:-1 group-title="FILMES - LETRA J"  tvg-logo="http://images-br-am.crackle.com/1/2/v6/y1zlf_tnl_210x118.jpg",Jogue a Mamae do Trem
 http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA F"  tvg-logo="http://images-br-am.crackle.com/1/h/om/kffyb_tnl_210x118.jpg",Feitico da Lua
+#EXTINF:-1 group-title="FILMES - LETRA F"  tvg-logo="http://images-br-am.crackle.com/1/h/om/kffyb_tnl_210x118.jpg",Feitico da Lua
 http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA E"  tvg-logo="http://images-br-am.crackle.com/1/y/n6/q9ulf_tnl_210x118.jpg",Eu, Minha Mulher e Minhas Copias
+#EXTINF:-1 group-title="FILMES - LETRA E"  tvg-logo="http://images-br-am.crackle.com/1/y/n6/q9ulf_tnl_210x118.jpg",Eu, Minha Mulher e Minhas Copias
 http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/c/4m/c9fyb_tnl_210x118.jpg",Annie
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/c/4m/c9fyb_tnl_210x118.jpg",Annie
 http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/4/om/aifyb_tnl_210x118.jpg",A Pantera Cor de Rosa
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/4/om/aifyb_tnl_210x118.jpg",A Pantera Cor de Rosa
 http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/r/am/mddyb_tnl_210x118.jpg",A Hora do Rango
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/r/am/mddyb_tnl_210x118.jpg",A Hora do Rango
 http://media-br-am.crackle.com/1/u/l6/7ewlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://images-br-am.crackle.com/1/c/qm/65dyb_tnl_210x118.jpg",Um Salao do Barulho
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://images-br-am.crackle.com/1/c/qm/65dyb_tnl_210x118.jpg",Um Salao do Barulho
 http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/q/im/7odyb_tnl_210x118.jpg",A Rosa Purpura do Cairo
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/q/im/7odyb_tnl_210x118.jpg",A Rosa Purpura do Cairo
 http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA M"  tvg-logo="http://images-br-am.crackle.com/1/v/cl/7p4wb_tnl_250x141.jpg",Mixed Nuts
+#EXTINF:-1 group-title="FILMES - LETRA M"  tvg-logo="http://images-br-am.crackle.com/1/v/cl/7p4wb_tnl_250x141.jpg",Mixed Nuts
 http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/p/4l/ql9wb_tnl_250x141.jpg",Ricky Bobby - A Toda Velocidade
+#EXTINF:-1 group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/p/4l/ql9wb_tnl_250x141.jpg",Ricky Bobby - A Toda Velocidade
 http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/f/gl/rnbyb_tnl_250x141.jpg",Superbad - E Hoje
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/f/gl/rnbyb_tnl_250x141.jpg",Superbad - E Hoje
 http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://images-br-am.crackle.com/1/3/sm/gpfyb_tnl_210x118.jpg",Uma Festa no Ar
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://images-br-am.crackle.com/1/3/sm/gpfyb_tnl_210x118.jpg",Uma Festa no Ar
 http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://i.imgur.com/34MGwWq.jpg",Uma Turma Do Barulho
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://i.imgur.com/34MGwWq.jpg",Uma Turma Do Barulho
 http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/gXNCBkl.jpg",O Ultimo Grande Heroi
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/gXNCBkl.jpg",O Ultimo Grande Heroi
 http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA K"  tvg-logo="http://i.imgur.com/dJGHPer.jpg",Kung-Fusao
+#EXTINF:-1 group-title="FILMES - LETRA K"  tvg-logo="http://i.imgur.com/dJGHPer.jpg",Kung-Fusao
 http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/9yssDZ7.jpg",O Oposto do Sexo
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/9yssDZ7.jpg",O Oposto do Sexo
 http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA I"  tvg-logo="http://images-br-am.crackle.com/1/6/8l/z7cyb_tnl_210x118.jpg",Ironias do Amor
+#EXTINF:-1 group-title="FILMES - LETRA I"  tvg-logo="http://images-br-am.crackle.com/1/6/8l/z7cyb_tnl_210x118.jpg",Ironias do Amor
 http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://i.imgur.com/OdRfBjm.jpg",Um Peixe Chamado Wanda
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://i.imgur.com/OdRfBjm.jpg",Um Peixe Chamado Wanda
 http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA B"  tvg-logo="http://images-br-am.crackle.com/1/b/km/l7eyb_tnl_210x118.jpg",Bastidores de um Casamento
+#EXTINF:-1 group-title="FILMES - LETRA B"  tvg-logo="http://images-br-am.crackle.com/1/b/km/l7eyb_tnl_210x118.jpg",Bastidores de um Casamento
 http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/3/16/jp1lf_tnl_210x118.jpg",O Chamado de Xangai
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/3/16/jp1lf_tnl_210x118.jpg",O Chamado de Xangai
 http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA P"  tvg-logo="http://images-br-am.crackle.com/1/x/n6/ry2lf_tnl_210x118.jpg",Penelope
+#EXTINF:-1 group-title="FILMES - LETRA P"  tvg-logo="http://images-br-am.crackle.com/1/x/n6/ry2lf_tnl_210x118.jpg",Penelope
 http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/d/wl/recyb_tnl_210x118.jpg",O Paraiso e Logo Aqui
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/d/wl/recyb_tnl_210x118.jpg",O Paraiso e Logo Aqui
 http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA N"  tvg-logo="http://images-br-am.crackle.com/1/5/8l/w7cyb_tnl_210x118.jpg",Nem Por Cima do Meu Cadaver
+#EXTINF:-1 group-title="FILMES - LETRA N"  tvg-logo="http://images-br-am.crackle.com/1/5/8l/w7cyb_tnl_210x118.jpg",Nem Por Cima do Meu Cadaver
 http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/V93meos.jpg",Adeus; Amor
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/V93meos.jpg",Adeus; Amor
 http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://i.imgur.com/Bj8CimT.jpg",Um Amor de Verao
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://i.imgur.com/Bj8CimT.jpg",Um Amor de Verao
 http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://www.zerozen.com.br/video/otario01.jpg",O Otario
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://www.zerozen.com.br/video/otario01.jpg",O Otario
 http://media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA T"  tvg-logo="http://static.cinedica.com.br/capasm/6188.jpg",Tres Mulheres, Tres Amores
+#EXTINF:-1 group-title="FILMES - LETRA T"  tvg-logo="http://static.cinedica.com.br/capasm/6188.jpg",Tres Mulheres, Tres Amores
 http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA M"  tvg-logo="http://2.bp.blogspot.com/-p8Vo6FUVnmM/VCAvlsAQQ1I/AAAAAAAAIcM/eOIBHh2W-_Q/s1600/Meu%2BPrimeiro%2BAmor%2B-%2BParte%2B2.jpg",Meu Primeiro Amor - Parte 2
+#EXTINF:-1 group-title="FILMES - LETRA M"  tvg-logo="http://2.bp.blogspot.com/-p8Vo6FUVnmM/VCAvlsAQQ1I/AAAAAAAAIcM/eOIBHh2W-_Q/s1600/Meu%2BPrimeiro%2BAmor%2B-%2BParte%2B2.jpg",Meu Primeiro Amor - Parte 2
 http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://belezamaquiada.files.wordpress.com/2010/06/salaodobarulho.jpg",Uma Beleza de Salao
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://belezamaquiada.files.wordpress.com/2010/06/salaodobarulho.jpg",Uma Beleza de Salao
 http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://2.bp.blogspot.com/-S6hPrZSFO5M/Tx3CkwAupbI/AAAAAAAABKI/P3xKjNmuEeo/s400/Super.Bad.E.Hoje.DVDRIP.Xvid.Dublado.JPG",Superbad - E Hoje
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://2.bp.blogspot.com/-S6hPrZSFO5M/Tx3CkwAupbI/AAAAAAAABKI/P3xKjNmuEeo/s400/Super.Bad.E.Hoje.DVDRIP.Xvid.Dublado.JPG",Superbad - E Hoje
 http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://1.bp.blogspot.com/_5EE1wK9F0qs/TA8afo8VZDI/AAAAAAAAB8I/Fhro_JuHTPU/s1600/Segurando.as.Pontas.DVDIP.Xvid.Dublado.jpg",Segurando As Pontas
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://1.bp.blogspot.com/_5EE1wK9F0qs/TA8afo8VZDI/AAAAAAAAB8I/Fhro_JuHTPU/s1600/Segurando.as.Pontas.DVDIP.Xvid.Dublado.jpg",Segurando As Pontas
 http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA K"  tvg-logo="http://4.bp.blogspot.com/-d3glfrJcqlw/UwUC5OnDKBI/AAAAAAAAODg/n8-3Q6_fJVY/s1600/capa.jpg",Kung-Fu Futebol Clube
+#EXTINF:-1 group-title="FILMES - LETRA K"  tvg-logo="http://4.bp.blogspot.com/-d3glfrJcqlw/UwUC5OnDKBI/AAAAAAAAODg/n8-3Q6_fJVY/s1600/capa.jpg",Kung-Fu Futebol Clube
 http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://www.cranik.com/images/mrdeeds.jpg",A Heranca de Mr. Deeds
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://www.cranik.com/images/mrdeeds.jpg",A Heranca de Mr. Deeds
 http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://2.bp.blogspot.com/_G0ydGjcQI_8/TUBfZ4ec2EI/AAAAAAAABZ8/WqXoi1kA-yE/s320/image002-758252.jpg",A Inveja Mata
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://2.bp.blogspot.com/_G0ydGjcQI_8/TUBfZ4ec2EI/AAAAAAAABZ8/WqXoi1kA-yE/s320/image002-758252.jpg",A Inveja Mata
 http://media-br-am.crackle.com/1/0/v6/p1zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://2.bp.blogspot.com/-4rbdxNj6AJ4/U3OuQTMvjyI/AAAAAAAAJeI/JVHb5eEiEPw/s1600/Phantom+-+A+Ultima+Missao.jpg",A Ultima Missao
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://2.bp.blogspot.com/-4rbdxNj6AJ4/U3OuQTMvjyI/AAAAAAAAJeI/JVHb5eEiEPw/s1600/Phantom+-+A+Ultima+Missao.jpg",A Ultima Missao
 http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://www.autobahn.com.br/filmes/a_volta_dos_mortos_vivos/screen01.jpg",A Volta dos Mortos Vivos
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://www.autobahn.com.br/filmes/a_volta_dos_mortos_vivos/screen01.jpg",A Volta dos Mortos Vivos
 http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2010/01/thumbs/e80d68a4635f5d8681f00af054c756b6_jpg_290x478_upscale_q90.jpg",Almondegas 4 - Ferias de Verao
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2010/01/thumbs/e80d68a4635f5d8681f00af054c756b6_jpg_290x478_upscale_q90.jpg",Almondegas 4 - Ferias de Verao
 http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA B"  tvg-logo="http://images-br-am.crackle.com/1/j/l6/1dwlf_tnl_210x118.jpg?ts=20150319084339",Bolas em Panico
+#EXTINF:-1 group-title="FILMES - LETRA B"  tvg-logo="http://images-br-am.crackle.com/1/j/l6/1dwlf_tnl_210x118.jpg?ts=20150319084339",Bolas em Panico
 http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://static.cinedica.com.br/capasm/10283.jpg",Como conquistar uma mulher
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://static.cinedica.com.br/capasm/10283.jpg",Como conquistar uma mulher
 http://media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA F"  tvg-logo="http://images-br-am.crackle.com/1/d/wl/tecyb_tnl_210x118.jpg?ts=20130517223307",Fido - O Mascote
+#EXTINF:-1 group-title="FILMES - LETRA F"  tvg-logo="http://images-br-am.crackle.com/1/d/wl/tecyb_tnl_210x118.jpg?ts=20130517223307",Fido - O Mascote
 http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA F"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/funcionario-do-mes_cartaz_220x283.jpg",Funcionario do Mes
+#EXTINF:-1 group-title="FILMES - LETRA F"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/funcionario-do-mes_cartaz_220x283.jpg",Funcionario do Mes
 http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA G"  tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/95/49/34/20408653.jpg",Grande Hotel
+#EXTINF:-1 group-title="FILMES - LETRA G"  tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/95/49/34/20408653.jpg",Grande Hotel
 http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA J"  tvg-logo="http://images-br-am.crackle.com/1/k/ol/y0byb_tnl_210x118.jpg?ts=20130222043142",Jogando com Prazer
+#EXTINF:-1 group-title="FILMES - LETRA J"  tvg-logo="http://images-br-am.crackle.com/1/k/ol/y0byb_tnl_210x118.jpg?ts=20130222043142",Jogando com Prazer
 http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA J"  tvg-logo="http://2.bp.blogspot.com/-vn1jJoVbbuI/UcC_C4dZ3JI/AAAAAAAAJ2U/Gnr2VZYobi0/s1600/capa.jpg",Jogos, Trapacas E Dois Canos Fumegantes
+#EXTINF:-1 group-title="FILMES - LETRA J"  tvg-logo="http://2.bp.blogspot.com/-vn1jJoVbbuI/UcC_C4dZ3JI/AAAAAAAAJ2U/Gnr2VZYobi0/s1600/capa.jpg",Jogos, Trapacas E Dois Canos Fumegantes
 http://media-br-am.crackle.com/1/n/um/rbeyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA N"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/11/00/19872109.jpg",Nao e Mais um Besteirol Americano
+#EXTINF:-1 group-title="FILMES - LETRA N"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/11/00/19872109.jpg",Nao e Mais um Besteirol Americano
 http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://1.bp.blogspot.com/-wnbcEM6YDn4/UaU1HFQfk9I/AAAAAAAADEo/gzCyOvddTZc/s320/1920.jpg",O Balconista
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://1.bp.blogspot.com/-wnbcEM6YDn4/UaU1HFQfk9I/AAAAAAAADEo/gzCyOvddTZc/s320/1920.jpg",O Balconista
 http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/m/im/ordyb_tnl_210x118.jpg?ts=20131119184935",O Julgamento de Paris
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/m/im/ordyb_tnl_210x118.jpg?ts=20131119184935",O Julgamento de Paris
 http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://login.webadvisor.com.br/sites/1700/1730/2012Img/Agosto/OPaizAo.jpg",O Paizao
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://login.webadvisor.com.br/sites/1700/1730/2012Img/Agosto/OPaizAo.jpg",O Paizao
 http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/a/16/96wlf_tnl_210x118.jpg?ts=20150319110411",Os Safados
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/a/16/96wlf_tnl_210x118.jpg?ts=20150319110411",Os Safados
 http://media-br-am.crackle.com/1/a/16/96wlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA P"  tvg-logo="http://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebb071e6de.jpg",Procurando Encrenca
+#EXTINF:-1 group-title="FILMES - LETRA P"  tvg-logo="http://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebb071e6de.jpg",Procurando Encrenca
 http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA P"  tvg-logo="http://www.imagemfilmes.com.br/resources/capas/103769_000_c.jpg",Provas E Trapacas
+#EXTINF:-1 group-title="FILMES - LETRA P"  tvg-logo="http://www.imagemfilmes.com.br/resources/capas/103769_000_c.jpg",Provas E Trapacas
 http://media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA Q"  tvg-logo="http://images-br-am.crackle.com/1/e/gl/lkbyb_tnl_210x118.jpg",Quase Ilegal
+#EXTINF:-1 group-title="FILMES - LETRA Q"  tvg-logo="http://images-br-am.crackle.com/1/e/gl/lkbyb_tnl_210x118.jpg",Quase Ilegal
 http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://i.imgur.com/WZIYhgj.jpg",Secretaria
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://i.imgur.com/WZIYhgj.jpg",Secretaria
 http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/r/im/9odyb_tnl_210x118.jpg",Sob Suspeita (2006)
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/r/im/9odyb_tnl_210x118.jpg",Sob Suspeita (2006)
 http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-swingers-curtindo-a-noite-jon-favreau-14671-MLB101235607_6439-O.jpg",Swingers - Curtindo a Noite
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-swingers-curtindo-a-noite-jon-favreau-14671-MLB101235607_6439-O.jpg",Swingers - Curtindo a Noite
 http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA T"  tvg-logo="http://27.media.tumblr.com/tumblr_le9klopJxT1qd6icvo1_500.jpg",Trabalho Sujo
+#EXTINF:-1 group-title="FILMES - LETRA T"  tvg-logo="http://27.media.tumblr.com/tumblr_le9klopJxT1qd6icvo1_500.jpg",Trabalho Sujo
 http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA T"  tvg-logo="http://blogdoheu.files.wordpress.com/2010/02/tres-amigos.jpg",Tres Amigos!
+#EXTINF:-1 group-title="FILMES - LETRA T"  tvg-logo="http://blogdoheu.files.wordpress.com/2010/02/tres-amigos.jpg",Tres Amigos!
 http://media-br-am.crackle.com/1/y/f6/76ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/05/thumbs/d1ac6b5e922764939e1c90b5a7aad430_jpg_290x478_upscale_q90.jpg",Uma Noiva e Tanto
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/05/thumbs/d1ac6b5e922764939e1c90b5a7aad430_jpg_290x478_upscale_q90.jpg",Uma Noiva e Tanto
 http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/uma-turma-do-barulho_cartaz_220x283.jpg",Uma Turma Do Barulho
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/uma-turma-do-barulho_cartaz_220x283.jpg",Uma Turma Do Barulho
 http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA B"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/25/20/19873566.jpg",Vamos Nessa
+#EXTINF:-1 group-title="FILMES - LETRA B"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/25/20/19873566.jpg",Vamos Nessa
 http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/g/f6/44ylf_tnl_210x118.jpg",As Faces de Helen
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/g/f6/44ylf_tnl_210x118.jpg",As Faces de Helen
 http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA E"  tvg-logo="http://images-br-am.crackle.com/1/y/f6/73ylf_tnl_210x118.jpg",Encontros ao Acaso
+#EXTINF:-1 group-title="FILMES - LETRA E"  tvg-logo="http://images-br-am.crackle.com/1/y/f6/73ylf_tnl_210x118.jpg",Encontros ao Acaso
 http://media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/y/r6/3gvlf_tnl_210x118.jpg",Sexo, Mentiras e Videotape
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/y/r6/3gvlf_tnl_210x118.jpg",Sexo, Mentiras e Videotape
 http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA V"  tvg-logo="http://images-br-am.crackle.com/1/w/96/b41lf_tnl_210x118.jpg",Vestigios do Dia
+#EXTINF:-1 group-title="FILMES - LETRA V"  tvg-logo="http://images-br-am.crackle.com/1/w/96/b41lf_tnl_210x118.jpg",Vestigios do Dia
 http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA L"  tvg-logo="http://images-br-am.crackle.com/1/8/l6/ujwlf_tnl_210x118.jpg",Lendas da Paixao
+#EXTINF:-1 group-title="FILMES - LETRA L"  tvg-logo="http://images-br-am.crackle.com/1/8/l6/ujwlf_tnl_210x118.jpg",Lendas da Paixao
 http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/x/56/6v1lf_tnl_210x118.jpg",Rain Man
+#EXTINF:-1 group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/x/56/6v1lf_tnl_210x118.jpg",Rain Man
 http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA D"  tvg-logo="http://images-br-am.crackle.com/1/9/l6/wjwlf_tnl_210x118.jpg",Desaparecidas
+#EXTINF:-1 group-title="FILMES - LETRA D"  tvg-logo="http://images-br-am.crackle.com/1/9/l6/wjwlf_tnl_210x118.jpg",Desaparecidas
 http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/q/sl/wbcyb_tnl_210x118.jpg",Sem Vestigios
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/q/sl/wbcyb_tnl_210x118.jpg",Sem Vestigios
 http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/r/im/apdyb_tnl_210x118.jpg",Secretaria
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/r/im/apdyb_tnl_210x118.jpg",Secretaria
 http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/p/f6/55ylf_tnl_210x118.jpg",Os Miseraveis
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/p/f6/55ylf_tnl_210x118.jpg",Os Miseraveis
 http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/x/n6/o9ulf_tnl_210x118.jpg",O Aprendiz
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/x/n6/o9ulf_tnl_210x118.jpg",O Aprendiz
 http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA N"  tvg-logo="http://images-br-am.crackle.com/1/1/16/cp1lf_tnl_210x118.jpg",Nas Profundezas Do Mar Sem Fim
+#EXTINF:-1 group-title="FILMES - LETRA N"  tvg-logo="http://images-br-am.crackle.com/1/1/16/cp1lf_tnl_210x118.jpg",Nas Profundezas Do Mar Sem Fim
 http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA L"  tvg-logo="http://i.imgur.com/cjqhZ2I.jpg",Lawrence da Arabia
+#EXTINF:-1 group-title="FILMES - LETRA L"  tvg-logo="http://i.imgur.com/cjqhZ2I.jpg",Lawrence da Arabia
 http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA N"  tvg-logo="http://images-br-am.crackle.com/1/d/qm/85dyb_tnl_210x118.jpg",Nao Sem a Minha Filha
+#EXTINF:-1 group-title="FILMES - LETRA N"  tvg-logo="http://images-br-am.crackle.com/1/d/qm/85dyb_tnl_210x118.jpg",Nao Sem a Minha Filha
 http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/p/wm/6ufyb_tnl_210x118.jpg",A Outra
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/p/wm/6ufyb_tnl_210x118.jpg",A Outra
 http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://1.bp.blogspot.com/-2ZKaFzH0vk8/UpNVVJdercI/AAAAAAAAGTg/-K50zsHFdvA/s1600/Amigas+com+Dinheiro.jpg",Amigas com Dinheiro
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://1.bp.blogspot.com/-2ZKaFzH0vk8/UpNVVJdercI/AAAAAAAAGTg/-K50zsHFdvA/s1600/Amigas+com+Dinheiro.jpg",Amigas com Dinheiro
 http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://i.imgur.com/YRk5DeP.jpg",Um homem fora de serie
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://i.imgur.com/YRk5DeP.jpg",Um homem fora de serie
 http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA G"  tvg-logo="http://imgur.com/XLvUe.png",Garotas Selvagens 4
+#EXTINF:-1 group-title="FILMES - LETRA G"  tvg-logo="http://imgur.com/XLvUe.png",Garotas Selvagens 4
 http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/DxQ2rvs.jpg",O Povo Contra Larry Flynt
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/DxQ2rvs.jpg",O Povo Contra Larry Flynt
 http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://images-br-am.crackle.com/1/l/om/1ffyb_tnl_210x118.jpg",Codigo de Honra
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://images-br-am.crackle.com/1/l/om/1ffyb_tnl_210x118.jpg",Codigo de Honra
 http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://i.imgur.com/gTkknLt.jpg",Sedutora e diabolica
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://i.imgur.com/gTkknLt.jpg",Sedutora e diabolica
 http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://goo.gl/sa1YZm",Cada um Vive Como Quer
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://goo.gl/sa1YZm",Cada um Vive Como Quer
 http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://www.imagemfilmes.com.br/resources/capas/103791_000_p.jpg",As coisas impossiveis do amor
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://www.imagemfilmes.com.br/resources/capas/103791_000_p.jpg",As coisas impossiveis do amor
 http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA V"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/32/24/19874302.jpg",Vidas Que Se Cruzam
+#EXTINF:-1 group-title="FILMES - LETRA V"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/32/24/19874302.jpg",Vidas Que Se Cruzam
 http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/5/8l/u7cyb_tnl_210x118.jpg?ts=20130817031148",O Despertar de uma Paixao
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/5/8l/u7cyb_tnl_210x118.jpg?ts=20130817031148",O Despertar de uma Paixao
 http://media-br-am.crackle.com/1/5/8l/u7cyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA P"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/17/45/19872769.jpg",Por Amor
+#EXTINF:-1 group-title="FILMES - LETRA P"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/17/45/19872769.jpg",Por Amor
 http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://guiadoscuriosos.com.br/blog/wp-content/uploads/2014/02/MPW-13543.jpg",Oliver!
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://guiadoscuriosos.com.br/blog/wp-content/uploads/2014/02/MPW-13543.jpg",Oliver!
 http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA L"  tvg-logo="http://i.imgur.com/GrWnTO7.jpg",Laurel Canyon - A Rua das Tentacoes
+#EXTINF:-1 group-title="FILMES - LETRA L"  tvg-logo="http://i.imgur.com/GrWnTO7.jpg",Laurel Canyon - A Rua das Tentacoes
 http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/rancho-do-amor_cartaz_220x283.jpg",O Rancho do Amor
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/rancho-do-amor_cartaz_220x283.jpg",O Rancho do Amor
 http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://static.omelete.uol.com.br/legacy/imagens/cinema/artigos2/um_segredo_entre_nos/poster.jpg",Um Segredo Entre Nos
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://static.omelete.uol.com.br/legacy/imagens/cinema/artigos2/um_segredo_entre_nos/poster.jpg",Um Segredo Entre Nos
 http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA E"  tvg-logo="http://4.bp.blogspot.com/_v42LCUO_1aQ/TL2LFXX-i3I/AAAAAAAABBA/xUJMV51UyKY/s1600/ErinBrockovich.jpeg",Erin Brockovich - Uma Mulher de Talento
+#EXTINF:-1 group-title="FILMES - LETRA E"  tvg-logo="http://4.bp.blogspot.com/_v42LCUO_1aQ/TL2LFXX-i3I/AAAAAAAABBA/xUJMV51UyKY/s1600/ErinBrockovich.jpeg",Erin Brockovich - Uma Mulher de Talento
 http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://images1.folha.com.br/livraria/images/3/c/1153148-250x250.png",Sete Vidas
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://images1.folha.com.br/livraria/images/3/c/1153148-250x250.png",Sete Vidas
 http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA H" tvg-logo="http://images-br-am.crackle.com/1/x/om/gefyb_tnl_210x118.jpg",Hackers - Piratas de Computador
+#EXTINF:-1 group-title="FILMES - LETRA H" tvg-logo="http://images-br-am.crackle.com/1/x/om/gefyb_tnl_210x118.jpg",Hackers - Piratas de Computador
 http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA #"  tvg-logo="http://i.imgur.com/pF57aNO.jpg",12 Horas
+#EXTINF:-1 group-title="FILMES - LETRA #"  tvg-logo="http://i.imgur.com/pF57aNO.jpg",12 Horas
 http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA #"  tvg-logo="http://goo.gl/gdeJRK",8mm - Oito Milimetros
+#EXTINF:-1 group-title="FILMES - LETRA #"  tvg-logo="http://goo.gl/gdeJRK",8mm - Oito Milimetros
 http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA #"  tvg-logo="http://goo.gl/yS3W48",8mm - Oito Milimetros 2
+#EXTINF:-1 group-title="FILMES - LETRA #"  tvg-logo="http://goo.gl/yS3W48",8mm - Oito Milimetros 2
 http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/87/28/18/19873882.jpg",Caminho Sem Volta
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/87/28/18/19873882.jpg",Caminho Sem Volta
 http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/c/qm/55dyb_tnl_210x118.jpg",A festa nunca termina
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/c/qm/55dyb_tnl_210x118.jpg",A festa nunca termina
 http://media-br-am.crackle.com/1/q/f6/85ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://tv.olink.pm/filmes/img/A%20Grande%20Jogada.jpg",A Grande Jogada
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://tv.olink.pm/filmes/img/A%20Grande%20Jogada.jpg",A Grande Jogada
 http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/93/46/96/20258667.jpg",As Duas Faces Da Lei
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/93/46/96/20258667.jpg",As Duas Faces Da Lei
 http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/65/30/20107036.jpg",Coisas Belas E Sujas
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/65/30/20107036.jpg",Coisas Belas E Sujas
 http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA F"  tvg-logo="http://images-br-am.crackle.com/1/s/im/cpdyb_tnl_210x118.jpg",Femme Fatale
+#EXTINF:-1 group-title="FILMES - LETRA F"  tvg-logo="http://images-br-am.crackle.com/1/s/im/cpdyb_tnl_210x118.jpg",Femme Fatale
 http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA I"  tvg-logo="http://goo.gl/CexmlI",Inocente Ou Culpado
+#EXTINF:-1 group-title="FILMES - LETRA I"  tvg-logo="http://goo.gl/CexmlI",Inocente Ou Culpado
 http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA L"  tvg-logo="http://images-br-am.crackle.com/1/9/0l/qscyb_tnl_210x118.jpg",Luta Pela Liberdade
+#EXTINF:-1 group-title="FILMES - LETRA L"  tvg-logo="http://images-br-am.crackle.com/1/9/0l/qscyb_tnl_210x118.jpg",Luta Pela Liberdade
 http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA M"  tvg-logo="http://i.imgur.com/vI2h9jC.jpg",Marcas do passado
+#EXTINF:-1 group-title="FILMES - LETRA M"  tvg-logo="http://i.imgur.com/vI2h9jC.jpg",Marcas do passado
 http://media-br-am.crackle.com/1/g/z6/ntvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://4.bp.blogspot.com/-UHJgm5_LB_4/U_bf8aiRBeI/AAAAAAAAKRk/0wawskdeGWU/s1600/capa%2B11.jpg",O Cantor
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://4.bp.blogspot.com/-UHJgm5_LB_4/U_bf8aiRBeI/AAAAAAAAKRk/0wawskdeGWU/s1600/capa%2B11.jpg",O Cantor
 http://media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/k/ol/w0byb_tnl_210x118.jpg",O Ilusionista
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/k/ol/w0byb_tnl_210x118.jpg",O Ilusionista
 http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://i.imgur.com/nLM9psn.jpg",O Resgate de um Campeao
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://i.imgur.com/nLM9psn.jpg",O Resgate de um Campeao
 http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://cineindiscreto.files.wordpress.com/2010/12/o-golpista-do-ano-poster.jpg",O Vigarista do ano
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://cineindiscreto.files.wordpress.com/2010/12/o-golpista-do-ano-poster.jpg",O Vigarista do ano
 http://media-br-am.crackle.com/1/y/z6/psvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R" tvg-logo="http://cinezencultural.com.br/site/wp-content/uploads/2009/08/rededeintrigas.jpg",Rede de Intrigas
+#EXTINF:-1 group-title="FILMES - LETRA R" tvg-logo="http://cinezencultural.com.br/site/wp-content/uploads/2009/08/rededeintrigas.jpg",Rede de Intrigas
 http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S" tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/seducao-fatal_cartaz_220x283.jpg",Seducao Fatal
+#EXTINF:-1 group-title="FILMES - LETRA S" tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/seducao-fatal_cartaz_220x283.jpg",Seducao Fatal
 http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://eovideolevou.com.br/imgProduto/70303_f1.jpg",Seis Graus de Separacao
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://eovideolevou.com.br/imgProduto/70303_f1.jpg",Seis Graus de Separacao
 http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/t/am/sddyb_tnl_210x118.jpg",Sem Saida
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/t/am/sddyb_tnl_210x118.jpg",Sem Saida
 http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/21/59/19873197.jpg",Studio 54
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/21/59/19873197.jpg",Studio 54
 http://media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://images-br-am.crackle.com/1/8/sl/ydcyb_tnl_210x118.jpg",Um Homem Bom
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://images-br-am.crackle.com/1/8/sl/ydcyb_tnl_210x118.jpg",Um Homem Bom
 http://media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA P"  tvg-logo="http://images-br-am.crackle.com/1/x/n6/qy2lf_tnl_210x118.jpg",Premonicoes
+#EXTINF:-1 group-title="FILMES - LETRA P"  tvg-logo="http://images-br-am.crackle.com/1/x/n6/qy2lf_tnl_210x118.jpg",Premonicoes
 http://media-br-am.crackle.com/1/x/n6/qy2lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/z/n6/zy2lf_tnl_210x118.jpg",A Ultima Profecia
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/z/n6/zy2lf_tnl_210x118.jpg",A Ultima Profecia
 http://media-br-am.crackle.com/1/z/n6/zy2lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://images-br-am.crackle.com/1/w/h6/57vlf_tnl_210x118.jpg",Uma Garota Encantada
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://images-br-am.crackle.com/1/w/h6/57vlf_tnl_210x118.jpg",Uma Garota Encantada
 http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/y/56/8v1lf_tnl_210x118.jpg",Simplesmente Alice
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/y/56/8v1lf_tnl_210x118.jpg",Simplesmente Alice
 http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/8/16/5p1lf_tnl_210x118.jpg",Sacrificio
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/8/16/5p1lf_tnl_210x118.jpg",Sacrificio
 http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/j/l6/ydwlf_tnl_210x118.jpg",A Informante
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/j/l6/ydwlf_tnl_210x118.jpg",A Informante
 http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-o-sangue-de-romeo-gary-oldman-14575-MLB95378491_5724-O.jpg",O Sangue de Romeo
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-o-sangue-de-romeo-gary-oldman-14575-MLB95378491_5724-O.jpg",O Sangue de Romeo
 http://media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/93/75/92/20275887.jpg",O Inquilino
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/93/75/92/20275887.jpg",O Inquilino
 http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://goo.gl/NgXK8f",Solteira Procura 2
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://goo.gl/NgXK8f",Solteira Procura 2
 http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA P" tvg-logo="http://dvdefilme.files.wordpress.com/2012/08/dirty-o-poder-da-corrupc3a7c3a3o.jpg",Poder e Corrupcao (Dirty)
+#EXTINF:-1 group-title="FILMES - LETRA P" tvg-logo="http://dvdefilme.files.wordpress.com/2012/08/dirty-o-poder-da-corrupc3a7c3a3o.jpg",Poder e Corrupcao (Dirty)
 http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A" tvg-logo="http://megapix.img.estaticos.tv.br/cache/cartazes/amigos-de-caca_cartaz_220x284.jpg",Amigo de Caca
+#EXTINF:-1 group-title="FILMES - LETRA A" tvg-logo="http://megapix.img.estaticos.tv.br/cache/cartazes/amigos-de-caca_cartaz_220x284.jpg",Amigo de Caca
 http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/5/8l/u7cyb_tnl_210x118.jpg",Aprendendo A Viver
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/5/8l/u7cyb_tnl_210x118.jpg",Aprendendo A Viver
 http://media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://images-br-am.crackle.com/1/c/qm/75dyb_tnl_210x118.jpg",Caminhos Opostos
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://images-br-am.crackle.com/1/c/qm/75dyb_tnl_210x118.jpg",Caminhos Opostos
 http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA E"  tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/96/94/01/20497721.jpg",Eu Sei Quem Me Matou
+#EXTINF:-1 group-title="FILMES - LETRA E"  tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/96/94/01/20497721.jpg",Eu Sei Quem Me Matou
 http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA H"  tvg-logo="http://images-br-am.crackle.com/1/6/8l/27cyb_tnl_210x118.jpg",Homens Perigosos
+#EXTINF:-1 group-title="FILMES - LETRA H"  tvg-logo="http://images-br-am.crackle.com/1/6/8l/27cyb_tnl_210x118.jpg",Homens Perigosos
 http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://i.imgur.com/9iv5y9W.jpg",O Sequestro do Metro 123
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://i.imgur.com/9iv5y9W.jpg",O Sequestro do Metro 123
 http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/KcR9C4c.jpg",O Tango e o Assassino
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/KcR9C4c.jpg",O Tango e o Assassino
 http://media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/DsXlu1R.jpg",Ouro Branco
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://i.imgur.com/DsXlu1R.jpg",Ouro Branco
 http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA P"  tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-original-do-filme-paraiso-14505-MLB3104010334_092012-O.jpg",Paraiso
+#EXTINF:-1 group-title="FILMES - LETRA P"  tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-original-do-filme-paraiso-14505-MLB3104010334_092012-O.jpg",Paraiso
 http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/9/16/6p1lf_tnl_210x118.jpg",Os Mensageiros
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/9/16/6p1lf_tnl_210x118.jpg",Os Mensageiros
 http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA T"  tvg-logo="http://images-br-am.crackle.com/1/q/r6/b22lf_tnl_210x118.jpg",Turistas
+#EXTINF:-1 group-title="FILMES - LETRA T"  tvg-logo="http://images-br-am.crackle.com/1/q/r6/b22lf_tnl_210x118.jpg",Turistas
 http://media-br-am.crackle.com/1/q/r6/b22lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/z/km/f7eyb_tnl_210x118.jpg",Stigmata
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/z/km/f7eyb_tnl_210x118.jpg",Stigmata
 http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/v/n6/g6ulf_tnl_210x118.jpg",Resident Evil - Apocalipse
+#EXTINF:-1 group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/v/n6/g6ulf_tnl_210x118.jpg",Resident Evil - Apocalipse
 http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/r/16/68wlf_tnl_210x118.jpg",O Albergue 2
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/r/16/68wlf_tnl_210x118.jpg",O Albergue 2
 http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA J"  tvg-logo="http://images-br-am.crackle.com/1/f/l6/hdwlf_tnl_210x118.jpg",Jovens Bruxas
+#EXTINF:-1 group-title="FILMES - LETRA J"  tvg-logo="http://images-br-am.crackle.com/1/f/l6/hdwlf_tnl_210x118.jpg",Jovens Bruxas
 http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA E" tvg-logo="http://images-br-am.crackle.com/1/_/h6/tcwlf_tnl_210x118.jpg",Evil Dead - A Morte do Demonio
+#EXTINF:-1 group-title="FILMES - LETRA E" tvg-logo="http://images-br-am.crackle.com/1/_/h6/tcwlf_tnl_210x118.jpg",Evil Dead - A Morte do Demonio
 http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/pictures/14/10/07/20/11/210244.jpg",O Albergue
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/pictures/14/10/07/20/11/210244.jpg",O Albergue
 http://media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA L" tvg-logo="http://goo.gl/9WG722",Lenda Urbana 2
+#EXTINF:-1 group-title="FILMES - LETRA L" tvg-logo="http://goo.gl/9WG722",Lenda Urbana 2
 http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S" tvg-logo="http://i.imgur.com/DvAdlH3.jpg",Silent Hill: Revelacao
+#EXTINF:-1 group-title="FILMES - LETRA S" tvg-logo="http://i.imgur.com/DvAdlH3.jpg",Silent Hill: Revelacao
 http://media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://images-br-am.crackle.com/1/s/ml/pkayb_tnl_210x118.jpg",O Grito 2
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://images-br-am.crackle.com/1/s/ml/pkayb_tnl_210x118.jpg",O Grito 2
 http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C" tvg-logo="http://www.alemdaimaginacao.com/Noticias/Christine/christine_capa.jpg",Christine - O Carro Assassino
+#EXTINF:-1 group-title="FILMES - LETRA C" tvg-logo="http://www.alemdaimaginacao.com/Noticias/Christine/christine_capa.jpg",Christine - O Carro Assassino
 http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA B" tvg-logo="http://images-br-am.crackle.com/1/t/am/uddyb_tnl_210x118.jpg",Brinquedo Assassino
+#EXTINF:-1 group-title="FILMES - LETRA B" tvg-logo="http://images-br-am.crackle.com/1/t/am/uddyb_tnl_210x118.jpg",Brinquedo Assassino
 http://media-br-am.crackle.com/1/t/am/uddyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA K" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_2333_Kalifornia.jpg",Kalifornia - Uma Viagem ao Inferno
+#EXTINF:-1 group-title="FILMES - LETRA K" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_2333_Kalifornia.jpg",Kalifornia - Uma Viagem ao Inferno
 http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA N" tvg-logo="http://www.interfilmes.com/FILMES/21900/21934/fotocapa.jpg",Nao Adianta Fugir
+#EXTINF:-1 group-title="FILMES - LETRA N" tvg-logo="http://www.interfilmes.com/FILMES/21900/21934/fotocapa.jpg",Nao Adianta Fugir
 http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://goo.gl/6b3GTS",O Principal Suspeito
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://goo.gl/6b3GTS",O Principal Suspeito
 http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/4/4b/Rec_poster.jpg",REC
+#EXTINF:-1 group-title="FILMES - LETRA R" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/4/4b/Rec_poster.jpg",REC
 http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA T" tvg-logo="http://goo.gl/jZwPn0",Tentaculos
+#EXTINF:-1 group-title="FILMES - LETRA T" tvg-logo="http://goo.gl/jZwPn0",Tentaculos
 http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA T" tvg-logo="http://images-br-am.crackle.com/1/q/4l/yucyb_tnl_210x118.jpg",Torturado
+#EXTINF:-1 group-title="FILMES - LETRA T" tvg-logo="http://images-br-am.crackle.com/1/q/4l/yucyb_tnl_210x118.jpg",Torturado
 http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA V" tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/05/Vestida-para-Matar-1980-3.jpg",Vestida Para Matar
+#EXTINF:-1 group-title="FILMES - LETRA V" tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/05/Vestida-para-Matar-1980-3.jpg",Vestida Para Matar
 http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA F"  tvg-logo="http://images-br-am.crackle.com/1/d/f6/t4ylf_tnl_210x118.jpg",Feitico do Tempo
+#EXTINF:-1 group-title="FILMES - LETRA F"  tvg-logo="http://images-br-am.crackle.com/1/d/f6/t4ylf_tnl_210x118.jpg",Feitico do Tempo
 http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/o/4j/grftb_tnl_210x118.jpg",Anjos da Noite: A Evolucao
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/o/4j/grftb_tnl_210x118.jpg",Anjos da Noite: A Evolucao
 http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA H"  tvg-logo="http://images-br-am.crackle.com/1/u/96/631lf_tnl_210x118.jpg",Hancock
+#EXTINF:-1 group-title="FILMES - LETRA H"  tvg-logo="http://images-br-am.crackle.com/1/u/96/631lf_tnl_210x118.jpg",Hancock
 http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA F"  tvg-logo="http://images-br-am.crackle.com/1/w/n6/j9ulf_tnl_210x118.jpg",Fuga de Absolom
+#EXTINF:-1 group-title="FILMES - LETRA F"  tvg-logo="http://images-br-am.crackle.com/1/w/n6/j9ulf_tnl_210x118.jpg",Fuga de Absolom
 http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA D"  tvg-logo="http://images-br-am.crackle.com/1/z/n6/v9ulf_tnl_210x118.jpg",Dr. Fantastico
+#EXTINF:-1 group-title="FILMES - LETRA D"  tvg-logo="http://images-br-am.crackle.com/1/z/n6/v9ulf_tnl_210x118.jpg",Dr. Fantastico
 http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/h/om/lffyb_tnl_210x118.jpg",Supernova
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/h/om/lffyb_tnl_210x118.jpg",Supernova
 http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S" tvg-logo="http://images-br-am.crackle.com/1/e/r6/tbvlf_tnl_210x118.jpg",Starman - O Homem das Estrelas
+#EXTINF:-1 group-title="FILMES - LETRA S" tvg-logo="http://images-br-am.crackle.com/1/e/r6/tbvlf_tnl_210x118.jpg",Starman - O Homem das Estrelas
 http://media-br-am.crackle.com/1/e/r6/tbvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/e/um/qaeyb_tnl_210x118.jpg",Robocop 3
+#EXTINF:-1 group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/e/um/qaeyb_tnl_210x118.jpg",Robocop 3
 http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R"  tvg-logo="http://i.imgur.com/6hrlpiG.jpg",Robocop - O Policial do Futuro
+#EXTINF:-1 group-title="FILMES - LETRA R"  tvg-logo="http://i.imgur.com/6hrlpiG.jpg",Robocop - O Policial do Futuro
 http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA H"  tvg-logo="http://images-br-am.crackle.com/1/g/wl/3ecyb_tnl_210x118.jpg",Herois
+#EXTINF:-1 group-title="FILMES - LETRA H"  tvg-logo="http://images-br-am.crackle.com/1/g/wl/3ecyb_tnl_210x118.jpg",Herois
 http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R"  tvg-logo="http://i.imgur.com/Lwu2Poq.jpg",Resident Evil - O Hospede Maldito
+#EXTINF:-1 group-title="FILMES - LETRA R"  tvg-logo="http://i.imgur.com/Lwu2Poq.jpg",Resident Evil - O Hospede Maldito
 http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA #"  tvg-logo="http://images-br-am.crackle.com/1/c/qm/45dyb_tnl_210x118.jpg",1984
+#EXTINF:-1 group-title="FILMES - LETRA #"  tvg-logo="http://images-br-am.crackle.com/1/c/qm/45dyb_tnl_210x118.jpg",1984
 http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/93/39/20121003.jpg",Contatos Imediatos de Terceiro Grau
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/93/39/20121003.jpg",Contatos Imediatos de Terceiro Grau
 http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA E"  tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/01/02/19871066.jpg",Equilibrio
+#EXTINF:-1 group-title="FILMES - LETRA E"  tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/01/02/19871066.jpg",Equilibrio
 http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA E"  tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/e/ee/Existenz.jpg/200px-Existenz.jpg",eXistenZ
+#EXTINF:-1 group-title="FILMES - LETRA E"  tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/e/ee/Existenz.jpg/200px-Existenz.jpg",eXistenZ
 http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://bastidoores.files.wordpress.com/2010/12/skyline-poster-20102010.jpg",Skyline - A Invasao
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://bastidoores.files.wordpress.com/2010/12/skyline-poster-20102010.jpg",Skyline - A Invasao
 http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA V"  tvg-logo="http://images-br-am.crackle.com/1/j/4l/1wcyb_tnl_210x118.jpg",Violacao de Privacidade
+#EXTINF:-1 group-title="FILMES - LETRA V"  tvg-logo="http://images-br-am.crackle.com/1/j/4l/1wcyb_tnl_210x118.jpg",Violacao de Privacidade
 http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R"  tvg-logo="http://upload.wikimedia.org/wikipedia/pt/3/34/Resident_Evil_Extinction.jpg",Resident Evil 3: A Extincao
+#EXTINF:-1 group-title="FILMES - LETRA R"  tvg-logo="http://upload.wikimedia.org/wikipedia/pt/3/34/Resident_Evil_Extinction.jpg",Resident Evil 3: A Extincao
 http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA E"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/0w2lf_tnl_210x118.jpg",Espiao Por Acidente
+#EXTINF:-1 group-title="FILMES - LETRA E"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/0w2lf_tnl_210x118.jpg",Espiao Por Acidente
 http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R" tvg-logo="http://images-br-am.crackle.com/1/x/n6/py2lf_tnl_210x118.jpg",Redline: Velocidade sem Limites
+#EXTINF:-1 group-title="FILMES - LETRA R" tvg-logo="http://images-br-am.crackle.com/1/x/n6/py2lf_tnl_210x118.jpg",Redline: Velocidade sem Limites
 http://media-br-am.crackle.com/1/x/n6/py2lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/y/n6/sy2lf_tnl_210x118.jpg",Ong-Bak - Guerreiro Sagrado
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/y/n6/sy2lf_tnl_210x118.jpg",Ong-Bak - Guerreiro Sagrado
 http://media-br-am.crackle.com/1/y/n6/sy2lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA T"  tvg-logo="http://images-br-am.crackle.com/1/j/8m/dhgyb_tnl_210x118.jpg",Triplo X
+#EXTINF:-1 group-title="FILMES - LETRA T"  tvg-logo="http://images-br-am.crackle.com/1/j/8m/dhgyb_tnl_210x118.jpg",Triplo X
 http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/1w2lf_tnl_210x118.jpg",O Homen Sombra
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/r/n6/1w2lf_tnl_210x118.jpg",O Homen Sombra
 http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA X"  tvg-logo="http://images-br-am.crackle.com/1/r/z6/wuvlf_tnl_210x118.jpg",XXX2 - Estado de Emergencia
+#EXTINF:-1 group-title="FILMES - LETRA X"  tvg-logo="http://images-br-am.crackle.com/1/r/z6/wuvlf_tnl_210x118.jpg",XXX2 - Estado de Emergencia
 http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/4/f6/w7ylf_tnl_210x118.jpg",Replicante
+#EXTINF:-1 group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/4/f6/w7ylf_tnl_210x118.jpg",Replicante
 http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA J"  tvg-logo="http://images-br-am.crackle.com/1/5/f6/y7ylf_tnl_210x118.jpg",JCVD
+#EXTINF:-1 group-title="FILMES - LETRA J"  tvg-logo="http://images-br-am.crackle.com/1/5/f6/y7ylf_tnl_210x118.jpg",JCVD
 http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://www.interfilmes.com/FILMES/16100/16150/fotocapa.jpg",O Forasteiro 2
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://www.interfilmes.com/FILMES/16100/16150/fotocapa.jpg",O Forasteiro 2
 http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/fl0iNA3.jpg",Anjos da Noite 3 - A Rebeliao
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/fl0iNA3.jpg",Anjos da Noite 3 - A Rebeliao
 http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://goo.gl/dDq19Y",Sou Espiao
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://goo.gl/dDq19Y",Sou Espiao
 http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://cinema10.com.br/upload/filmes/filmes_2988_Assalto%20Sobre%20Trilhos.jpg",Assalto Sobre Trilhos
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://cinema10.com.br/upload/filmes/filmes_2988_Assalto%20Sobre%20Trilhos.jpg",Assalto Sobre Trilhos
 http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA E"  tvg-logo="http://i.imgur.com/ssl6WGT.jpg",Excesso de Bagagem
+#EXTINF:-1 group-title="FILMES - LETRA E"  tvg-logo="http://i.imgur.com/ssl6WGT.jpg",Excesso de Bagagem
 http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA V"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/wdcyb_tnl_210x118.jpg",Vinganca
+#EXTINF:-1 group-title="FILMES - LETRA V"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/wdcyb_tnl_210x118.jpg",Vinganca
 http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA H"  tvg-logo="http://eovideolevou.com.br/imgProduto/70987_f1.jpg",Horas de Desespero
+#EXTINF:-1 group-title="FILMES - LETRA H"  tvg-logo="http://eovideolevou.com.br/imgProduto/70987_f1.jpg",Horas de Desespero
 http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA H"  tvg-logo="http://images-br-am.crackle.com/1/p/im/zrdyb_tnl_210x118.jpg",Haven
+#EXTINF:-1 group-title="FILMES - LETRA H"  tvg-logo="http://images-br-am.crackle.com/1/p/im/zrdyb_tnl_210x118.jpg",Haven
 http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://www.fulltv.com.ar/images/peliculas/kuffs-poli-por-casualidad.jpg",Agente Indomavel
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://www.fulltv.com.ar/images/peliculas/kuffs-poli-por-casualidad.jpg",Agente Indomavel
 http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA G"  tvg-logo="http://images-br-am.crackle.com/1/d/qm/a6dyb_tnl_210x118.jpg",Guerra ao Terror
+#EXTINF:-1 group-title="FILMES - LETRA G"  tvg-logo="http://images-br-am.crackle.com/1/d/qm/a6dyb_tnl_210x118.jpg",Guerra ao Terror
 http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA F"  tvg-logo="http://goo.gl/eloeeo",Fantasmas de Marte
+#EXTINF:-1 group-title="FILMES - LETRA F"  tvg-logo="http://goo.gl/eloeeo",Fantasmas de Marte
 http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/70/07/20109058.jpg",S.W.A.T. - Comando Especial
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/70/07/20109058.jpg",S.W.A.T. - Comando Especial
 http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://images-br-am.crackle.com/1/x/ol/f2byb_tnl_210x118.jpg",Crash: No Limite
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://images-br-am.crackle.com/1/x/ol/f2byb_tnl_210x118.jpg",Crash: No Limite
 http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA M"  tvg-logo="http://static.cinedica.com.br/capasm/6147.jpg",Mergulho Radical 2: Os Recifes
+#EXTINF:-1 group-title="FILMES - LETRA M"  tvg-logo="http://static.cinedica.com.br/capasm/6147.jpg",Mergulho Radical 2: Os Recifes
 http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA H" tvg-logo="http://goo.gl/SNFNYM",Hooligans: Furia nos campos
+#EXTINF:-1 group-title="FILMES - LETRA H" tvg-logo="http://goo.gl/SNFNYM",Hooligans: Furia nos campos
 http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A" tvg-logo="http://images-br-am.crackle.com/1/q/mm/h0dyb_tnl_210x118.jpg",A Era da Escuridao - Mutant Chronicles
+#EXTINF:-1 group-title="FILMES - LETRA A" tvg-logo="http://images-br-am.crackle.com/1/q/mm/h0dyb_tnl_210x118.jpg",A Era da Escuridao - Mutant Chronicles
 http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://goo.gl/59clrS",Caes de Guerra
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://goo.gl/59clrS",Caes de Guerra
 http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://blogdoheu.files.wordpress.com/2011/01/conquistasangrenta.jpg",Conquista Sangrenta
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://blogdoheu.files.wordpress.com/2011/01/conquistasangrenta.jpg",Conquista Sangrenta
 http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA D" tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/78/08/19961476.jpg",Desafio Radical
+#EXTINF:-1 group-title="FILMES - LETRA D" tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/78/08/19961476.jpg",Desafio Radical
 http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA D" tvg-logo="http://goo.gl/GIIsAS",Divisao de Homicidios
+#EXTINF:-1 group-title="FILMES - LETRA D" tvg-logo="http://goo.gl/GIIsAS",Divisao de Homicidios
 http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA G" tvg-logo="http://upload.wikimedia.org/wikipedia/en/2/2e/Godzilla_%281998_Movie_Poster%29.jpg",Godzilla (1998)
+#EXTINF:-1 group-title="FILMES - LETRA G" tvg-logo="http://upload.wikimedia.org/wikipedia/en/2/2e/Godzilla_%281998_Movie_Poster%29.jpg",Godzilla (1998)
 http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C" tvg-logo="http://goo.gl/Z9ZUbO",Cacada sem Treguas
+#EXTINF:-1 group-title="FILMES - LETRA C" tvg-logo="http://goo.gl/Z9ZUbO",Cacada sem Treguas
 http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA H" tvg-logo="http://goo.gl/QXtOxV",Honra e Coragem - As Quatro Plumas
+#EXTINF:-1 group-title="FILMES - LETRA H" tvg-logo="http://goo.gl/QXtOxV",Honra e Coragem - As Quatro Plumas
 http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA H" tvg-logo="http://eovideolevou.com.br/imgProduto/70987_f1.jpg",Horas de Desespero
+#EXTINF:-1 group-title="FILMES - LETRA H" tvg-logo="http://eovideolevou.com.br/imgProduto/70987_f1.jpg",Horas de Desespero
 http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA I" tvg-logo="http://images-br-am.crackle.com/1/k/gl/dlbyb_tnl_210x118.jpg",Impacto Mortal
+#EXTINF:-1 group-title="FILMES - LETRA I" tvg-logo="http://images-br-am.crackle.com/1/k/gl/dlbyb_tnl_210x118.jpg",Impacto Mortal
 http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA K" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/87/Karate_kid_part_iii.jpg",Karate Kid 3 - O Desafio Final Filme
+#EXTINF:-1 group-title="FILMES - LETRA K" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/87/Karate_kid_part_iii.jpg",Karate Kid 3 - O Desafio Final Filme
 http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA M" tvg-logo="http://goo.gl/Z5z4gW",Matador De Aluguel
+#EXTINF:-1 group-title="FILMES - LETRA M" tvg-logo="http://goo.gl/Z5z4gW",Matador De Aluguel
 http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://www.saudadeeadeus.com.br/images/colecionador_ossos.jpg",O Colecionador de Ossos
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://www.saudadeeadeus.com.br/images/colecionador_ossos.jpg",O Colecionador de Ossos
 http://media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://goo.gl/pfqqpq",O Grande Anjo Negro
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://goo.gl/pfqqpq",O Grande Anjo Negro
 http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://images-br-am.crackle.com/1/s/am/pddyb_tnl_210x118.jpg",O Guardiao
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://images-br-am.crackle.com/1/s/am/pddyb_tnl_210x118.jpg",O Guardiao
 http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://images-br-am.crackle.com/1/o/im/wrdyb_tnl_210x118.jpg",O Guardiao - 2 Retorno As Minas do Rei Salomao
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://images-br-am.crackle.com/1/o/im/wrdyb_tnl_210x118.jpg",O Guardiao - 2 Retorno As Minas do Rei Salomao
 http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://images-br-am.crackle.com/1/o/im/vrdyb_tnl_210x118.jpg",O Guardiao 3 - A Maldicao do Calice de Judas
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://images-br-am.crackle.com/1/o/im/vrdyb_tnl_210x118.jpg",O Guardiao 3 - A Maldicao do Calice de Judas
 http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://images-br-am.crackle.com/1/w/4l/kzcyb_tnl_210x118.jpg",O Legionario
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://images-br-am.crackle.com/1/w/4l/kzcyb_tnl_210x118.jpg",O Legionario
 http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://images-br-am.crackle.com/1/b/ol/u2byb_tnl_210x118.jpg",O Senhor das Armas
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://images-br-am.crackle.com/1/b/ol/u2byb_tnl_210x118.jpg",O Senhor das Armas
 http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O" tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/17/46/19872770.jpg",Os Reis de Dogtown
+#EXTINF:-1 group-title="FILMES - LETRA O" tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/17/46/19872770.jpg",Os Reis de Dogtown
 http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R" tvg-logo="http://i.imgur.com/GQTRstB.jpg",Red - Aposentados e Perigosos
+#EXTINF:-1 group-title="FILMES - LETRA R" tvg-logo="http://i.imgur.com/GQTRstB.jpg",Red - Aposentados e Perigosos
 http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R" tvg-logo="http://images-br-am.crackle.com/1/n/im/rrdyb_tnl_210x118.jpg",Risco Absoluto
+#EXTINF:-1 group-title="FILMES - LETRA R" tvg-logo="http://images-br-am.crackle.com/1/n/im/rrdyb_tnl_210x118.jpg",Risco Absoluto
 http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R" tvg-logo="http://media7.fast-torrent.ru/media/files/s4/mh/ik/robot-politsejskij-2.jpg",RoboCop 2
+#EXTINF:-1 group-title="FILMES - LETRA R" tvg-logo="http://media7.fast-torrent.ru/media/files/s4/mh/ik/robot-politsejskij-2.jpg",RoboCop 2
 http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R"  tvg-logo="http://i.imgur.com/D2p3YT7.jpg",Rocky Balboa
+#EXTINF:-1 group-title="FILMES - LETRA R"  tvg-logo="http://i.imgur.com/D2p3YT7.jpg",Rocky Balboa
 http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/r/4l/zucyb_tnl_210x118.jpg",Ruslan - Vinganca Explosiva
+#EXTINF:-1 group-title="FILMES - LETRA R"  tvg-logo="http://images-br-am.crackle.com/1/r/4l/zucyb_tnl_210x118.jpg",Ruslan - Vinganca Explosiva
 http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/h/ql/oh7wb_tnl_210x118.jpg",Soldado Universal 3 - Regeneracao
+#EXTINF:-1 group-title="FILMES - LETRA S"  tvg-logo="http://images-br-am.crackle.com/1/h/ql/oh7wb_tnl_210x118.jpg",Soldado Universal 3 - Regeneracao
 http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA T"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/vdcyb_tnl_210x118.jpg",Tempos de Violencia
+#EXTINF:-1 group-title="FILMES - LETRA T"  tvg-logo="http://images-br-am.crackle.com/1/7/sl/vdcyb_tnl_210x118.jpg",Tempos de Violencia
 http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA U"  tvg-logo="http://i.imgur.com/P1NBqJ1.jpg",Um Ato de Liberdade
+#EXTINF:-1 group-title="FILMES - LETRA U"  tvg-logo="http://i.imgur.com/P1NBqJ1.jpg",Um Ato de Liberdade
 http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA B"  tvg-logo="http://goo.gl/RfTzoK",Viciado em Sexo
+#EXTINF:-1 group-title="FILMES - LETRA B"  tvg-logo="http://goo.gl/RfTzoK",Viciado em Sexo
 http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA V"  tvg-logo="http://static.cinedica.com.br/capasm/798476664.jpg",Vou Te Pegar Otario
+#EXTINF:-1 group-title="FILMES - LETRA V"  tvg-logo="http://static.cinedica.com.br/capasm/798476664.jpg",Vou Te Pegar Otario
 http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA W"  tvg-logo="http://www.largadoemguarapari.com.br/13largado/wp-content/uploads/2013/08/WASABI.jpg",Wasabi
+#EXTINF:-1 group-title="FILMES - LETRA W"  tvg-logo="http://www.largadoemguarapari.com.br/13largado/wp-content/uploads/2013/08/WASABI.jpg",Wasabi
 http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/m/56/vr1lf_tnl_210x118.jpg",O Nome do Jogo
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/m/56/vr1lf_tnl_210x118.jpg",O Nome do Jogo
 http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA G"  tvg-logo="http://images-br-am.crackle.com/1/y/z6/ssvlf_tnl_210x118.jpg",Greta
+#EXTINF:-1 group-title="FILMES - LETRA G"  tvg-logo="http://images-br-am.crackle.com/1/y/z6/ssvlf_tnl_210x118.jpg",Greta
 http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA C"  tvg-logo="http://images-br-am.crackle.com/1/u/56/uv1lf_tnl_210x118.jpg",Como Se Fosse a Primeira Vez
+#EXTINF:-1 group-title="FILMES - LETRA C"  tvg-logo="http://images-br-am.crackle.com/1/u/56/uv1lf_tnl_210x118.jpg",Como Se Fosse a Primeira Vez
 http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/e/l6/edwlf_tnl_210x118.jpg",Atraidos Pelo Destino
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/e/l6/edwlf_tnl_210x118.jpg",Atraidos Pelo Destino
 http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA T"  tvg-logo="http://images-br-am.crackle.com/1/p/d6/12vlf_tnl_210x118.jpg",Tres Mulheres, Tres Amores
+#EXTINF:-1 group-title="FILMES - LETRA T"  tvg-logo="http://images-br-am.crackle.com/1/p/d6/12vlf_tnl_210x118.jpg",Tres Mulheres, Tres Amores
 http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA P"  tvg-logo="http://images-br-am.crackle.com/1/0/v6/o1zlf_tnl_210x118.jpg",Persuasao
+#EXTINF:-1 group-title="FILMES - LETRA P"  tvg-logo="http://images-br-am.crackle.com/1/0/v6/o1zlf_tnl_210x118.jpg",Persuasao
 http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/w/4m/k8fyb_tnl_210x118.jpg",O Melhor Amigo da Noiva
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/w/4m/k8fyb_tnl_210x118.jpg",O Melhor Amigo da Noiva
 http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA N"  tvg-logo="http://images-br-am.crackle.com/1/5/8l/y7cyb_tnl_210x118.jpg",Nicholas Nickleby
+#EXTINF:-1 group-title="FILMES - LETRA N"  tvg-logo="http://images-br-am.crackle.com/1/5/8l/y7cyb_tnl_210x118.jpg",Nicholas Nickleby
 http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/0/16/6o1lf_tnl_210x118.jpg",Africa dos Meus Sonhos
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://images-br-am.crackle.com/1/0/16/6o1lf_tnl_210x118.jpg",Africa dos Meus Sonhos
 http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/t/am/vddyb_tnl_210x118.jpg",O Segredo de Brokeback Mountain
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://images-br-am.crackle.com/1/t/am/vddyb_tnl_210x118.jpg",O Segredo de Brokeback Mountain
 http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA T"  tvg-logo="http://images-br-am.crackle.com/1/9/0l/oscyb_tnl_250x141.jpg",Tres Mulheres, Tres Amores
+#EXTINF:-1 group-title="FILMES - LETRA T"  tvg-logo="http://images-br-am.crackle.com/1/9/0l/oscyb_tnl_250x141.jpg",Tres Mulheres, Tres Amores
 http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA P"  tvg-logo="http://images-br-am.crackle.com/1/9/16/7p1lf_tnl_210x118.jpg",Pegar e Largar
+#EXTINF:-1 group-title="FILMES - LETRA P"  tvg-logo="http://images-br-am.crackle.com/1/9/16/7p1lf_tnl_210x118.jpg",Pegar e Largar
 http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA F"  tvg-logo="http://images-br-am.crackle.com/1/d/wm/ttfyb_tnl_210x118.jpg",Funny Lady
+#EXTINF:-1 group-title="FILMES - LETRA F"  tvg-logo="http://images-br-am.crackle.com/1/d/wm/ttfyb_tnl_210x118.jpg",Funny Lady
 http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA O"  tvg-logo="http://goo.gl/NaQuHN",O Casamento de Rachel
+#EXTINF:-1 group-title="FILMES - LETRA O"  tvg-logo="http://goo.gl/NaQuHN",O Casamento de Rachel
 http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg",Apenas Uma Vez
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg",Apenas Uma Vez
 http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/32/62/19874342.jpg",A Jovem Rainha Victoria
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/32/62/19874342.jpg",A Jovem Rainha Victoria
 http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA P"tvg-logo="http://images-br-am.crackle.com/1/d/wl/secyb_tnl_210x118.jpg",Primeira Descida
+#EXTINF:-1 group-title="FILMES - LETRA P"tvg-logo="http://images-br-am.crackle.com/1/d/wl/secyb_tnl_210x118.jpg",Primeira Descida
 http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA L"  tvg-logo="http://images-br-am.crackle.com/1/7/16/1p1lf_tnl_210x118.jpg",Lagrimas do Sol
+#EXTINF:-1 group-title="FILMES - LETRA L"  tvg-logo="http://images-br-am.crackle.com/1/7/16/1p1lf_tnl_210x118.jpg",Lagrimas do Sol
 http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4?STANIPTV
-#EXTINF:-1  group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/TMiA9o2.jpg",A Guerra de Hart
+#EXTINF:-1 group-title="FILMES - LETRA A"  tvg-logo="http://i.imgur.com/TMiA9o2.jpg",A Guerra de Hart
 http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4?STANIPTV
  
 #EXTINF:-1 tvg-logo="http://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-1psbiwp_c02fcd68.jpeg" group-title="FILMES - LETRA B",Bernardo e Bianca
