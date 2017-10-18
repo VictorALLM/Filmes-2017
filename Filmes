@@ -1,9 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91WtrGkhEJL._SY445_.jpg" group-title="FILMES LANÇAMENTOS",DIRTY DANCING - DUB - HD
+http://assistir.querofilmehd.com/filmes/Dirty.Dancing.2017.2A.1080p.BluRay.x264-GUACAMOLE-ABS.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91WtrGkhEJL._SY445_.jpg" group-title="FILMES LANÇAMENTOS",DIRTY DANCING - LEG - HD
+http://assistir.querofilmehd.com/filmes/Dirty.Dancing.2017.2A.1080p.BluRay.x264-GUACAMOLE-ABS(1).mp4
+
+#EXTINF:-1 tvg-id="" tvg-logohttps://images-na.ssl-images-amazon.com/images/M/MV5BZTQ2MzU3MTMtYTcwOC00MTFlLWI3MWEtMjdhNzA2M2Y4OWY3XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_UY1200_CR105,0,630,1200_AL_.jpg" group-title="FILMES LANÇAMENTOS",A CRUCIFICACAO – DEMONIOS SAO REAIS - LEG - HD
+http://assistir.querofilmehd.com/filmes/The.Crucifixion.2017.720p.WEB-DL.DD5.1.H264-FGT.mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://d26lpennugtm8s.cloudfront.net/stores/290/058/products/011-cb257c1082360043af14949494372595-640-0.jpg" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - DUB - HD
-http://zeus.netcine.tv/httpdelivery/filmes2017/PDMAG-ALTO.mp4?STANIPTV
+http://zeus.netcine.tv/httpdelivery/filmes2017/PDMAG-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://d26lpennugtm8s.cloudfront.net/stores/290/058/products/011-cb257c1082360043af14949494372595-640-0.jpg" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - LEG - HD
-http://zeus.netcine.tv/httpdelivery/filmes2017/PLANETADOSMACACOS-ALTO.mp4?STANIPT
+http://zeus.netcine.tv/httpdelivery/filmes2017/PLANETADOSMACACOS-ALTO.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ba73BuP.jpg" group-title="FILMES LANÇAMENTOS", O FILME DA MINHA VIDA - DUB - HD
 http://assistir.querofilmehd.com/filmes/O.Filme.da.Minha.Vida.2017.720p.WEBRip.x264.AC3.NACIONAL-SynysteR.mp4?STANIPTV
