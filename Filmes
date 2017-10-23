@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="ATUALIZAÇÕES DO DIA", ATUALIZAÇÕES DO DIA 23/10 
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/02LZMJu.png" group-title="ATUALIZAÇÕES DO DIA", TWD T8|EP01 (LEG)
+http://zeus.netcine.tv/httpdelivery/twd/08leg/01-ALTO.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://i.imgur.com/rmYoYY0.png" group-title="ATUALIZAÇÕES DO DIA", INHUMANS T01|EP05 (LEG)
+http://zeus.netcine.tv/httpdelivery/inhumans/01leg/05-ALTO.mp4?STANIPTV
+
+## FILMES
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gnza10H.jpg" group-title="FILMES LANÇAMENTOS",CARROS 3 - LEG - SD
+http://zeus.netcine.tv/httpdelivery/filmes2017/CARS2017LEG-ALTO.mp4?STANIPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gnza10H.jpg" group-title="FILMES LANÇAMENTOS",CARROS 3 - LEG - HD
+http://zeus.netcine.tv/httpdelivery/filmes2017/CARS2017LEG-BAIXO.mp4?STANIPTV
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.artshound.com/wp-content/uploads/sites/www.artshound.com/images/2017/05/chris-brown-poster-ae36d6398175068e325d0065ae959778.jpg" group-title="FILMES LANÇAMENTOS",CHRIS BROWN: WELCOME TO MY LIFE - LEG - HD
 http://assistir.querofilmehd.com/filmes/Chris%20Brown%20Welcome%20to%20My%20Life.mp4?STANIPTV
 
