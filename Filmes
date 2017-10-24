@@ -18,8 +18,19 @@ http://zeus.netcine.tv/httpdelivery/inhumans/01leg/05-ALTO.mp4?STANIPTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9VYZHeM.jpg",      
 http://0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9VYZHeM.jpg",FILMES ATUALIZADOS 23/10
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9VYZHeM.jpg",FILMES ATUALIZADOS 24/10
 http://0.0.0.0
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.yourate.gr/media/k2/items/cache/8eb293a9824f4436c5f329c5e3443a03_XL.jpg",STRATTON: FORÇAS ESPECIAIS - DUB - HD
+http://185.38.12.50/sec/1508886146/353837377ebeedcc8ce751d96a44d71285db5c82eb9dbc71/ivs/77/2c/4341a76009de/hls/tracks-1,4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn.cinepop.com.br/2017/09/blade_runner_twenty_forty_nine_ver8_xlg.jpg",BLADE RUNNER 2049 - DUB - HDTS
+http://185.38.12.47/sec/1508885883/35333131d1d4e37e668e26c0e2e79283ac3e4bff8f0eb0e1/ivs/cb/bc/0dedd46ec18e/hls/tracks-1,4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C8bcb-hUIAA3H5x.jpg",O LIVRO DE HENRY - DUB - HD
+http://assistir.querofilmehd.com/filmes/O.Livro.de.Henry.2017.720p.BluRay.x264.GECKOS.DUAL-OLD.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C8bcb-hUIAA3H5x.jpg",O LIVRO DE HENRY - LEG - HD
+http://assistir.querofilmehd.com/filmes/O.Livro.de.Henry.2017.720p.BluRay.x264.GECKOS.DUAL-OLD(1).mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://dizifilmix.com/wp-content/uploads/2017/10/ec122e2c901e35e71bf2df1f5356e307.jpg",SNIPER: ULTIMATE KILL - LEG - FULL HD
 http://assistir.querofilmehd.com/filmes/Sniper.Ultimate.Kill.2017.1080p.BluRay.x264.DTS-HDC.mp4
