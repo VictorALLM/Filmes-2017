@@ -2,8 +2,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t7hizVC.jpg" group-title="ATUALIZAÇÕES DO DIA", ATUALIZAÇÕES DO DIA 23/10 
 http://0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t7hizVC.jpg",##
-http://0.0.0.
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cm3BQrA.jpg" group-title="ATUALIZAÇÕES DO DIA",TWD T8|EP01 (LEG)
 http://zeus.netcine.tv/httpdelivery/twd/08leg/01-ALTO.mp4?STANIPTV
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4K614Xq.jpg" group-title="ATUALIZAÇÕES DO DIA",INHUMANS T01|EP05 (LEG)
@@ -13,11 +12,9 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/CARS2017LEG-ALTO.mp4?STANIPTV
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gnza10H.jpg" group-title="FILMES LANÇAMENTOS",CARROS 3 - LEG - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/CARS2017LEG-BAIXO.mp4?STANIPTV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t7hizVC.jpg",##
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t7hizVC.jpg",      
 http://0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9VYZHeM.jpg",FILMES ATUALIZADOS 22/10
-http://0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t7hizVC.jpg",##
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.artshound.com/wp-content/uploads/sites/www.artshound.com/images/2017/05/chris-brown-poster-ae36d6398175068e325d0065ae959778.jpg" group-title="FILMES LANÇAMENTOS",CHRIS BROWN: WELCOME TO MY LIFE - LEG - HD
