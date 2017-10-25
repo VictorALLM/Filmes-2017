@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg" group-title="ATUALIZAÇÕES DO DIA", ATUALIZAÇÕES DO DIA 24/10 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg" group-title="ATUALIZAÇÕES DO DIA", ATUALIZAÇÕES DO DIA 25/10 
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/02LZMJu.png" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP01 - DUB - HD
@@ -15,17 +15,22 @@ http://zeus.netcine.tv/httpdelivery/mrrobot/03leg/002-ALTO.mp4
 http://zeus.netcine.tv/httpdelivery/ouat/07leg/03-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4K614Xq.jpg" group-title="ATUALIZAÇÕES DO DIA",INHUMANS T01|EP05 - LEG - HD
 http://zeus.netcine.tv/httpdelivery/inhumans/01leg/05-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vj62pUT.jpg" group-title="ATUALIZAÇÕES DO DIA",THE GIFTED T1|EP04 -LEG - HD
+http://zeus.netcine.tv/httpdelivery/thegifted/01leg/04-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VCtPS1B.png" group-title="ATUALIZAÇÕES DO DIA",SUPERGIRL T3|EP03 - LEG - HD
+http://zeus.netcine.tv/httpdelivery/supergirl/03leg/03-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KLutEJ4.jpg" group-title="ATUALIZAÇÕES DO DIA",GOTHAM T4|EP1 - DUB - HD
+http://zeus.netcine.tv/httpdelivery/gotham/04dub/01-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KLutEJ4.jpg" group-title="ATUALIZAÇÕES DO DIA",GOTHAM T4|EP2 - DUB - HD
+http://zeus.netcine.tv/httpdelivery/gotham/04dub/02-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8AD7PA2.png" group-title="ATUALIZAÇÕES DO DIA",LEGENDS OF TOMORROW T3|EP01 - DUB - HD
+http://zeus.netcine.tv/httpdelivery/lot/03dub/01-ALTO.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",      
 http://0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",FILMES ATUALIZADOS 24/10
 http://0.0.0.0
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.yourate.gr/media/k2/items/cache/8eb293a9824f4436c5f329c5e3443a03_XL.jpg",STRATTON: FORÇAS ESPECIAIS - DUB - HD
-http://185.38.12.50/sec/1508886146/353837377ebeedcc8ce751d96a44d71285db5c82eb9dbc71/ivs/77/2c/4341a76009de/hls/tracks-1,4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://cdn.cinepop.com.br/2017/09/blade_runner_twenty_forty_nine_ver8_xlg.jpg",BLADE RUNNER 2049 - DUB - HDTS
-http://185.38.12.47/sec/1508885883/35333131d1d4e37e668e26c0e2e79283ac3e4bff8f0eb0e1/ivs/cb/bc/0dedd46ec18e/hls/tracks-1,4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C8bcb-hUIAA3H5x.jpg",O LIVRO DE HENRY - DUB - HD
 http://assistir.querofilmehd.com/filmes/O.Livro.de.Henry.2017.720p.BluRay.x264.GECKOS.DUAL-OLD.mp4
