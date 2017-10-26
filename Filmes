@@ -9,9 +9,9 @@ http://zeus.netcine.tv/httpdelivery/theflash/04leg/01-BAIXO.mp4
 http://zeus.netcine.tv/httpdelivery/theflash/04leg/TF02LEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/06/the-flash-season-4-reborn-and-recharged-poster-1026105.jpg" group-title="ATUALIZAÇÕES DO DIA",THE FLASH T4|EP03 - LEG - HD
 http://zeus.netcine.tv/httpdelivery/theflash/04leg/03-ALTO.mp4?STANIPTV
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/02LZMJu.png" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP01 - DUB - HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cm3BQrA.jpg" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP01 - DUB - HD
 http://zeus.netcine.tv/httpdelivery/twd/08dub/01-ALTO.mp4
-#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://i.imgur.com/Cm3BQrA.jpg" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP01 - LEG - HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cm3BQrA.jpg" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP01 - LEG - HD
 http://zeus.netcine.tv/httpdelivery/twd/08leg/01-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/DK0Vo_vWAAAwg0l.jpg" group-title="ATUALIZAÇÕES DO DIA",O EXORCISTA T2|EP4 LEG - HD
 http://assistir.querofilmehd.com/exorcista/2temp/leg/04.mp4
@@ -66,7 +66,7 @@ http://assistir.querofilmehd.com/filmes/Django.2017.FRENCH.1080p.BluRay.x264-LOS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/DFfBTG8UQAErf6r.jpg" group-title="FILMES GOOGLE DRIVE",EM RITMO DE FUGA - DUB - HD
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZQVNIc29HWFN2cnM
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DFfBTG8UQAErf6r.jpg" group-title="FILMES GOOGLE DRIVE",EM RITMO DE FUGA - LEG - HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/DFfBTG8UQAErf6r.jpg" group-title="FILMES GOOGLE DRIVE",EM RITMO DE FUGA - LEG - HD
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZQVNIc29HWFN2cnM
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qf1NkVG.jpg" group-title="FILMES LANÇAMENTOS",CARROS 3 - DUB - FULL HD
@@ -96,7 +96,7 @@ http://assistir.querofilmehd.com/filmes/Dirty.Dancing.2017.2A.1080p.BluRay.x264-
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91WtrGkhEJL._SY445_.jpg" group-title="FILMES LANÇAMENTOS",DIRTY DANCING - LEG - HD
 http://assistir.querofilmehd.com/filmes/Dirty.Dancing.2017.2A.1080p.BluRay.x264-GUACAMOLE-ABS(1).mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo"https://i.imgur.com/kYJBg9G.jpg" group-title="FILMES LANÇAMENTOS",A CRUCIFICAÇÃO – DEMÔNIOS SÃO REAIS - LEG - HD
+#EXTINF:-1 tvg-id="" tvg-logo"http://i.imgur.com/kYJBg9G.jpg" group-title="FILMES LANÇAMENTOS",A CRUCIFICAÇÃO – DEMÔNIOS SÃO REAIS - LEG - HD
 http://assistir.querofilmehd.com/filmes/The.Crucifixion.2017.720p.WEB-DL.DD5.1.H264-FGT.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://d26lpennugtm8s.cloudfront.net/stores/290/058/products/011-cb257c1082360043af14949494372595-640-0.jpg" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - DUB - HD
@@ -231,11 +231,6 @@ http://assistir.querofilmehd.com/filmes/REALITYHIGH.2017.1080p.NF.WEB-DL.DD5.1.x
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/is0GrMU.jpg" group-title="FILMES LANCAMENTOS",47 METERS DOWN - DUB - FULL HD
 http://assistir.querofilmehd.com/filmes/47.Meters.Down.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AD3CSp5.jpg" group-title="FILMES LANCAMENTOS" ,EM RITMO DE FUGA - DUB - HD
-http://1fiageg.oloadcdn.net/dl/l/tcexcamHCipxzqWf/OtDY8Lb-wE0/Em+Ritmo+De+Fuga.2017.HDRip.XViD.Dublado-RLS.avi.mp4?mime=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AD3CSp5.jpg" group-title="FILMES LANCAMENTOS" ,EM RITMO DE FUGA - DUB - HDR
-http://filmesonlineflix.club/f/Em.Ritmo.de.Fuga.2017.HDRIP.Dublado.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kqCRKGl.jpg" group-title="FILMES LANCAMENTOS",PIRATAS DO CARIBE - A VINGANÇA DE SALAZAR - DUB - SD
 http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5DUB-BAIXO.mp4
