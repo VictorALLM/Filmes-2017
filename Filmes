@@ -1,15 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg" group-title="ATUALIZAÇÕES DO DIA", ATUALIZAÇÕES DO DIA 25/10 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg" group-title="ATUALIZAÇÕES DO DIA",ATUALIZAÇÕES DO DIA 26/10 
 http://0.0.0.0
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/564x/0b/c8/45/0bc8457c29fb99f2006a7eb08f616b8e.jpg" group-title="ATUALIZAÇÕES DO DIA",THE FLASH T4|EP01 - LEG - HD
+http://zeus.netcine.tv/httpdelivery/theflash/04leg/01-BAIXO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/564x/0b/c8/45/0bc8457c29fb99f2006a7eb08f616b8e.jpg" group-title="ATUALIZAÇÕES DO DIA",THE FLASH T4|EP02 - LEG - HD
+http://zeus.netcine.tv/httpdelivery/theflash/04leg/TF02LEG-BAIXO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/06/the-flash-season-4-reborn-and-recharged-poster-1026105.jpg" group-title="ATUALIZAÇÕES DO DIA",THE FLASH T4|EP03 - LEG - HD
+http://zeus.netcine.tv/httpdelivery/theflash/04leg/03-ALTO.mp4?STANIPTV
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/02LZMJu.png" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP01 - DUB - HD
 http://zeus.netcine.tv/httpdelivery/twd/08dub/01-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://i.imgur.com/Cm3BQrA.jpg" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP01 - LEG - HD
 http://zeus.netcine.tv/httpdelivery/twd/08leg/01-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/DK0Vo_vWAAAwg0l.jpg" group-title="ATUALIZAÇÕES DO DIA",O EXORCISTA T2|EP4 LEG - HD
+http://assistir.querofilmehd.com/exorcista/2temp/leg/04.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LHRzSb0.jpg" group-title="ATUALIZAÇÕES DO DIA" ,LUCIFER T03|EP04 - LEG - HD
 http://zeus.netcine.tv/httpdelivery/lucifer/03leg/04-ALTO.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HARAsNB.jpg" group-title="ATUALIZAÇÕES DO DIA",MR. ROBOT T3|EP02 (LEG)- LEG - HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HARAsNB.jpg" group-title="ATUALIZAÇÕES DO DIA",MR. ROBOT T3|EP02 - LEG - HD
 http://zeus.netcine.tv/httpdelivery/mrrobot/03leg/002-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q9uaRHA.jpg" group-title="ATUALIZAÇÕES DO DIA",ONCE UPON A TIME T7|EP03 - LEG - HD
 http://zeus.netcine.tv/httpdelivery/ouat/07leg/03-ALTO.mp4
@@ -29,13 +37,42 @@ http://zeus.netcine.tv/httpdelivery/lot/03dub/01-ALTO.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",      
 http://0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",FILMES ATUALIZADOS 25/10
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",FILMES ATUALIZADOS 26/10
 http://0.0.0.0
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/817X8FVUrRL._RI_.jpg",ATAQUE A BUSHWICK - DUB - FULL HD
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZVUF1VnhIbThrSDg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cb01.io/uploads/posts/2017-10/1922-streaming-ita.jpg",1992 - DUB - FULL HD
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZS1RZSkFwTTJScHM
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img3.acsta.net/pictures/17/06/16/09/39/208763.jpg" group-title="FILMES LANÇAMENTOS",A MORTE TE DÁ PARABENS - DUB - HD 
+http://assistir.querofilmehd.com/filmes/a-morte-lhe-da-parabens.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/GirlsTripTeaserPoster.jpg" group-title="FILMES LANÇAMENTOS",GIRLS TRIP - LEG - HD 
+http://assistir.querofilmehd.com/filmes/Girls.Trip.2017.720p.BluRay.x264-Replica.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://megafilmes.org/wp-content/uploads/2017/10/as-apimentadas-desafio-mundial-1.jpg" group-title="FILMES LANÇAMENTOS",AS APIMENTADAS: #DESAFIO MUNDIAL - DUB - HD 
+http://assistir.querofilmehd.com/filmes/As.Apimentadas.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/06/11/27/0502981.jpg" group-title="FILMES LANÇAMENTOS",WHEELMAN - DUB - HD
+http://assistir.querofilmehd.com/filmes/Wheelman.2017.720p.WEB-DL.DD5.1.x264-DUAL.Vinci_Silva.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/06/11/27/0502981.jpg" group-title="FILMES LANÇAMENTOS",WHEELMAN - LEG - HD
+http://assistir.querofilmehd.com/filmes/Wheelman.2017.720p.WEB-DL.DD5.1.x264-DUAL.Vinci_Silva(1).mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C-L4I5hXcAU_kMn.jpg" group-title="FILMES LANÇAMENTOS",DJANGO - LEG - HD
+http://assistir.querofilmehd.com/filmes/Django.2017.FRENCH.1080p.BluRay.x264-LOST.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/DFfBTG8UQAErf6r.jpg" group-title="FILMES GOOGLE DRIVE",EM RITMO DE FUGA - DUB - HD
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZQVNIc29HWFN2cnM
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DFfBTG8UQAErf6r.jpg" group-title="FILMES GOOGLE DRIVE",EM RITMO DE FUGA - LEG - HD
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZQVNIc29HWFN2cnM
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qf1NkVG.jpg" group-title="FILMES LANÇAMENTOS",CARROS 3 - DUB - FULL HD
+http://assistir.querofilmehd.com/filmes/Cars.3.2017.1080p.AMZN.WEB-DL.DD+5.1.H.264-SiGMA%20DUAL%20AUDIO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qf1NkVG.jpg" group-title="FILMES LANÇAMENTOS",CARROS 3 - DUB - HD
 https://fs14.fex.net/play/217200121103/79640653/2c2f0a33/Carros.3.2017.720P.WEB-DL.6CH.x264.DUBLADO-QQFILMES.COM_.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qf1NkVG.jpg" group-title="FILMES LANÇAMENTOS",CARROS 3 - LEG - HD
-http://zeus.netcine.tv/httpdelivery/filmes2017/CARS2017LEG-BAIXO.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C8bcb-hUIAA3H5x.jpg",O LIVRO DE HENRY - DUB - HD
 http://assistir.querofilmehd.com/filmes/O.Livro.de.Henry.2017.720p.BluRay.x264.GECKOS.DUAL-OLD.mp4
