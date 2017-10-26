@@ -29,8 +29,13 @@ http://zeus.netcine.tv/httpdelivery/lot/03dub/01-ALTO.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",      
 http://0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",FILMES ATUALIZADOS 24/10
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",FILMES ATUALIZADOS 25/10
 http://0.0.0.0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qf1NkVG.jpg" group-title="FILMES LANÇAMENTOS",CARROS 3 - DUB - HD
+https://fs14.fex.net/play/217200121103/79640653/2c2f0a33/Carros.3.2017.720P.WEB-DL.6CH.x264.DUBLADO-QQFILMES.COM_.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qf1NkVG.jpg" group-title="FILMES LANÇAMENTOS",CARROS 3 - LEG - HD
+http://zeus.netcine.tv/httpdelivery/filmes2017/CARS2017LEG-BAIXO.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C8bcb-hUIAA3H5x.jpg",O LIVRO DE HENRY - DUB - HD
 http://assistir.querofilmehd.com/filmes/O.Livro.de.Henry.2017.720p.BluRay.x264.GECKOS.DUAL-OLD.mp4
@@ -45,11 +50,6 @@ http://assistir.querofilmehd.com/filmes/Zombies.2017.1080p.WEB-DL.DD5.1.H264-FGT
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8j5OS3z.jpg",THE HATRED - LEG - FULL HD
 http://assistir.querofilmehd.com/filmes/The.Hatred.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qf1NkVG.jpg" group-title="FILMES LANÇAMENTOS",CARROS 3 - LEG - SD
-http://zeus.netcine.tv/httpdelivery/filmes2017/CARS2017LEG-ALTO.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qf1NkVG.jpg" group-title="FILMES LANÇAMENTOS",CARROS 3 - LEG - HD
-http://zeus.netcine.tv/httpdelivery/filmes2017/CARS2017LEG-BAIXO.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.artshound.com/wp-content/uploads/sites/www.artshound.com/images/2017/05/chris-brown-poster-ae36d6398175068e325d0065ae959778.jpg" group-title="FILMES LANÇAMENTOS",CHRIS BROWN: WELCOME TO MY LIFE - LEG - HD
 http://assistir.querofilmehd.com/filmes/Chris%20Brown%20Welcome%20to%20My%20Life.mp4
