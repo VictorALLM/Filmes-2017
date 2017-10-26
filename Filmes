@@ -65,7 +65,7 @@ http://assistir.querofilmehd.com/filmes/Wheelman.2017.720p.WEB-DL.DD5.1.x264-DUA
 http://assistir.querofilmehd.com/filmes/Django.2017.FRENCH.1080p.BluRay.x264-LOST.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/DFfBTG8UQAErf6r.jpg" group-title="FILMES GOOGLE DRIVE",EM RITMO DE FUGA - DUB - FULL HD
-http://fs14.fex.net/play/217200121103/79688290/340851df/QQFILMES.COM___2017.1080p.BluRay.6CH.x264.DUBLADO.mp4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZQVNIc29HWFN2cnM
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/DFfBTG8UQAErf6r.jpg" group-title="FILMES GOOGLE DRIVE",EM RITMO DE FUGA - DUB - HD
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZQVNIc29HWFN2cnM
 
