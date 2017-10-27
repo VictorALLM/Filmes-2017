@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg" group-title="ATUALIZAÇÕES DO DIA",ATUALIZAÇÕES DO DIA 27/10 ás 12:00
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg" group-title="ATUALIZAÇÕES DO DIA",[COLOR yellow] ATUALIZAÇÕES DO DIA 27/10 ás 12:20 [/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/06/the-flash-season-4-reborn-and-recharged-poster-1026105.jpg" group-title="ATUALIZAÇÕES DO DIA",THE FLASH T4|EP01 - LEG - HD
@@ -41,7 +41,7 @@ http://zeus.netcine.tv/httpdelivery/lot/03dub/01-ALTO.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",      
 http://0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",FILMES ATUALIZADOS 27/10 ás 12:00
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 27/10 ás 12:20 [/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img2.acsta.net/pictures/17/04/27/19/00/136026.jpg",NO LIMITE - LEG - FULL HD
