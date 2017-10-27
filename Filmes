@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg" group-title="ATUALIZAÇÕES DO DIA",ATUALIZAÇÕES DO DIA 27/10 ás 00:07
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg" group-title="ATUALIZAÇÕES DO DIA",ATUALIZAÇÕES DO DIA 27/10 ás 12:00
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/06/the-flash-season-4-reborn-and-recharged-poster-1026105.jpg" group-title="ATUALIZAÇÕES DO DIA",THE FLASH T4|EP01 - LEG - HD
@@ -41,8 +41,14 @@ http://zeus.netcine.tv/httpdelivery/lot/03dub/01-ALTO.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",      
 http://0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",FILMES ATUALIZADOS 26/10 ás 18:30
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",FILMES ATUALIZADOS 27/10 ás 12:00
 http://0.0.0.0
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img2.acsta.net/pictures/17/04/27/19/00/136026.jpg",NO LIMITE - LEG - FULL HD
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZV3loMzFqV0Y0djQ
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2017/08/6-dias-poster-pt.jpg",6 DIAS - LEG - FULL HD
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZNnV3MHcxR3pWeGs
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/817X8FVUrRL._RI_.jpg",ATAQUE A BUSHWICK - DUB - FULL HD
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZVUF1VnhIbThrSDg
@@ -100,7 +106,7 @@ http://assistir.querofilmehd.com/filmes/Dirty.Dancing.2017.2A.1080p.BluRay.x264-
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91WtrGkhEJL._SY445_.jpg" group-title="FILMES LANÇAMENTOS",DIRTY DANCING - LEG - HD
 http://assistir.querofilmehd.com/filmes/Dirty.Dancing.2017.2A.1080p.BluRay.x264-GUACAMOLE-ABS(1).mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo"http://i.imgur.com/kYJBg9G.jpg" group-title="FILMES LANÇAMENTOS",A CRUCIFICAÇÃO – DEMÔNIOS SÃO REAIS - LEG - HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/kYJBg9G.jpg" group-title="FILMES LANÇAMENTOS",A CRUCIFICAÇÃO – DEMÔNIOS SÃO REAIS - LEG - HD
 http://assistir.querofilmehd.com/filmes/The.Crucifixion.2017.720p.WEB-DL.DD5.1.H264-FGT.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://d26lpennugtm8s.cloudfront.net/stores/290/058/products/011-cb257c1082360043af14949494372595-640-0.jpg" group-title="FILMES LANÇAMENTOS",PLANETA DOS MACACOS: A GUERRA - DUB - HD
