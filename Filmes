@@ -318,7 +318,7 @@ http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2017/RINGSDUB-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Typg82F.jpg" group-title="FILMES LANCAMENTOS",O CHAMADO 3 - LEG - HD
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3LEG.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2MTEzMzkzM15BMl5BanBnXkFtZTgwMjM2MTM5MDI@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="FILMES LANCAMENTOS", A AUTOPSIA DE JANE DOE - DUB - HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://image.tmdb.org/t/p/w780/hvQgtEMXzQZDCZkkLFPK6cO1FIy.jpg",A AUTOPSIA DE JANE DOE - DUB - HD
 http://assistir.querofilmehd.com/filmes/The.Autopsy.of.Jane.Doe.2016.1080p.WEB-DL.DD5.1.H264-FGT(1).mp4
  
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.nerdediva.com.br/wp-content/uploads/2017/06/9788580416992.png" group-title="FILMES LANCAMENTOS",TUDO E TODAS AS COISAS - DUB - FULL HD
@@ -343,12 +343,15 @@ http://staniptv.com/kongleghd2
 http://staniptv.com/anoiteedelas
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.staniptv.com/m91d" group-title="FILMES LANCAMENTOS" ,NUNCA DIGA SEU NOME - DUB - HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://umavidaqualquer.com/wp-content/uploads/2017/02/poster_nunca-diga-seu-nome.jpg" group-title="FILMES LANCAMENTOS" ,NUNCA DIGA SEU NOME - DUB - HD
+http://www.staniptv.com/ndn
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://umavidaqualquer.com/wp-content/uploads/2017/02/poster_nunca-diga-seu-nome.jpg" group-title="FILMES LANCAMENTOS" ,NUNCA DIGA SEU NOME - LEG - HD
 http://www.staniptv.com/ndn
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.staniptv.com/5xbm" group-title="FILMES LANCAMENTOS" ,NINGUEM ENTRA NINGUEM SAI - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://ncdn-a.akamaihd.net/wp-content/uploads/2017/07/perfil-1.jpg" group-title="FILMES LANCAMENTOS" ,NINGUEM ENTRA NINGUEM SAI - DUB - SD
 http://staniptv.com/nens
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.staniptv.com/5xbm" group-title="FILMES LANCAMENTOS" ,NINGUEM ENTRA NINGUEM SAI - DUB - HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://ncdn-a.akamaihd.net/wp-content/uploads/2017/07/perfil-1.jpg" group-title="FILMES LANCAMENTOS" ,NINGUEM ENTRA NINGUEM SAI - DUB - HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/NINGUEMENTRASAI2017-ALTO.mp4
  
  
