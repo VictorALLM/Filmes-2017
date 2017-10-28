@@ -49,8 +49,11 @@ http://zeus.netcine.tv/httpdelivery/lot/03dub/01-ALTO.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",      
 http://0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 28/10 ás 10:39 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 28/10 ás 15:22 [/COLOR]
 http://0.0.0.0
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://as.sobrenet.pt/s/image/tsr/brandm/content/1920x1280/x5xb1f1ugy5pxqn03opw3btle22.jpg",CONSPIRAÇÃO TERRORISTA - LEG - FULL HD
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZY2YzTEtjT0lPemc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hdfilmcehennemi.com/wp-content/uploads/jungle-1-825x1100.jpg" group-title="ATUALIZAÇÕES DO DIA",JUNGLE - LEG - HD
 http://assistir.querofilmehd.com/filmes/Jungle.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
