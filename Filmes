@@ -52,7 +52,7 @@ http://0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 28/10 ás 15:22 [/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://as.sobrenet.pt/s/image/tsr/brandm/content/1920x1280/x5xb1f1ugy5pxqn03opw3btle22.jpg",CONSPIRAÇÃO TERRORISTA - LEG - FULL HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/45/ae/22/45ae220401fe802eb0b9d56f8cf9bffb.jpg",CONSPIRAÇÃO TERRORISTA - LEG - FULL HD
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZY2YzTEtjT0lPemc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hdfilmcehennemi.com/wp-content/uploads/jungle-1-825x1100.jpg" group-title="ATUALIZAÇÕES DO DIA",JUNGLE - LEG - HD
