@@ -1,14 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg" group-title="ATUALIZAÇÕES DO DIA",[COLOR yellow] ATUALIZAÇÕES DO DIA 27/10 ás 12:20 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg" group-title="ATUALIZAÇÕES DO DIA",[COLOR yellow] ATUALIZAÇÕES DO DIA 28/10 ás 04:40 [/COLOR]
 http://0.0.0.0
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/06/the-flash-season-4-reborn-and-recharged-poster-1026105.jpg" group-title="ATUALIZAÇÕES DO DIA", THE FLASH T4|EP01 - DUB - HD
+http://zeus.netcine.tv/httpdelivery/theflash/04dub/01-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/06/the-flash-season-4-reborn-and-recharged-poster-1026105.jpg" group-title="ATUALIZAÇÕES DO DIA",THE FLASH T4|EP01 - LEG - HD
 http://zeus.netcine.tv/httpdelivery/theflash/04leg/01-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/06/the-flash-season-4-reborn-and-recharged-poster-1026105.jpg" group-title="ATUALIZAÇÕES DO DIA",THE FLASH T4|EP02 - LEG - HD
 http://zeus.netcine.tv/httpdelivery/theflash/04leg/TF02LEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/06/the-flash-season-4-reborn-and-recharged-poster-1026105.jpg" group-title="ATUALIZAÇÕES DO DIA",THE FLASH T4|EP03 - LEG - HD
-http://zeus.netcine.tv/httpdelivery/theflash/04leg/03-ALTO.mp4?STANIPTV
+http://zeus.netcine.tv/httpdelivery/theflash/04leg/03-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cm3BQrA.jpg" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP01 - DUB - HD
 http://zeus.netcine.tv/httpdelivery/twd/08dub/01-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cm3BQrA.jpg" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP01 - LEG - HD
@@ -17,6 +19,12 @@ http://zeus.netcine.tv/httpdelivery/twd/08leg/01-ALTO.mp4
 http://zeus.netcine.tv/httpdelivery/supernatural/13leg/001-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2015/06/Supernatural-683x1024.jpg" group-titleATUALIZAÇÕES DO DIA",SUPERNATURAL T13|EP2 - LEG - HD
 http://zeus.netcine.tv/httpdelivery/supernatural/13leg/02-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://kinoprostir.com/wp-content/uploads/2013/06/poster_arrow_1.jpg" group-title="ATUALIZAÇÕES DO DIA",ARROW T6|EP03 LEG - HD
+http://zeus.netcine.tv/httpdelivery/arrow/06leg/03-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://kinoprostir.com/wp-content/uploads/2013/06/poster_arrow_1.jpg" group-title="ATUALIZAÇÕES DO DIA",ARROW T6|EP01 DUB - HD
+http://zeus.netcine.tv/httpdelivery/arrow/06dub/01-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-0PL-Sx8YJl8/VCFyodDYbYI/AAAAAAAAHaA/D1JKHTtdaU8/s1600/The.Big.Bang.Theory.Poster8.jpg" group-title="ATUALIZAÇÕES DO DIA",THE BIG BANG THEORY T11|EP05 - LEG - HD
+http://zeus.netcine.tv/httpdelivery/tbbt/11leg/05-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/DK0Vo_vWAAAwg0l.jpg" group-title="ATUALIZAÇÕES DO DIA",O EXORCISTA T2|EP4 LEG - HD
 http://assistir.querofilmehd.com/exorcista/2temp/leg/04.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LHRzSb0.jpg" group-title="ATUALIZAÇÕES DO DIA" ,LUCIFER T03|EP04 - LEG - HD
@@ -41,8 +49,11 @@ http://zeus.netcine.tv/httpdelivery/lot/03dub/01-ALTO.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",      
 http://0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 27/10 ás 12:20 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 28/10 ás 10:18 [/COLOR]
 http://0.0.0.0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hdfilmcehennemi.com/wp-content/uploads/jungle-1-825x1100.jpg" group-title="ATUALIZAÇÕES DO DIA",JUNGLE - LEG - HD
+http://assistir.querofilmehd.com/filmes/Jungle.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img2.acsta.net/pictures/17/04/27/19/00/136026.jpg",NO LIMITE - LEG - FULL HD
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZV3loMzFqV0Y0djQ
