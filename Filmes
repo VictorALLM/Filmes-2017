@@ -2,12 +2,10 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] ATUALIZAÇÕES DO DIA 30/10 ás 10:07 [/COLOR]
 http://0.0.0.0
-#EXTINF:-1 tvg-logo="",IT TORRENT1
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:EF7D9F3A464C3CF227BEB0396EFCDCCD167B7830
-#EXTINF:-1 tvg-logo="",IT TORRENT2
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:ef7d9f3a464c3cf227beb0396efcdccd167b7830&dn=A+Coisa+%28It%29.TS.720P.Portugues.KOSHARA.mkv&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969
-#EXTINF:-1 tvg-logo="",IT TORRENT3
-magnet:?xt=urn:btih:ef7d9f3a464c3cf227beb0396efcdccd167b7830&dn=A+Coisa+%28It%29.TS.720P.Portugues.KOSHARA.mkv&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969
+
+FILME TORRENT
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:
+
 #EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/14163043/p14163043_b_v8_ab.jpg" group-title="ATUALIZAÇÕES DO DIA",SEAL TEAM T1|EP3 [COLOR lightblue] - LEG - HD [/COLOR]
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP03.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://darksite.az/wp-content/uploads/2017/08/poster75509_1.jpg" group-title="ATUALIZAÇÕES DO DIA",RIVERDALE T2EP03 [COLOR lightblue] - LEG - HD [/COLOR]
