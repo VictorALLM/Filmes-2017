@@ -1,8 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] ATUALIZAÇÕES DO DIA 29/10 ás 14:07 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] ATUALIZAÇÕES DO DIA 30/10 ás 10:07 [/COLOR]
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/14163043/p14163043_b_v8_ab.jpg" group-title="ATUALIZAÇÕES DO DIA",SEAL TEAM T1|EP3 [COLOR lightblue] - LEG - HD [/COLOR]
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP03.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://darksite.az/wp-content/uploads/2017/08/poster75509_1.jpg" group-title="ATUALIZAÇÕES DO DIA",RIVERDALE T2EP03 [COLOR lightblue] - LEG - HD [/COLOR]
+http://zeus.netcine.tv/httpdelivery/riverdale/02leg/03-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://stocklandmartel.blob.core.windows.net/media/images/MC09507.jpg" group-title="ATUALIZAÇÕES DO DIA",AMERICAN HORROR HISTORY T7|EP8 [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/ahs/07leg/08-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/06/the-flash-season-4-reborn-and-recharged-poster-1026105.jpg" group-title="ATUALIZAÇÕES DO DIA", THE FLASH T4|EP01 [COLOR lightblue] - DUB - HD [/COLOR]
@@ -17,6 +21,8 @@ http://zeus.netcine.tv/httpdelivery/theflash/04leg/03-ALTO.mp4
 http://zeus.netcine.tv/httpdelivery/twd/08dub/01-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cm3BQrA.jpg" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP01 [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/twd/08leg/01-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cm3BQrA.jpg" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP02 [COLOR lightblue] - LEG - HD [/COLOR]
+http://zeus.netcine.tv/httpdelivery/twd/08leg/02-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2015/06/Supernatural-683x1024.jpg" group-title="ATUALIZAÇÕES DO DIA",SUPERNATURAL T13|EP1 [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/supernatural/13leg/001-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2015/06/Supernatural-683x1024.jpg" group-titleATUALIZAÇÕES DO DIA",SUPERNATURAL T13|EP2 [COLOR lightblue] - LEG - HD [/COLOR]
@@ -53,10 +59,10 @@ http://zeus.netcine.tv/httpdelivery/lot/03dub/01-ALTO.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",      
 http://0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 30/10 ás 00:05 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 30/10 ás 10:07 [/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iPPNDATXJunAaFBDtEAoBo3wpTq.jpg",THOR RAGNAROK [COLOR lightblue] - DUB - HDTS [/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iPPNDATXJunAaFBDtEAoBo3wpTq.jpg",THOR RAGNAROK [COLOR lightblue] - DUB - HD-CAM [/COLOR]
 http://assistir.querofilmehd.com/filmes/Thor.Ragnarok.2017.mp4
 
 #EXTINF:-1 tvg-logo="http://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2017/10/missaocegonha.jpg",MISSÃO CEGONHA [COLOR lightblue] - DUB - FULL HD [/COLOR]
@@ -175,8 +181,10 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/CORRADUB-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://topdezfilmes.org/wp-content/uploads/2017/10/A-Torre-Negra.jpg" group-title="FILMES LANÇAMENTOS",A TORRE NEGRA [COLOR lightblue] - DUB - HD [/COLOR] 
 http://assistir.querofilmehd.com/filmes/A.Torre.Negra.2017.1080p.HDRip.x264.AC3.Line.DUAL-SynysteR.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C8BNBNKXUAEGu2A.jpg",IT: A COISA - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C8BNBNKXUAEGu2A.jpg",IT: A COISA [COLOR lightblue] - DUB - SD [/COLOR]
 http://assistir.querofilmehd.com/filmes/IT.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C8BNBNKXUAEGu2A.jpg" group-title="ATUALIZAÇÕES DO DIA",IT: A COISA [COLOR lightblue] - LEG - HD [/COLOR]
+http://zeus.netcine.tv/httpdelivery/filmes2017/ACOISA2017LEG-ALTO.mp4
 
 #EXTINF:1 tvg-id="" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_12192_risco.jpg",SEGURANÇA EM RISCO [COLOR lightblue] - DUB - HD [/COLOR]
 http://assistir.querofilmehd.com/filmes/Seguranca.em.Risco.2017.720p.BluRay.x264.iFT.DUAL-SynysteR.mp4
@@ -198,7 +206,7 @@ http://assistir.querofilmehd.com/filmes/Ouro.e.Cobica.2017.720p.BluRay.x264.DRON
 #EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/1cAneYx.jpg",OURO E COBIÇA [COLOR lightblue] - LEG - HD [/COLOR]
 http://staniptv.com/oldcobleg
 
-#EXTINF:1 tvg-id="" tvg-logo="http://i.imgur.com/qcRJkNI.jpg",AMOR.COM - 2017 - DUB
+#EXTINF:1 tvg-id="" tvg-logo="http://i.imgur.com/qcRJkNI.jpg",AMOR.COM [COLOR lightblue] - DUB - HD [/COLOR]
 http://ia601504.us.archive.org/32/items/luaAmor/luaAmor.MP4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KTLJaxC.png" group-title="FILMES LANCAMENTOS",CAMPO MINADO [COLOR lightblue] - DUB - HD [/COLOR]
@@ -231,7 +239,7 @@ http://assistir.querofilmehd.com/filmes/Atomic.Blonde.2017.1080p.KORSUB.HDRip.x2
 http://assistir.querofilmehd.com/filmes/Atomica.2017.1080p.BluRay.x264-ROVERS.mp4
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cRgeD2n.jpg" group-title="FILMES LANCAMENTOS",MEU MALVADO FAVORITO 3 - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cRgeD2n.jpg" group-title="FILMES LANCAMENTOS",MEU MALVADO FAVORITO 3 [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/MMFDUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cRgeD2n.jpg" group-title="FILMES LANCAMENTOS",MEU MALVADO FAVORITO 3 [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/MMFDUB-ALTO.mp4
@@ -239,7 +247,7 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/MMFDUB-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kejOrqW.jpg" group-title="FILMES LANCAMENTOS" ,HOMEM ARANHA DE VOLTA AO LAR [COLOR lightblue] - DUB - FULL HD [/COLOR]
 http://assistir.querofilmehd.com/filmes/Spider-Man.Homecoming.2017.1080p.HDRip.AC3.H264.Dual-floyd.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kejOrqW.jpg" group-title="FILMES LANCAMENTOS" ,HOMEM ARANHA DE VOLTA AO LAR - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kejOrqW.jpg" group-title="FILMES LANCAMENTOS" ,HOMEM ARANHA DE VOLTA AO LAR [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ARANHAHOMEMLEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kejOrqW.jpg" group-title="FILMES LANCAMENTOS" ,HOMEM ARANHA DE VOLTA AO LAR [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ARANHAHOMEMLEG-ALTO.mp4
@@ -274,39 +282,39 @@ http://assistir.querofilmehd.com/filmes/REALITYHIGH.2017.1080p.NF.WEB-DL.DD5.1.x
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/is0GrMU.jpg" group-title="FILMES LANCAMENTOS",47 METERS DOWN [COLOR lightblue] - DUB - FULL HD [/COLOR]
 http://assistir.querofilmehd.com/filmes/47.Meters.Down.2017.1080p.WEB-DL.DD5.1.H264-FGT.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kqCRKGl.jpg" group-title="FILMES LANCAMENTOS",PIRATAS DO CARIBE - A VINGANÇA DE SALAZAR - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kqCRKGl.jpg" group-title="FILMES LANCAMENTOS",PIRATAS DO CARIBE - A VINGANÇA DE SALAZAR [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5DUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kqCRKGl.jpg" group-title="FILMES LANCAMENTOS",PIRATAS DO CARIBE - A VINGANÇA DE SALAZAR [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5DUB-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kqCRKGl.jpg" group-title="FILMES LANCAMENTOS",PIRATAS DO CARIBE - A VINGANÇA DE SALAZAR - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kqCRKGl.jpg" group-title="FILMES LANCAMENTOS",PIRATAS DO CARIBE - A VINGANÇA DE SALAZAR [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5LEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kqCRKGl.jpg" group-title="FILMES LANCAMENTOS",PIRATAS DO CARIBE - A VINGANÇA DE SALAZAR [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5LEG-ALTO.mp4
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://bozemanfilmsociety.org/wp-content/uploads/2017/05/Colossal-new-poster-1.jpg" group-title="FILMES LANCAMENTOS",COLOSSAL - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://bozemanfilmsociety.org/wp-content/uploads/2017/05/Colossal-new-poster-1.jpg" group-title="FILMES LANCAMENTOS",COLOSSAL [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/COLOSSAL2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://bozemanfilmsociety.org/wp-content/uploads/2017/05/Colossal-new-poster-1.jpg" group-title="FILMES LANCAMENTOS",COLOSSAL [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/COLOSSAL2017DUB-ALTO.mp4
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KSaYmQT.jpg" group-title="FILMES LANCAMENTOS",TRANSFORMERS 5: O ÚLTIMO CAVALEIRO - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KSaYmQT.jpg" group-title="FILMES LANCAMENTOS",TRANSFORMERS 5: O ÚLTIMO CAVALEIRO [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/CAVALEIRO2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KSaYmQT.jpg" group-title="FILMES LANCAMENTOS",TRANSFORMERS 5: O ÚLTIMO CAVALEIRO [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/CAVALEIRO2017DUB-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KSaYmQT.jpg" group-title="FILMES LANCAMENTOS",TRANSFORMERS 5: O ÚLTIMO CAVALEIRO - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KSaYmQT.jpg" group-title="FILMES LANCAMENTOS",TRANSFORMERS 5: O ÚLTIMO CAVALEIRO [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/TRANSFORMERS2017LEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KSaYmQT.jpg" group-title="FILMES LANCAMENTOS",TRANSFORMERS 5: O ÚLTIMO CAVALEIRO [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/TRANSFORMERS2017LEG-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPAÇO ENTRE NOS - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPAÇO ENTRE NOS [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ESPACOENTRENOSMOVIEDUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPAÇO ENTRE NOS [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ESPACOENTRENOSMOVIEDUB-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPAÇO ENTRE NOS - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPAÇO ENTRE NOS [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ESPACOENTRENOSMOVIELEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5XmSiQN.jpg" group-title="FILMES LANCAMENTOS",O ESPAÇO ENTRE NOS [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ESPACOENTRENOSMOVIELEG-ALTO.mp4
@@ -349,12 +357,12 @@ http://staniptv.com/everythingeverything
 http://staniptv.com/everythingeverythings
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://geekinginindiana.com/wp/wp-content/uploads/2017/07/Kong.jpg" group-title="FILMES LANCAMENTOS",KONG: A ILHA DA CAVEIRA - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://geekinginindiana.com/wp/wp-content/uploads/2017/07/Kong.jpg" group-title="FILMES LANCAMENTOS",KONG: A ILHA DA CAVEIRA [COLOR lightblue] - DUB - SD [/COLOR]
 http://staniptv.com/kongdubsd
 #EXTINF:-1 tvg-id="" tvg-logo="http://geekinginindiana.com/wp/wp-content/uploads/2017/07/Kong.jpg" group-title="FILMES LANCAMENTOS",KONG: A ILHA DA CAVEIRA [COLOR lightblue] - DUB - HD [/COLOR]
 http://staniptv.com/kongdubhd
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://geekinginindiana.com/wp/wp-content/uploads/2017/07/Kong.jpg" group-title="FILMES LANCAMENTOS",KONG: A ILHA DA CAVEIRA - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://geekinginindiana.com/wp/wp-content/uploads/2017/07/Kong.jpg" group-title="FILMES LANCAMENTOS",KONG: A ILHA DA CAVEIRA [COLOR lightblue] - LEG - SD [/COLOR]
 http://staniptv.com/konglegsd1
 #EXTINF:-1 tvg-id="" tvg-logo="http://geekinginindiana.com/wp/wp-content/uploads/2017/07/Kong.jpg" group-title="FILMES LANCAMENTOS",KONG: A ILHA DA CAVEIRA [COLOR lightblue] - LEG - HD [/COLOR]
 http://staniptv.com/kongleghd2
@@ -390,34 +398,34 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/AMUMIA2017DUB-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dZtIg8f.png" group-title="FILMES LANÇAMENTOS", A MÚMIA 2017 [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/AMUMIA2017LEG-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/bqIoeG9h.jpg" group-title="FILMES LANCAMENTOS",MULHER MARAVILHA - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/bqIoeG9h.jpg" group-title="FILMES LANCAMENTOS",MULHER MARAVILHA [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/W0M4N2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/bqIoeG9h.jpg" group-title="FILMES LANCAMENTOS",MULHER MARAVILHA [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/W0M4N2017DUB-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/bqIoeG9h.jpg" group-title="FILMES LANCAMENTOS",MULHER MARAVILHA - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/bqIoeG9h.jpg" group-title="FILMES LANCAMENTOS",MULHER MARAVILHA [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/W0M4N2017LEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/bqIoeG9h.jpg" group-title="FILMES LANCAMENTOS",MULHER MARAVILHA [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/W0M4N2017LEG-ALTO.mp4
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1EBN9Mh.jpg" group-title="FILMES LANCAMENTOS" ,VELOZES E FURIOSOS 8 - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1EBN9Mh.jpg" group-title="FILMES LANCAMENTOS" ,VELOZES E FURIOSOS 8 [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1EBN9Mh.jpg" group-title="FILMES LANCAMENTOS" ,VELOZES E FURIOSOS 8 [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017DUB-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1EBN9Mh.jpg" group-title="FILMES LANCAMENTOS" ,VELOZES E FURIOSOS 8 - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1EBN9Mh.jpg" group-title="FILMES LANCAMENTOS" ,VELOZES E FURIOSOS 8 [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017LEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1EBN9Mh.jpg" group-title="FILMES LANCAMENTOS" ,VELOZES E FURIOSOS 8 [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017LEG-ALTO.mp4
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://leitoresdepressivos.com/wp-content/uploads/2017/03/cab2.jpg" group-title="FILMES LANCAMENTOS", A CABANA - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://leitoresdepressivos.com/wp-content/uploads/2017/03/cab2.jpg" group-title="FILMES LANCAMENTOS", A CABANA [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ACABANA2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://leitoresdepressivos.com/wp-content/uploads/2017/03/cab2.jpg" group-title="FILMES LANCAMENTOS", A CABANA [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ACABANA2017DUB-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://leitoresdepressivos.com/wp-content/uploads/2017/03/cab2.jpg" group-title="FILMES LANCAMENTOS", A CABANA - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://leitoresdepressivos.com/wp-content/uploads/2017/03/cab2.jpg" group-title="FILMES LANCAMENTOS", A CABANA [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/4C4B4N42017LEGENDADO-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://leitoresdepressivos.com/wp-content/uploads/2017/03/cab2.jpg" group-title="FILMES LANCAMENTOS", A CABANA [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/4C4B4N42017LEGENDADO-ALTO.mp4
@@ -436,56 +444,56 @@ http://staniptv.com/os9f
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMDEyZmQ2MGEtNmFkYy00ZDFjLTkyYmEtZmQ1ZjE2YjEzNzQ0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="FILMES LANCAMENTOS",DEATH NOTE [COLOR lightblue] - LEG - HD [/COLOR]
 http://staniptv.com/25i8
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://staniptv.com/a58s" group-title="FILMES LANCAMENTOS",Z A CIDADE PERDIDA - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://staniptv.com/a58s" group-title="FILMES LANCAMENTOS",Z A CIDADE PERDIDA [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ZDUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://staniptv.com/a58s" group-title="FILMES LANCAMENTOS",Z A CIDADE PERDIDA [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ZDUB-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://staniptv.com/a58s" group-title="FILMES LANCAMENTOS",Z A CIDADE PERDIDA - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://staniptv.com/a58s" group-title="FILMES LANCAMENTOS",Z A CIDADE PERDIDA [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ZLOSTCITYLEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://staniptv.com/a58s" group-title="FILMES LANCAMENTOS",Z A CIDADE PERDIDA [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ZLOSTCITYLEG-ALTO.mp4
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/CIRCO2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/CIRCO2017DUB-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/OCIRCULOLEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/b3Kxb5T.jpg" group-title="FILMES LANCAMENTOS",O CIRCULO [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/OCIRCULOLEG-ALTO.mp4
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_9620_posterreiarthurlendaespada1.jpg" group-title="FILMES LANCAMENTOS", REI ARTHUR – A LENDA DA ESPADA - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_9620_posterreiarthurlendaespada1.jpg" group-title="FILMES LANCAMENTOS", REI ARTHUR – A LENDA DA ESPADA [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ARTHUR2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_9620_posterreiarthurlendaespada1.jpg" group-title="FILMES LANCAMENTOS", REI ARTHUR – A LENDA DA ESPADA [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ARTHUR2017DUB-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_9620_posterreiarthurlendaespada1.jpg" group-title="FILMES LANCAMENTOS", REI ARTHUR – A LENDA DA ESPADA - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_9620_posterreiarthurlendaespada1.jpg" group-title="FILMES LANCAMENTOS", REI ARTHUR – A LENDA DA ESPADA [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ARTHUR2017LEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_9620_posterreiarthurlendaespada1.jpg" group-title="FILMES LANCAMENTOS", REI ARTHUR – A LENDA DA ESPADA [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ARTHUR2017LEG-ALTO.mp4
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/jFQSDdIh.jpg" group-title="FILMES LANCAMENTOS",BAYWATCH - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/jFQSDdIh.jpg" group-title="FILMES LANCAMENTOS",BAYWATCH [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/BAYWATCHDUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/jFQSDdIh.jpg" group-title="FILMES LANCAMENTOS",BAYWATCH [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/BAYWATCHDUB-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/jFQSDdIh.jpg" group-title="FILMES LANCAMENTOS",BAYWATCH - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/jFQSDdIh.jpg" group-title="FILMES LANCAMENTOS",BAYWATCH [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/BAYWATCHLEG-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/jFQSDdIh.jpg" group-title="FILMES LANCAMENTOS",BAYWATCH [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/BAYWATCHLEG-ALTO.mp4
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/hJRkrh7h.jpg" group-title="FILMES LANCAMENTOS",GUARDIÕES DA GALÁXIA VOL. 2 - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/hJRkrh7h.jpg" group-title="FILMES LANCAMENTOS",GUARDIÕES DA GALÁXIA VOL. 2 [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOES2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/hJRkrh7h.jpg" group-title="FILMES LANCAMENTOS",GUARDIÕES DA GALÁXIA VOL. 2 [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOES2017DUB-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/hJRkrh7h.jpg" group-title="FILMES LANCAMENTOS",GUARDIÕES DA GALÁXIA VOL. 2 - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/hJRkrh7h.jpg" group-title="FILMES LANCAMENTOS",GUARDIÕES DA GALÁXIA VOL. 2 [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOESLEG2017-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/hJRkrh7h.jpg" group-title="FILMES LANCAMENTOS",GUARDIÕES DA GALÁXIA VOL. 2 [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOESLEG2017-ALTO.mp4
@@ -499,12 +507,12 @@ http://assistir.querofilmehd.com/filmes/As.Aventuras.de.Ozzy.2017.BluRay.1080p.x
 http://assistir.querofilmehd.com/filmes/O.Sequestro.2017.1080p.BluRay.x264-VETO.mp4
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ALIEN2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ALIEN2017DUB-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/AL14EN2017LEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SERBhQL.png" group-title="FILMES LANCAMENTOS",ALIEN: COVENANT [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/AL14EN2017LEG-ALTO.mp4
@@ -516,18 +524,18 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/CHEFINHO2017DUB-BAIXO.mp4
 http://zeus.netcine.tv/httpdelivery/filmes2017/CHEFINHO2017DUB-ALTO.mp4
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YgV8oIN.jpg" group-title="FILMES LANCAMENTOS",T2 Trainspotting - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YgV8oIN.jpg" group-title="FILMES LANCAMENTOS",T2 Trainspotting [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/T22017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YgV8oIN.jpg" group-title="FILMES LANCAMENTOS",T2 Trainspotting [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/T22017DUB-ALTO.mp4
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ner7kaI.jpg" group-title="FILMES LANCAMENTOS", T2 Trainspotting - LEG - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ner7kaI.jpg" group-title="FILMES LANCAMENTOS", T2 Trainspotting [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/T22017LEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ner7kaI.jpg" group-title="FILMES LANCAMENTOS", T2 Trainspotting [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/T22017LEG-ALTO.mp4
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/0dL3jUh.jpg" group-title="FILMES LANCAMENTOS",A BELA E A FERA - DUB - SD
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/0dL3jUh.jpg" group-title="FILMES LANCAMENTOS",A BELA E A FERA [COLOR lightblue] - DUB - SD [/COLOR]
 http://zeus.netcine.tv/filmes2017/BELAFERA2017DUB-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/0dL3jUh.jpg" group-title="FILMES LANCAMENTOS",A BELA E A FERA [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/filmes2017/BELAFERA2017DUB-ALTO.mp4
@@ -542,9 +550,9 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/ABELAEFERA2017-ALTO.mp4
 http://zeus.netcine.tv/httpdelivery/filmes2017/POWER2017DUB2-ALTO.mp4
  
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YmkKKWvg.jpg" group-title="FILMES LANCAMENTOS", POWER RANGERS  LEG
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YmkKKWvg.jpg" group-title="FILMES LANCAMENTOS", POWER RANGERS [COLOR lightblue] - LEG - SD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/P0W4R4NG4R2017LEG-BAIXO.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YmkKKWvg.jpg" group-title="FILMES LANCAMENTOS", POWER RANGERS  LEG
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YmkKKWvg.jpg" group-title="FILMES LANCAMENTOS", POWER RANGERS [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/P0W4R4NG4R2017LEG-ALTO.mp4
  
 #EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-MbbfrYrclKs/WSnoLEJG3FI/AAAAAAAACUo/yNvj318m-fwxCySnac22xXj-WE2oc6s_wCLcB/s320/images.jpg" group-title="FILMES LANCAMENTOS",Hulk: Onde os Monstros Habitam (2017)
