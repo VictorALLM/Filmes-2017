@@ -1,12 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] ATUALIZAÇÕES DO DIA 30/10 ás 10:07 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] ATUALIZAÇÕES DO DIA 31/10 ás 12:04 [/COLOR]
 http://0.0.0.0
 
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
-
+#EXTINF:-1 tvg-logo="http://www.yeahimfamous.com/wp-content/uploads/2017/07/IMG_4283.jpg" group-title="ATUALIZAÇÕES DO DIA",RAVEN’S HOME T1|EP01 [COLOR lightblue] - DUB - HD [/COLOR]
+http://zeus.netcine.tv/httpdelivery/ravens/01dub/01-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/14163043/p14163043_b_v8_ab.jpg" group-title="ATUALIZAÇÕES DO DIA",SEAL TEAM T1|EP3 [COLOR lightblue] - LEG - HD [/COLOR]
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP03.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://darksite.az/wp-content/uploads/2017/08/poster75509_1.jpg" group-title="ATUALIZAÇÕES DO DIA",RIVERDALE T2EP03 [COLOR lightblue] - LEG - HD [/COLOR]
@@ -27,6 +28,8 @@ http://zeus.netcine.tv/httpdelivery/twd/08dub/01-ALTO.mp4
 http://zeus.netcine.tv/httpdelivery/twd/08leg/01-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cm3BQrA.jpg" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP02 [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/twd/08leg/02-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cm3BQrA.jpg" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP02 [COLOR lightblue] - DUB - HD [/COLOR]
+http://assistir.querofilmehd.com/the%20walking%20dead/8temp/dub/02.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2015/06/Supernatural-683x1024.jpg" group-title="ATUALIZAÇÕES DO DIA",SUPERNATURAL T13|EP1 [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/supernatural/13leg/001-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2015/06/Supernatural-683x1024.jpg" group-titleATUALIZAÇÕES DO DIA",SUPERNATURAL T13|EP2 [COLOR lightblue] - LEG - HD [/COLOR]
