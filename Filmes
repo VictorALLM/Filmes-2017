@@ -6,6 +6,13 @@ http://0.0.0.0
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
+#EXTINF:-1 tvg-logo="",SBT1
+plugin://plugin.video.youtube?mode=streamURL&amp;url=https://www.youtube.com/watch?v=BgNAyAeK1q0&feature=youtu.be
+#EXTINF:-1 tvg-logo="",SBT2
+plugin://plugin.video.youtube?mode=streamURL&amp;url=https://youtu.be/BgNAyAeK1q0
+#EXTINF:-1 tvg-logo="",SBT3
+plugin://plugin.video.youtube?mode=streamURL&amp;url=https://www.youtube.com/embed/BgNAyAeK1q0
+
 #EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/14163043/p14163043_b_v8_ab.jpg" group-title="ATUALIZAÇÕES DO DIA",SEAL TEAM T1|EP3 [COLOR lightblue] - LEG - HD [/COLOR]
 http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/THEBLCKLSTT01EP03.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://darksite.az/wp-content/uploads/2017/08/poster75509_1.jpg" group-title="ATUALIZAÇÕES DO DIA",RIVERDALE T2EP03 [COLOR lightblue] - LEG - HD [/COLOR]
