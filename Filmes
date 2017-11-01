@@ -6,6 +6,10 @@ http://0.0.0.0
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
+#EXTINF:-1 tvg-logo="http://www.intro.de/images/1/0/3/9/0/4/blade-runner-2049-2-misc_gallery_big_retina.jpg",BLADE RUNNER 2049 [COLOR lightblue] - DUB - HD - TORRENT[/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:magnet:?xt=urn:btih:3a4a4418cf39652184d84d30a3c9863b8ac4f989&dn=Blade_Runner_2049_PT_DUB_LAPUMiA+FiLMES.mkv&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969
+#EXTINF:-1 tvg-logo="http://lblove.com/wp-content/uploads/2017/09/20170901_165328.png",GEO-DISASTER [COLOR lightblue] - LEG - FULL HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZdWR2TjlnMlRBQnM
 #EXTINF:-1 tvg-logo="http://www.yeahimfamous.com/wp-content/uploads/2017/07/IMG_4283.jpg" group-title="ATUALIZAÇÕES DO DIA",RAVEN’S HOME T1|EP01 [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/ravens/01dub/01-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/14163043/p14163043_b_v8_ab.jpg" group-title="ATUALIZAÇÕES DO DIA",SEAL TEAM T1|EP3 [COLOR lightblue] - LEG - HD [/COLOR]
