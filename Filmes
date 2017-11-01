@@ -6,8 +6,7 @@ http://0.0.0.0
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
-#EXTINF:-1 tvg-logo="http://www.intro.de/images/1/0/3/9/0/4/blade-runner-2049-2-misc_gallery_big_retina.jpg",BLADE RUNNER 2049 [COLOR lightblue] - DUB - HD - TORRENT[/COLOR]
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:3A4A4418CF39652184D84D30A3C9863B8AC4F989
+
 #EXTINF:-1 tvg-logo="http://lblove.com/wp-content/uploads/2017/09/20170901_165328.png",GEO-DISASTER [COLOR lightblue] - LEG - FULL HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZdWR2TjlnMlRBQnM
 #EXTINF:-1 tvg-logo="http://www.yeahimfamous.com/wp-content/uploads/2017/07/IMG_4283.jpg" group-title="ATUALIZAÇÕES DO DIA",RAVEN’S HOME T1|EP01 [COLOR lightblue] - DUB - HD [/COLOR]
