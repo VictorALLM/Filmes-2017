@@ -78,8 +78,6 @@ http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://www.spetteguless.it/wp-content/uploads/2017/05/Schermata-2017-05-24-alle-18.13.08.png",VALERIAN E A CIDADE DOS MIL PLANETAS [COLOR lightblue] - DUB - HD - VIA TORRENT[/COLOR]
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:CB6861ACD7D5EB6D2A3899F55D05639EB8F70195
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8f/1a/b3/8f1ab35a56c61b42e937537474a15de6.jpg",VALERIAN E A CIDADE DOS MIL PLANETAS [COLOR lightblue] - DUB - HD - TORRENT[/COLOR]
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:CB6861ACD7D5EB6D2A3899F55D05639EB8F70195
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1-ssl.dmcdn.net/jHQuq.jpg",HICKOK [COLOR lightblue] - LEG - FULL HD [/COLOR] 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZVVVGTnBMM3h2QUU
