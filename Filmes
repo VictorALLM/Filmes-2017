@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] ATUALIZAÇÕES DO DIA 31/10 ás 12:04 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] ATUALIZAÇÕES DO DIA 01/10 ás 22:48 [/COLOR]
 http://0.0.0.0
 
 FILME TORRENT
@@ -25,6 +25,8 @@ http://zeus.netcine.tv/httpdelivery/theflash/04leg/01-BAIXO.mp4
 http://zeus.netcine.tv/httpdelivery/theflash/04leg/TF02LEG-BAIXO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/06/the-flash-season-4-reborn-and-recharged-poster-1026105.jpg" group-title="ATUALIZAÇÕES DO DIA",THE FLASH T4|EP03 [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/theflash/04leg/03-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://ntimg.ntcdn.us/wp-content/uploads/2017/06/the-flash-season-4-reborn-and-recharged-poster-1026105.jpg" group-title="ATUALIZAÇÕES DO DIA",THE FLASH T4|EP04 [COLOR lightblue] - LEG - HD [/COLOR]
+http://zeus.netcine.tv/httpdelivery/theflash/04leg/FLASH04-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cm3BQrA.jpg" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP01 [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/twd/08dub/01-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cm3BQrA.jpg" group-title="ATUALIZAÇÕES DO DIA",THE WALKING DEAD T8|EP01 [COLOR lightblue] - LEG - HD [/COLOR]
@@ -59,6 +61,8 @@ http://zeus.netcine.tv/httpdelivery/inhumans/01leg/05-ALTO.mp4
 http://zeus.netcine.tv/httpdelivery/thegifted/01leg/04-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VCtPS1B.png" group-title="ATUALIZAÇÕES DO DIA",SUPERGIRL T3|EP03 [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/supergirl/03leg/03-ALTO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VCtPS1B.png" group-title="ATUALIZAÇÕES DO DIA",SUPERGIRL T3|EP04 [COLOR lightblue] - LEG - HD [/COLOR]
+http://zeus.netcine.tv/httpdelivery/supergirl/03leg/04-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KLutEJ4.jpg" group-title="ATUALIZAÇÕES DO DIA",GOTHAM T4|EP1 [COLOR lightblue] - DUB - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/gotham/04dub/01-ALTO.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KLutEJ4.jpg" group-title="ATUALIZAÇÕES DO DIA",GOTHAM T4|EP2 [COLOR lightblue] - DUB - HD [/COLOR]
@@ -69,7 +73,7 @@ http://zeus.netcine.tv/httpdelivery/lot/03dub/01-ALTO.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",      
 http://0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 30/10 ás 22:58 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 01/10 ás 22:48 [/COLOR]
 http://0.0.0.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1-ssl.dmcdn.net/jHQuq.jpg",HICKOK [COLOR lightblue] - LEG - FULL HD [/COLOR] 
@@ -199,8 +203,10 @@ http://assistir.querofilmehd.com/filmes/IT.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C8BNBNKXUAEGu2A.jpg" group-title="ATUALIZAÇÕES DO DIA",IT: A COISA [COLOR lightblue] - LEG - HD [/COLOR]
 http://zeus.netcine.tv/httpdelivery/filmes2017/ACOISA2017LEG-ALTO.mp4
 
-#EXTINF:1 tvg-id="" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_12192_risco.jpg",SEGURANÇA EM RISCO [COLOR lightblue] - DUB - HD [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_12192_risco.jpg",SEGURANÇA EM RISCO [COLOR lightblue] - DUB - HD [/COLOR]
 http://assistir.querofilmehd.com/filmes/Seguranca.em.Risco.2017.720p.BluRay.x264.iFT.DUAL-SynysteR.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_12192_risco.jpg",SEGURANÇA EM RISCO [COLOR lightblue] - LEG - HD [/COLOR]
+http://assistir.querofilmehd.com/filmes/Seguranca.em.Risco.2017.720p.BluRay.x264.iFT.DUAL-SynysteR(1).mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/fF6hXk" group-title="LANÇAMENTOS", OS MENINOS QUE ENGANAVAM NAZISTAS [COLOR lightblue] - DUB - HD [/COLOR]
 http://assistir.querofilmehd.com/filmes/Os.Meninos.Que.Enganavam.Nazistas.2017.720p.BluRay.x264.DD5.1.playHD.DUAL-SynysteR.mp4
