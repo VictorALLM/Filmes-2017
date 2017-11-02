@@ -12,6 +12,11 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 #EXTINF:-1 tvg-logo="http://www.spetteguless.it/wp-content/uploads/2017/05/Schermata-2017-05-24-alle-18.13.08.png",VALERIAN E A CIDADE DOS MIL PLANETAS [COLOR lightblue] - DUB - HD - VIA TORRENT[/COLOR]
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:CB6861ACD7D5EB6D2A3899F55D05639EB8F70195
 
+#EXTINF:-1 tvg-logo="http://mb.web.sapo.io/7f67de4590d01162b283def5278d204d360b242c.jpg" group-title="ATUALIZAÇÕES DO DIA",O LIVRO DE ELI [COLOR lightblue] - DUB - HD [/COLOR]
+http://assistir.querofilmehd.com/filmes/O.Livro.de.Eli.720p.DUAL-ZMG.mp4
+#EXTINF:-1 tvg-logo="http://mb.web.sapo.io/7f67de4590d01162b283def5278d204d360b242c.jpg" group-title="ATUALIZAÇÕES DO DIA",O LIVRO DE ELI [COLOR lightblue] - LEG - HD [/COLOR]
+http://assistir.querofilmehd.com/filmes/O.Livro.de.Eli.720p.DUAL-ZMG(1).mp4
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1-ssl.dmcdn.net/jHQuq.jpg",HICKOK [COLOR lightblue] - LEG - FULL HD [/COLOR] 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZVVVGTnBMM3h2QUU
 
