@@ -3,8 +3,17 @@
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 02/10 ás 12:48 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 03/10 ás 20:48 [/COLOR]
 http://0.0.0.0
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w1280/ht4ykGCmE5fVBmzwPX2IsUz99dD.jpg",ANTHROPOID [COLOR lightblue] - DUB - HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZUWYzU0M0ckgwSlk
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2017/08/6-dias-poster-pt.jpg",6 DIAS [COLOR lightblue] - DUB - FULL HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZRTZHdW1QR1VGWkE
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2017/08/6-dias-poster-pt.jpg",6 DIAS [COLOR lightblue] - LEG - FULL HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZNnV3MHcxR3pWeGs
 
 #EXTINF:-1 tvg-logo="http://lblove.com/wp-content/uploads/2017/09/20170901_165328.png",GEO-DISASTER [COLOR lightblue] - LEG - FULL HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZdWR2TjlnMlRBQnM
@@ -42,9 +51,6 @@ http://assistir.querofilmehd.com/filmes/Jungle.2017.1080p.WEB-DL.DD5.1.H264-FGT.
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img2.acsta.net/pictures/17/04/27/19/00/136026.jpg",NO LIMITE [COLOR lightblue] - LEG - FULL HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZV3loMzFqV0Y0djQ
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2017/08/6-dias-poster-pt.jpg",6 DIAS [COLOR lightblue] - LEG - FULL HD [/COLOR]
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZNnV3MHcxR3pWeGs
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/817X8FVUrRL._RI_.jpg",ATAQUE A BUSHWICK [COLOR lightblue] - DUB - FULL HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZVUF1VnhIbThrSDg
