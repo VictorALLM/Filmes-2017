@@ -3,16 +3,25 @@
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 05/11 ás 18:04 [/COLOR]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 06/11 ás 00:32 [/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w1920/stwcTs2QhErHhtyWYHHRHtuPRf0.jpg",A VILÃ [COLOR lightblue] - LEG - FULL HD [/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w1920/stwcTs2QhErHhtyWYHHRHtuPRf0.jpg",A VILÃ [COLOR lightblue] - LEG - HD [/COLOR] 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZS2F6MFpsVUdHVE0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/19389-cartaz.jpg",LOUCOS E PERIGOSOS [COLOR lightblue] - DUB - FULL HD [/COLOR] 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZWVFhSzg3VGNFeUU
 #EXTINF:-1 tvg-id="" tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/19389-cartaz.jpg",LOUCOS E PERIGOSOS [COLOR lightblue] - LEG - FULL HD [/COLOR
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZaFRSdkViNklXVXc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/2b/7e/59/2b7e59b86a0d31d65c6bbbcdb7f649c1.jpg",GUN SHY [COLOR lightblue] - LEG - FULL HD [/COLOR] 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZQVFWanp0T29wUWM
+
+#EXTINF:-1 tvg-id="" tvg-logo="",BRAWL IN CELL BLOCK 99 [COLOR lightblue] - LEG - HD [/COLOR] 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZZEphUnNrUHZ2UXc
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://image13.m1905.cn/uploadfile/2017/0629/20170629023834644296.jpg",INGRID GOES WEST [COLOR lightblue] - LEG - FULL HD [/COLOR] 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZSFk4bGNjb0dwZ00
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w1280/ht4ykGCmE5fVBmzwPX2IsUz99dD.jpg",ANTHROPOID [COLOR lightblue] - DUB - HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZUWYzU0M0ckgwSlk
