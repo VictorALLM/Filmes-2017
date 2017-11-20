@@ -3,8 +3,16 @@
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 12/11 ás 22:18 [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 20/11 ás 18:10 [/COLOR]
 http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - FULL HD - TORRENT[/COLOR] 
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:73E4E1B3AF63EF0DBCDF05AFCD254C974145D26F
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - HD - TORRENT[/COLOR] 
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:48B570F40C42BEE452780BD3309619DB253417BC
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rNF9ITb.jpg",VOVÔ DISFARÇADO [COLOR lightblue] - DUB - FULL HD[/COLOR] 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DWr3caBlS56SpTXEOmpbOtgIh8ekbnct
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://sideonetrackone.com/wp-content/uploads/2017/08/shot-caller-2017-us-poster.jpg",SEM PERDÃO [COLOR lightblue] - DUB - HD [/COLOR] 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F_f1aGKXOCeiwH4VKBJMLF87bcfU_BhF
