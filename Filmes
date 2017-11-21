@@ -6,10 +6,10 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 20/11 ás 18:10 [/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - FULL HD - TORRENT[/COLOR] 
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:73E4E1B3AF63EF0DBCDF05AFCD254C974145D26F
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - HD - TORRENT[/COLOR] 
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:48B570F40C42BEE452780BD3309619DB253417BC
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - HDTS - TORRENT[/COLOR] 
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:715b7d649208f8c803093b0d468c26aaeac1adf8&dn
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - HD-CAM - TORRENT[/COLOR] 
+magnet:?xt=urn:btih:715b7d649208f8c803093b0d468c26aaeac1adf8&dn=Liga.da.Justi%C3%A7a.2017.720p.TS.x264.DUBLADO-LAPUMiAFiLMES.COM.mkv&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rNF9ITb.jpg",VOVÔ DISFARÇADO [COLOR lightblue] - DUB - FULL HD[/COLOR] 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DWr3caBlS56SpTXEOmpbOtgIh8ekbnct
