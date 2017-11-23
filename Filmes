@@ -3,13 +3,20 @@
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 20/11 ás 18:10 [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 22/11 ás 23:10 [/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - HDTS - TORRENT[/COLOR] 
+#EXTINF:-1 tvg-logo="http://recantoadormecido.com.br/wp-content/uploads/2017/08/Poster-Dupla-Explosiva-1.jpg",DUPLA EXPLOSIVA [COLOR lightblue] - DUB - HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SyWYoGq0rg9Avba_O4BBmmZocJairU7A
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/m9bKyujcKJNks7MOX2SUgqPa04y.jpg",JOGO PERIGOSO [COLOR lightblue] - DUB - HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZeWo0Uk0zX0YxYnM
+
+#EXTINF:-1 tvg-logo="http://wolverdonfilmes.org/wp-content/uploads/2017/11/Filme-Tempos-Doces-Tempos-Amargos.jpg",TEMPOS DOCES, TEMPOS AMARGOS [COLOR lightblue] - DUB - HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - HDTS [/COLOR] 
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:715b7d649208f8c803093b0d468c26aaeac1adf8&dn
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - HD-CAM - TORRENT[/COLOR] 
-magnet:?xt=urn:btih:715b7d649208f8c803093b0d468c26aaeac1adf8&dn=Liga.da.Justi%C3%A7a.2017.720p.TS.x264.DUBLADO-LAPUMiAFiLMES.COM.mkv&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rNF9ITb.jpg",VOVÔ DISFARÇADO [COLOR lightblue] - DUB - FULL HD[/COLOR] 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DWr3caBlS56SpTXEOmpbOtgIh8ekbnct
@@ -54,8 +61,8 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 #EXTINF:-1 tvg-id="" tvg-logo="http://lblove.com/wp-content/uploads/2017/09/20170901_165328.png",GEO-DISASTER [COLOR lightblue] - LEG - FULL HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2cjdMYNqRgZdWR2TjlnMlRBQnM
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.spetteguless.it/wp-content/uploads/2017/05/Schermata-2017-05-24-alle-18.13.08.png",VALERIAN E A CIDADE DOS MIL PLANETAS [COLOR lightblue] - DUB - HD - VIA TORRENT[/COLOR]
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:CB6861ACD7D5EB6D2A3899F55D05639EB8F70195
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.spetteguless.it/wp-content/uploads/2017/05/Schermata-2017-05-24-alle-18.13.08.png",VALERIAN E A CIDADE DOS MIL PLANETAS [COLOR lightblue] - DUB - FULL HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_uEeHxpSM0hIsQKicJb4Ui2c1m9SuFzu
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://mb.web.sapo.io/7f67de4590d01162b283def5278d204d360b242c.jpg" group-title="ATUALIZAÇÕES DO DIA",O LIVRO DE ELI [COLOR lightblue] - DUB - HD [/COLOR]
 http://assistir.querofilmehd.com/filmes/O.Livro.de.Eli.720p.DUAL-ZMG.mp4
