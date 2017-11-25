@@ -16,7 +16,7 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - HDTS [/COLOR] 
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:715b7d649208f8c803093b0d468c26aaeac1adf8&dn
+https://archive.org/download/L.D.J.HDTS/L.D.J.HDTS.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rNF9ITb.jpg",VOVÔ DISFARÇADO [COLOR lightblue] - DUB - FULL HD[/COLOR] 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DWr3caBlS56SpTXEOmpbOtgIh8ekbnct
