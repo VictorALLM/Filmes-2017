@@ -3,8 +3,11 @@
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 22/11 ás 23:10 [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 26/11 ás 23:10 [/COLOR]
 http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/05/15/23/24/553484.jpg",NA MIRA DO ATIRADOR [COLOR lightblue] - DUB - FULL HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FHf8seXIRhwIKbdYAf0bB_jJUrJIhwNx
 
 #EXTINF:-1 tvg-logo="http://recantoadormecido.com.br/wp-content/uploads/2017/08/Poster-Dupla-Explosiva-1.jpg",DUPLA EXPLOSIVA [COLOR lightblue] - DUB - HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SyWYoGq0rg9Avba_O4BBmmZocJairU7A
