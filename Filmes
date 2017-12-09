@@ -6,6 +6,28 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 26/11 ás 23:10 [/COLOR]
 http://0.0.0.0
 
+
+#EXTINF:-1 tvg-logo="https://pidutv.com/images/filmes/poster/375355_dublado.png",NÃO DESLIGUE [COLOR lightblue] - DUB - HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RgWtkVu0QCnIQzoohdQ87zMQi4bXRrup
+
+#EXTINF:-1 tvg-logo="https://usercontent2.hubstatic.com/13685771_f1024.jpg",DUNKIRK [COLOR lightblue] - DUB - HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-sroHGhgeasRr_u6r5cU35OSY3NoBCF7
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1448_2048/newsv7/17/09/12/23/03/0331559.jpg",COMO SE TORNAR O PIOR ALUNO DA ESCOLA [COLOR lightblue] - DUB - HD [/COLOR]
+http://zeus.netcine.tv/httpdelivery/filmes2017/CSATOPADENACIONAL-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/03/30/22/44/345288.jpg",IT: A COISA [COLOR lightblue] - DUB - FULL HD [/COLOR]
+https://ia601509.us.archive.org/32/items/itacoisa/IT.A.Coisa.2017.1080p.HC.HDRip.x264.DUBLADO-LAPUMiAFiLMES.COM.mkv
+
+#EXTINF:-1 tvg-logo="https://www.telecinetorrent.com/_nw/32/03216181.jpg",APRISIONADOS [COLOR lightblue] - DUB - HD [/COLOR]
+http://comofazer.club/embed/Aprisionados.2017.720p.BluRay.x264.DUAL.mp4
+
+#EXTINF:-1 tvg-logo="https://camboreadyblog.files.wordpress.com/2017/01/017fender-bender-2016-1080p-070-691-098.jpg",COLISÃO MORTAL [COLOR lightblue] - DUB - FULL HD [/COLOR]
+http://94.242.55.155/Brpt/Colis%c3%a3o.Mortal.2017.1080p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
+
+#EXTINF:-1 tvg-logo="http://telecineon.com.br/arquivo/filme/007ce74aee2f384c24132cb5f2a8b9484.jpg",DESERTO EM FOGO [COLOR lightblue] - DUB - HD [/COLOR]
+http://ip174.ip-158-69-7.net/lanc/Deserto.em.Fogo.2017.mp4
+
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/05/15/23/24/553484.jpg",NA MIRA DO ATIRADOR [COLOR lightblue] - DUB - FULL HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FHf8seXIRhwIKbdYAf0bB_jJUrJIhwNx
 
