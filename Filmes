@@ -3,9 +3,23 @@
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 26/11 ás 23:10 [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 12/12 ás 11:29 [/COLOR]
 http://0.0.0.0
 
+#EXTINF:-1 tvg-logo="https://www.baixarfilmestorrent.club/wp-content/uploads/2017/10/Em-Defesa-de-Cristo-202-x-266-cm.jpg",EM DEFESA DE CRISTO [COLOR lightblue] - DUB - HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1k-Kr4vVrB7mFZ0lCahllm9SloXf7Jazb
+
+#EXTINF:-1 tvg-logo="http://www.citylightscinemas.com/wp-content/uploads/2017/07/atomic-blonde-poster.jpg",ATÔMICA: AGENTE ESPECIAL [COLOR lightblue] - DUB - HD [/COLOR]
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ATMCAGNTESPC.mp4
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DH3Z1s9XUAABH2-.jpg",KINGSMAN: O CÍRCULO DOURADO [COLOR lightblue] - LEG - HD [/COLOR]
+http://ic-b126b100-09039a-1bjdobr.s.loris.llnwd.net/httpdelivery/filmes2017/KINGS2017LEG-BAIXO.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/08/10/14/03/158990.jpg",O SEQUESTRO [COLOR lightblue] - DUB - HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_qnBuwSrI0hrzreEzKSV4N34HOAfiyO5
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/01/18/11/58/567423.jpg",CLOWNTERGEIST [COLOR lightblue] - DUB - HD [/COLOR]
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CLWNTRGST.mp4
 
 #EXTINF:-1 tvg-logo="https://pidutv.com/images/filmes/poster/375355_dublado.png",NÃO DESLIGUE [COLOR lightblue] - DUB - HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RgWtkVu0QCnIQzoohdQ87zMQi4bXRrup
@@ -13,8 +27,8 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 #EXTINF:-1 tvg-logo="https://usercontent2.hubstatic.com/13685771_f1024.jpg",DUNKIRK [COLOR lightblue] - DUB - HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-sroHGhgeasRr_u6r5cU35OSY3NoBCF7
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1448_2048/newsv7/17/09/12/23/03/0331559.jpg",COMO SE TORNAR O PIOR ALUNO DA ESCOLA [COLOR lightblue] - DUB - HD [/COLOR]
-http://zeus.netcine.tv/httpdelivery/filmes2017/CSATOPADENACIONAL-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1448_2048/newsv7/17/09/12/23/03/0331559.jpg",COMO SE TORNAR O PIOR ALUNO DA ESCOLA [COLOR lightblue] - DUB - FULL HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sLep4UGMyxh3nVnRLEYk6X9rr-zR17E2
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/03/30/22/44/345288.jpg",IT: A COISA [COLOR lightblue] - DUB - FULL HD [/COLOR]
 https://ia601509.us.archive.org/32/items/itacoisa/IT.A.Coisa.2017.1080p.HC.HDRip.x264.DUBLADO-LAPUMiAFiLMES.COM.mkv
@@ -27,6 +41,12 @@ http://94.242.55.155/Brpt/Colis%c3%a3o.Mortal.2017.1080p.BluRay.x264.DUBLADO-WWW
 
 #EXTINF:-1 tvg-logo="http://telecineon.com.br/arquivo/filme/007ce74aee2f384c24132cb5f2a8b9484.jpg",DESERTO EM FOGO [COLOR lightblue] - DUB - HD [/COLOR]
 http://ip174.ip-158-69-7.net/lanc/Deserto.em.Fogo.2017.mp4
+
+#EXTINF:-1 tvg-logo="https://blog-imgs-110.fc2.com/f/i/l/filmesonlinex/20171109083307098.jpg",A SÍNDROME DE BERLIN [COLOR lightblue] - DUB - HD [/COLOR]
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ASNDRMDBRLM.mp4
+
+#EXTINF:-1 tvg-logo="https://www.daily-movies.ch/wp-content/uploads/2017/03/daily-movies.ch-The-House-1.jpg",A CASA CAIU: UM CASSINO NA VIZINHANÇA [COLOR lightblue] - DUB - HD [/COLOR]
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/ACSCUCSNVIZ.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/05/15/23/24/553484.jpg",NA MIRA DO ATIRADOR [COLOR lightblue] - DUB - FULL HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FHf8seXIRhwIKbdYAf0bB_jJUrJIhwNx
