@@ -3,11 +3,14 @@
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 18/12 ás 13:15 [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 20/12 ás 12:55 [/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DH3Z1s9XUAABH2-.jpg",KINGSMAN: O CÍRCULO DOURADO [COLOR lightblue] - DUB - HD [/COLOR]
-http://ic-68839700-0fcdb5-1bjdobr.s.loris.llnwd.net/httpdelivery/filmes2017/KINGSMAN2017DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Z7PJCTafL._SL1500_.jpg",TRANSPECOS [COLOR lightblue] - DUB - HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18BILu8x4Uizl79Hl2TxpEtinMAnpUoBe
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DH3Z1s9XUAABH2-.jpg",KINGSMAN: O CÍRCULO DOURADO [COLOR lightblue] - DUB - FULL HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1V2p6A-ZOgpTMDcHRlg6U61hnmS6WSEE4
 
 #EXTINF:-1 tvg-logo="https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/69/1080x1620_1504034437.jpg",OS GUARDOÕES [COLOR lightblue] - DUB - HD [/COLOR]
 https://ia801504.us.archive.org/32/items/O.G.2017.720p.Up.By.Ejds27/O.G.2017.720p.Up.By.Ejds27.mp4
@@ -15,8 +18,8 @@ https://ia801504.us.archive.org/32/items/O.G.2017.720p.Up.By.Ejds27/O.G.2017.720
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-80ywY5h5dHM/Wg9F0EhnLBI/AAAAAAAAPB0/PQU2fDu9s381vP_ICPPss1Eql7KHOz-vACLcBGAs/s1600/Logan%2BLucky%2B2017.jpg",LOGAN LUCKY - ROUBO EM FAMÍLIA [COLOR lightblue] - DUB - HD [/COLOR]
 https://ia601504.us.archive.org/30/items/L.L.R.E.F.2017.720p/L.L.R.E.F.2017.720p.mp4
 
-#EXTINF:-1 tvg-logo="http://content.numetro.co.za/posters_/resized/2970_1_3_1497955396.jpg",FEITO NA AMÉRICA [COLOR lightblue] - DUB - HD [/COLOR]
-http://ic-68839700-142213-1bjdobr.s.loris.llnwd.net/httpdelivery/filmes2017/FEITOAMERICADUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="http://content.numetro.co.za/posters_/resized/2970_1_3_1497955396.jpg",FEITO NA AMÉRICA [COLOR lightblue] - DUB - FULL HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TvoGwzOIhNbjLCb_kC-scRTV-P8wTRzY
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/06/02/18/05/358269.jpg",O QUE SERÁ DE NOZES 2 [COLOR lightblue] - DUB - HD [/COLOR]
 https://ia801502.us.archive.org/0/items/O.Q.S.D.N.2.2017.720p/O.Q.S.D.N.2.2017.720p.mp4
