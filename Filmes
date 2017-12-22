@@ -3,8 +3,21 @@
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 20/12 ás 12:55 [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 22/12 ás 19:15 [/COLOR]
 http://0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://static.cnbetacdn.com/article/2017/1213/c49ddddc71d9a9b.jpg",BRIGHT [COLOR lightblue] - DUB - FULL HD [/COLOR]
+http://cloud.popfilmeshd.net/FILMES/DUBLADO/BRIGHTDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - FULL HD [/COLOR]
+http://cloud.popfilmeshd.net/FILMES/DUBLADO/LIGDJDUB-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://www.cinesuperk.com.br/media/k2/items/cache/5cf8d68adfbc926b964baa0e9f5b8056_XL.jpg",OS PARÇAS [COLOR lightblue] - DUB - HD [/COLOR]
+http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/osppppc17ts.mp4
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/br.web.img2.acsta.net/pictures/17/08/25/19/04/419991.jpg",PICA-PAU: O FILME [COLOR lightblue] - DUB - HD [/COLOR]
+http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/piik1k1k1.mp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Z7PJCTafL._SL1500_.jpg",TRANSPECOS [COLOR lightblue] - DUB - HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18BILu8x4Uizl79Hl2TxpEtinMAnpUoBe
@@ -77,9 +90,6 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 
 #EXTINF:-1 tvg-logo="http://wolverdonfilmes.org/wp-content/uploads/2017/11/Filme-Tempos-Doces-Tempos-Amargos.jpg",TEMPOS DOCES, TEMPOS AMARGOS [COLOR lightblue] - DUB - HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - HDTS [/COLOR] 
-https://archive.org/download/L.D.J.HDTS/L.D.J.HDTS.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rNF9ITb.jpg",VOVÔ DISFARÇADO [COLOR lightblue] - DUB - FULL HD[/COLOR] 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DWr3caBlS56SpTXEOmpbOtgIh8ekbnct
