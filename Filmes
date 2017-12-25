@@ -3,14 +3,17 @@
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 22/12 ás 19:15 [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 25/12 ás 11:15 [/COLOR]
 http://0.0.0.0
 
+
+#EXTINF:-1 tvg-logo="https://mb.web.sapo.io/149da4271011dca575d0b11cd154fa60c1e973f0.jpg",CAÇADA BRUTAL [COLOR lightblue] - DUB - HD [/COLOR]
+http://cloud.popfilmeshd.net/FILMES/DUBLADO/CBDUB-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="https://static.cnbetacdn.com/article/2017/1213/c49ddddc71d9a9b.jpg",BRIGHT [COLOR lightblue] - DUB - FULL HD [/COLOR]
 http://cloud.popfilmeshd.net/FILMES/DUBLADO/BRIGHTDUB-ALTO.mp4
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - FULL HD [/COLOR]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DMdEyVzWAAE9X3L.jpg:large",LIGA DA JUSTIÇA [COLOR lightblue] - DUB - HDTS [/COLOR]
 http://cloud.popfilmeshd.net/FILMES/DUBLADO/LIGDJDUB-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="http://www.cinesuperk.com.br/media/k2/items/cache/5cf8d68adfbc926b964baa0e9f5b8056_XL.jpg",OS PARÇAS [COLOR lightblue] - DUB - HD [/COLOR]
@@ -27,6 +30,9 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 
 #EXTINF:-1 tvg-logo="https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/69/1080x1620_1504034437.jpg",OS GUARDOÕES [COLOR lightblue] - DUB - HD [/COLOR]
 https://ia801504.us.archive.org/32/items/O.G.2017.720p.Up.By.Ejds27/O.G.2017.720p.Up.By.Ejds27.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w640/8rQKB9i1e9DhBQhsXsgT0IjTez6.jpg",TROCA FATAL [COLOR lightblue] - DUB - HD [/COLOR]
+http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/TRFDB17.mp4
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-80ywY5h5dHM/Wg9F0EhnLBI/AAAAAAAAPB0/PQU2fDu9s381vP_ICPPss1Eql7KHOz-vACLcBGAs/s1600/Logan%2BLucky%2B2017.jpg",LOGAN LUCKY - ROUBO EM FAMÍLIA [COLOR lightblue] - DUB - HD [/COLOR]
 https://ia601504.us.archive.org/30/items/L.L.R.E.F.2017.720p/L.L.R.E.F.2017.720p.mp4
