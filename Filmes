@@ -3,7 +3,7 @@
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 28/12 ás 14:15 [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 01/01/18 ás 22:15 [/COLOR]
 http://0.0.0.0
 
 
@@ -31,8 +31,8 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DH3Z1s9XUAABH2-.jpg",KINGSMAN: O CÍRCULO DOURADO [COLOR lightblue] - DUB - FULL HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1V2p6A-ZOgpTMDcHRlg6U61hnmS6WSEE4
 
-#EXTINF:-1 tvg-logo="https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/69/1080x1620_1504034437.jpg",OS GUARDEÕES [COLOR lightblue] - DUB - HD [/COLOR]
-https://ia801504.us.archive.org/32/items/O.G.2017.720p.Up.By.Ejds27/O.G.2017.720p.Up.By.Ejds27.mp4
+#EXTINF:-1 tvg-logo="https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/69/1080x1620_1504034437.jpg",OS GUARDEÕES [COLOR lightblue] - DUB - FULL HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/124Ig_Xq074zuy111Mk5t1Klf6l5uuQ0w?e
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w640/8rQKB9i1e9DhBQhsXsgT0IjTez6.jpg",TROCA FATAL [COLOR lightblue] - DUB - HD [/COLOR]
 http://chronos.feralhosting.com/locaweb123/2017/filmes/2017/TRFDB17.mp4
