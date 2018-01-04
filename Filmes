@@ -3,9 +3,12 @@
 FILME TORRENT
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 01/01/18 ás 22:15 [/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLEMCDl.jpg",[COLOR yellow] FILMES ATUALIZADOS 04/01/18 ás 17:45 [/COLOR]
 http://0.0.0.0
 
+
+#EXTINF:-1 tvg-logo="http://filmesonlinexhd.biz/wp-content/uploads/2017/12/WHINDERSSON-NUNES-EM-PROPAROX%C3%8DTONA.jpg",Whindersson Nunes em Proparoxítona [COLOR lightblue] - DUB - HD [/COLOR]
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sEq2GRqLTytPWyB7e1AqWMICyecFau8X
 
 #EXTINF:-1 tvg-logo="http://www.spietati.it/public/bladeru2049_loc.jpg",BLADE RUNNER 2049 [COLOR lightblue] - DUB - HD [/COLOR]
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DoSrDN1u5cuzGU4pdYV5PgJxq8xyKoHG6w
